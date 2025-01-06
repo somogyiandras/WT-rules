@@ -1,0 +1,4649 @@
+COMPETITION RULES & INTERPRETATION
+경기규칙 및 해설
+
+In Force as of September 30, 2024
+
+Enacted: May 28, 1973
+Amended: Oct. 1, 1977
+Amended: Feb. 23, 1982
+Amended: Oct. 19, 1983
+Amended: Jun. 1, 1986
+Amended: Oct. 7, 1989
+Amended: Oct. 28, 1991
+Amended: Aug. 17, 1993
+Amended: Nov. 18, 1997
+Amended: Oct. 31, 2001
+Amended: Sept. 23, 2003
+Amended: Apr. 12, 2005
+Amended: Feb. 13, 2009
+Amended: Mar. 2, 2010
+Amended: Oct. 7, 2010
+Amended: Apr. 30, 2011
+Amended: Oct. 4, 2011
+Amended: Apr. 3, 2012
+Amended: Dec. 26, 2012
+Amended: Jul. 14, 2013
+Amended: Mar. 19, 2014
+Amended: Oct. 30, 2014
+mended: May 11, 2015
+Amended: Nov. 15, 2016
+Amended: Apr. 5, 2018
+Amended: May 14, 2019
+Amended: October 1, 2020
+Amended: February 16, 2022
+Amended: April 29, 2022
+Amended: July 12, 2022
+Amended: January 27, 2023
+Amended: September 1, 2023
+Amended: June 14, 2024
+Amended: September 30, 2024
+
+ⓒWorld Taekwondo Federation
+Seoul, Korea
+All rights reserved
+September 2024
+Published by the
+World Taekwondo Federation
+Printed in Korea
+
+Competition Rules & Interpretation
+Table of Contents
+Article 1. Purpose
+Article 2. Application
+Article 3. Competition Area
+Article 4. Contestant
+Article 5. Weight category
+Article 6. Classification and methods of competition
+Article 7. Duration of Contest
+Article 8. Drawing of Lots
+Article 9. Weigh-in
+Article 10. Procedure of the Contest
+Article 11. Permitted techniques and area
+Article 12. Valid points
+Article 13. Scoring and publication
+Article 14. Prohibited acts and penalties
+Article 15. Golden Point and decision of superiority
+Article 16. Decisions
+Article 17. Knock down
+Article 18. Procedure in the event of Knock down
+Article 19. Procedure of suspending the match
+Article 20. Technical Officials
+Article 21. Instant Video Replay
+Article 22. Deaf-Taekwondo
+Article 23. Sanctions
+Article 24. Other matters not specified in the Rules
+
+제 1 조 목적
+제 2 조 적용범위
+제 3 조 경기장
+제 4 조 선수
+제 5 조 체급
+제 6 조 경기의 종류와 방식
+제 7 조 경기시간
+제 8 조 추첨
+제 9 조 계체
+제 10 조 경기진행절차
+제 11 조 허용기술과 부위
+제 12 조 득점
+제 13 조 채점과 표출
+제 14 조 금지행위와 벌칙
+제 15 조 골든포인트와 우세의 판정
+제 16 조 경기결과판정
+제 17 조 위험한 상태
+제 18 조 위험한 상태에 대한 조처
+제 19 조 경기중단 상황의 처리
+제 20 조 기술임원
+제 21 조 비디오판독
+제 22 조 농아인 태권도 경기
+제 23 조 징계
+제 24 조 본 규칙에 명시되지 않은 사태
+
+1
+2
+3
+9
+15
+20
+22
+23
+24
+26
+28
+29
+31
+32
+38
+41
+44
+45
+49
+52
+56
+59
+60
+63
+
+Article 1
+제1조
+
+Purpose
+목적
+
+1
+
+The purpose of the Competition Rules is to provide standardized rules for all levels of Championships promoted and/or
+recognized by the World Taekwondo Federation (hereafter WT), WT Continental Unions (hereafter CUs), or/and WT
+Member National Associations (hereafter MNAs); the Competition Rules is intended to ensure that all matters related to
+competitions are conducted in a fair and orderly manner.
+
+1
+
+이 규칙은 본 연맹과 각 대륙연맹, 각국 협회가 주최 및 승인하는 모든 대회를 통일된 규칙
+아래 원활하고 공정하게 운영하는 데 그 목적이 있다.
+
+(Interpretation)
+The objective of Article 1 is to ensure the standardization of all Taekwondo competition worldwide. Any competition not following the
+fundamental principles of these rules cannot be recognized as Taekwondo competition.
+(해설)
+태권도 경기를 전 세계적으로 통일성 있게 운영하기 위하여 경기 운영의 모든 사항이 본 규칙에
+의거하여 결정, 진행된다는 뜻이다. 본 규칙의 근본 취지에 어긋나는 방식으로 이루어지는 경기는 태권도
+경기로서 인정될 수 없다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 1
+
+Article 2
+제2조
+
+Application
+적용범위
+
+1
+
+The Competition Rules shall apply to all the competitions to be promoted and/or recognized by the WT, each CU and
+MNA. However, any MNA wishing to modify some or any part of the Competition Rules must first gain the prior approval
+of the WT. In the case that a CU and/or a MNA violates the Competition Rules without prior approval of the WT, the WT
+may exercise its discretion to disapprove or revoke its approval of the concerned international tournament. In addition,
+the WT may take further disciplinary actions to the pertinent CU or MNA.
+
+2
+
+All competitions promoted or recognized by the WT and /or each CU and/or MNA shall observe the WT Statutes, the
+Bylaws of Dispute Resolution and Disciplinary Action, and all other pertinent rules and regulations.
+
+3
+
+All competitions promoted or recognized by the WT and /or each CU and/or MNA shall abide by the WT Medical Code
+and the WT Anti-Doping Rules.
+
+1
+
+이 규칙은 본 연맹과 각 대륙연맹, 각국 협회가 주최 및 승인하는 모든 대회에 적용된다. 대
+륙연맹이나 각국 협회가 이 규칙의 일부를 수정하여 사용하고자 할 때는 본 연맹의 사전 승
+인을 받아야 하며, 사전 승인 없이 규칙을 위반하는 대회에 대하여 연맹은 승인을 거부 혹은
+박탈할 수 있으며, 해당 대륙연맹 혹은 협회에 징계를 부과할 수 있다.
+
+2
+
+본 연맹과 각 대륙연맹, 각국 협회가 주최 및 승인하는 모든 대회에 세계연맹의 정관과 상벌
+규정 및 각종 규칙과 관련규정이 적용되어야 한다.
+
+3
+
+본 연맹과 각 대륙연맹, 각국 협회가 주최 및 승인하는 모든 대회에 본 연맹의 의무규정 및
+반도핑규정이 적용 되어야 한다.
+
+(Explanation#1)
+First gain the approval: Any organization desiring to make a change in any portion of the existing rules must submit to the WT the
+contents of the desired amendment along with the reasons for the desired changes. Approval for any changes in these rules must be
+received from the WT at least one month prior to the scheduled competition. WT can apply Competition Rules with modifications in its
+promoted Championships with the decision of the Technical Delegate after approval of the President.
+주-(1)
+수정을 원하는 단체는 그 이유와 내용을 세계태권도연맹에 제출하여 최소한 경기 1 개월 전에 승인을
+득하여야 한다. 세계태권도연맹 주최대회에서 경기규칙을 수정하여 사용하고자 할 때는 기술대표가
+총재의 승인을 득하여 시행할 수 있다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 2
+
+Article 3
+제3조
+
+2
+
+Competition Area
+경기장
+
+1
+
+The Contest Area shall have a flat surface without any obstructing projections, and be covered with an elastic and
+not slippery mat. The Contest Area may also be installed on a platform 0.6-1m high from the base, if necessary.
+The outer part of the Outer Line shall be inclined at a gradient of less than 30 degrees, for the safety of the
+contestants. One of the following shapes can be used for Contest Area.
+
+1.1
+
+Square-shape
+The Competition Area is comprised of a Contest Area and a Safety Area. The square-shape Contest Area shall be
+8m x 8m including 60cm boundary line. Surrounding the contest area, approximately equidistant on all sides, shall
+be the Safety Area. The size of Competition Area (which envelopes the Contest Area and the Safety Area) shall
+be no smaller than 10m x 10m and no larger than 12m x 12m. If the Competition Area is on a platform, the Safety
+Area can be increased as needed to ensure the safety of contestants. The Contest Area and the Safety Area may
+be different colors, as specified in the relevant competition’s Operational Manual.
+
+1.2
+
+Octagonal-shape
+The Competition Area is comprised of a Contest Area and a Safety Area. The Competition Area shall be square
+shaped and the size shall be no smaller than 10mx10m and no larger than 12mx12m. At the center of the
+Competition Areas shall be the octagonal-shape Contest Area. The Contest Areas shall measure approximately 8m
+in diameter, and each side of the octagon shall have a length of approximately 3.3m. Between the outer line of the
+Competition area and the boundary line of the Contest area is the Safety Area. The Contest Area and the Safety
+Area may be different colors, as specified in the relevant competition’s Operational Manual.
+
+Indication of positions
+2.1 The outer line of the Contest Area shall be called the Boundary Line(s) and the outer line of the Competition Area
+shall be called the Outer Line(s).
+2.2 The front outer line adjacent to the Recorder’s Desk shall be called Outer Line #1, and Clockwise from Outer Line
+#1, the other lines shall be called Outer Lines #2, #3, and #4. The Boundary Line adjacent to the Outer Line #1
+shall be called Boundary Line #1 and clockwise from Boundary Line #1, the other lines shall be called Boundary
+Lines #2, #3, and #4. In case of Octagonal Shape Contest Area, The Boundary Line adjacent to the Outer Line #1
+shall be called Boundary Line #1 and clockwise from Boundary Line #1, the other lines shall be called Boundary
+Lines #2, #3, #4, #5, #6, #7, and #8.
+2.3 Positions of Referee and Contestants at the beginning and end of the Match: The position of the Contestants shall
+be at the two opposing points, 1m from the center point of the Contest Area parallel to Outer Line #1. The Referee
+shall be positioned at a point 1.5m from the center of the Contest Area toward the Outer Line #3.
+2.4 Positions of Judges: The position of the 1st Judge shall be located at a point in minimum 2 m from the corner of the
+Boundary Line #2. The position of the 2nd Judge shall be located at a point in minimum 2 m outward from the center
+of the Boundary Line #5. The position of the 3rd Judge shall be located at a point in minimum 2 m from the corner
+of the Boundary Line #8. In case of two Judges setting the position of the 1st Judge shall be located at a point in
+minimum 3 m from the outer line #1 on the left of the mat and the 2nd Judge shall be located at a point in minimum
+3m from of the outer line #3 on the right. The positions of Judges may be altered to facilitate media, broadcasting
+and/or sports presentation.
+2.5 Position of Recorder & IVR: Position of Recorder & IVR shall be located at a point 2 m from the Outer Line #1.
+Position of Recorder may be altered to accommodate the environment of the venue and requirements from media
+broadcasting and/or sports presentation.
+2.6 Positions of Coaches: The position of the Coaches shall be marked at a point in minimum 2 m or more from the
+center point of the Outer Line of each contestant’s side. Position of the coaches may be altered to accommodate
+the environment of the venue and requirements from media broadcasting and/or sports presentation.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 3
+
+2.7 Position of Inspection desk: The position of the Inspection Desk shall be near the entrance of the Competition Area
+for the inspection of the contestants’ protective equipment.
+3
+
+Technical and Environmental Requirements for Competitiion Venues
+- The minimum illuminance at the competition venue requred for broadcasted events shall be ≥1,600 lux.
+- The illuminance at the training venue shall range between 750 and 900 lux.
+- The temperature of the competition venue shall be maintained between 17°C and 24°C.
+For G14 or higher-graded events, the minimum seating capacity of the competition venue shall be 4,000 seats.
+
+1
+
+경기장은 장애물이 없는 평평한 표면이어야 하고 탄력성이 있으며 미끄럽지 않은 매트로 한
+다. 필요에 따라 경기지역은 바닥에서부터 높이 0.6 - 1미터로 설치할 수 있으며 선수의 안전
+을 고려하여 외곽선 바깥 지역이 30도 이내의 경사각이 지도록 한다. 다음 경기지역의 모양
+중 하나를 적용할 수 있다.
+
+2
+
+1.1
+
+사각 모양
+경기장은 경기지역과 안전지역으로 구성된다. 폭 60cm 한계선을 포함한 8m x 8m
+정사각의 지역을 경기지역으로 하고, 경기지역을 둘러싼 외곽지역을 안전지역으로 한다.
+경기지역과 안전지역을 포함한 경기장은 10m x 10m 이상 12m x 12m 이하의 넓이로
+설치되어야 한다. 만약 경기장이 일정 높이의 경기대로 설치될 경우에는 선수의 안전을
+고려하여 안전지역의 넓이를 확장할 수 있다. 경기지역과 안전지역의 바닥은 다른
+색깔의 매트로 설치되어야 하며, 그 색깔은 해당 대회의 관련 경기 운영 매뉴얼에 따라
+결정된다.
+
+1.2
+
+팔각 모양
+경기장은 경기지역과 안전지역으로 구성된다. 경기지역과 안전지역을 포함한 경기장은
+10m x 10m 이상 12m x 12m 이하의 넓이의 정사각으로 설치되어야 한다. 경기지역은
+경기장 중앙에 마주보는 면 사이의 직경이 약 8m 이며 각 면의 길이가 약 3.3m 인
+팔각형으로 한다. 경기지역 한계선과 안전지역의 외곽선 사이를 안전지역으로 한다.
+경기지역과 안전지역의 바닥은 다른 색깔의 매트로 설치되어야 하며, 그 색깔은 해당
+대회의 관련 경기 운영 매뉴얼에 따라 결정된다.
+
+위치 표시
+2.1
+
+경기지역의 끝 선을 한계선(Boundary
+외곽선(Outer Line)이라 한다.
+
+Line)이라
+
+하고
+
+안전지역의
+
+끝
+
+선을
+
+2.2
+
+정면 기록석에 면한 외곽선을 제 1 외곽선이라 하고, 그로부터 시계방향으로 제 2, 제 3,
+제 4 외곽선이라 한다. 한계선의 경우, 제 1 외곽선에 평행하여 면한 것을 제 1
+한계선으로 하고 그로부터 시계방향으로 제 2, 제 3, 제 4 한계선으로 한다. 팔각
+경기장의 경우는 제 1 한계선으로부터 제 2, 제 3, 제 4, 제 5, 제 6, 제 7, 제 8 한계선으로
+한다.
+
+2.3
+
+선수와 주심의 위치: 경기의 시작과 종료 시 선수는 제 1 외곽선과 평행한 경기장
+중심으로부터 각 1m 떨어진 위치에 자리한다. 주심은 경기장 중심으로부터 제 3 외곽선
+쪽으로 1.5m 거리의 위치에 자리한다.
+
+2.4
+
+부심의 위치: 제 1 부심은 제 2 한계선 모서리로부터 최소 2 m 떨어진 곳에 자리한다.
+제 2 부심은 제 5 한계선 중심점으로부터 최소 2 m 떨어진 곳에 자리한다. 제 3 부심은
+제 8 한계선 모서리로부터 최소 2 m 떨어진 곳에 자리한다. 2 부심제의 경우 제 1 부심은
+제 1 한계선 왼쪽으로부터 최소 3 m, 그리고 제 2 부심은 제 3 한계선 오른쪽으로부터
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 4
+
+최소 3 m 떨어진곳에 자리한다. 단 방송 등 경기운영에 필요할 경우 부심의 위치를
+변경 할 수 있다.
+
+3
+
+2.5
+
+영상분석과 기록석: 영상분석과 기록석은 제 1 외곽선으로부터 2m 후방에 자리한다.
+그러나 중계방송 등 경기운영에 필요할 경우 그 위치를 변경할 수 있다.
+
+2.6
+
+코치석: 코치석은 외곽선으로부터 2 m 이상 떨어진 곳에 자리한다. 방송 또는 기타
+경기운영에 필요한 경우 그 위치를 조정할 수 있다.
+
+2.7
+
+검사대: 선수의 경기용품 및 보호구 착용의 적합성을 검사하기 위한 검사대는 경기장
+출입구에 설치하여야 한다.
+
+경기장의 기술적 환경적 조건
+방송되는 경기장의 최소 조도는 1600 럭스가 되어야 한다.
+훈련장 조도는 750 럭스에서 900 럭스 사이가 되어야 한다.
+경기장 온도는 17 도와 24 도 사이가 유지되어야 한다.
+G-14 혹은 그 이상 대회의 경우, 경기장은 최소 4,000 석 좌석 수용이 가능해야 한다.
+
+(Explanation #1)
+Elastic mat: The degree of elasticity and slipperiness of the mat must be approved by the WT before the competition.
+(Explanation #2)
+Color: The color scheme of the mat’s surface must avoid giving a harsh reflection, or tiring the contestant’s or spectator’s eyesight. The
+color scheme must also be appropriately matched to the contestant’s equipment, uniform and the surface of the Contest Area.
+(Explanation #3)
+Inspection Desk: At the Inspection desk, the inspector checks if all the materials worn by the contestant are approved by the WT and
+fit the contestant properly. In case they are found to be inappropriate, the contestant is requested to change the protective equipment.
+주-(1)
+탄력성 있는 매트: 탄력성과 미끄러움의 정도는 세계태권도연맹의 승인을 받아야 한다.
+주-(2)
+색상: 색상은 반사가 심하지 않고 선수나 관중에게 시각적 피로를 주지 않는 종류로서 선수의 도복,
+장비를 비롯한 경기지역 내 제반 색상의 배색이 고려되어야 한다.
+주-(3)
+검사대: 검사대에서는 검사원이 대전 선수가 착용한 모든 장비가 세계태권도연맹 공인 용품인지, 몸에 잘
+맞는지를 점검한다. 부적합하다고 판단될 경우, 검사원은 선수에게 장비 교체를 지시할 수 있다.
+
+.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 5
+
+WT Competition Rules and Interpretation in force as of June 14, 2024
+
+Page 6
+
+WT Competition Rules and Interpretation in force as of June 14, 2024
+
+Page 7
+
+Octagonal mat (puzzle 0.8m)
+
+WT Competition Rules and Interpretation in force as of June 14, 2024
+
+Octagonal roll mat
+
+Octagonal mat (puzzle 1.0m)
+
+Page 8
+
+Article 4
+제4조
+1
+
+Contestant
+선수
+
+Qualification of Contestant
+1.1
+Holder of the nationality of the participating team
+1.2
+One recommended by the WT MNA
+1.3
+Holder of Taekwondo Dan/Poom certificate issued by the Kukkiwon
+1.4
+Holder of the WT Global Athlete License (GAL)
+1.5
+Contestants at the age of at least 17 years old for Senior in the year the pertinent tournament is held (15-17
+years old for Junior Championships and 12-14 years old for Cadet Championships). Ages for Youth Olympic
+Games might be different depending on the decision of the IOC.
+
+(Interpretation)
+The age limit is based on the year, not on the date. For instance, if the Junior Championships are held on June 11, 2013, those
+contestants born on between January 1, 1996 and December 31, 1998 are eligible to participate.
+(Interpretation)
+Article 4.1 Qualification of Contestant: applied at WT promoted championships, CU promoted championships, multi-sports games, and
+approved event(s) of WT recognized international open taekwondo tournament.
+(Interpretation)
+Article 4.1.1 & 4.1.2 shall not be applied to WT recognized international open taekwondo tournament.
+(해설)
+참가 선수 연령은 대회 개최 날짜가 아닌 개최 연도를 기준으로 한다. 예를 들어 주니어대회의 경우,
+개최 연도에 15 세가 되는 선수부터 17 세인 선수를 말한다. 2013 년 6 월 11 일에 대회가 개최될 경우, 1996 년
+1 월 1 일부터 1998 년 12 월 31 일 사이에 태어난 선수가 참가 자격이 있으며, 대회 개최 연도에서 15 를 뺀
+연도부터 17 을 뺀 연도까지 출생한 경우 참가 자격이 있다.
+(해설)
+자격 조항 4.1 은 세계연맹 및 대륙연맹 주최대회, 종합경기대회에 적용되며 또한 당 연맹 승인대회에서는
+인가된 경기에 한해 적용된다.
+(해설)
+당 연맹이 승인한 국제 오픈 대회에는 조항 4.1.1 과 4.1.2 는 적용 되지 않는다.
+
+2
+
+Contestant uniform and competition equipment
+2.1
+At the competitions enlisted in the WT Event Calendar, dobok or competition uniform and all competition
+equipment such as but not limited to mats, PSS, IVR and protective equipment must be those ones approved
+by the WT.
+2.1.1
+2.2
+
+2.3
+2.4
+
+2.5
+
+Specifications of dobok or competition uniform, protective equipment, and all other equipment shall be set
+forth separately.
+A contestant shall wear a WT-approved dobok or competition uniform, trunk PSS, head PSS, groin guard,
+forearm guards, shin guards, gloves, sensing socks (in the case of using PSS) and be equipped with a
+mouthguard before entering the Field of Play. Head pss must be firmly tucked under left arms when entering into
+competition area. Head pss shall be put on the head following instructions of the referee before the start of the
+contest.
+In case of wearing dobok, the forearm and shin guards shall be worn beneath garment. In case of wearing
+competition uniform, the forearm and shin guards shall be worn in the garment or beneath garment. The groin
+guards shall be worn beneath garment for both cases.
+The contestant shall bring the WT-approved protective equipment, as well as gloves and the mouthguard, for
+his/her personal use. Wearing any item on the head other than the head pss shall not be permitted. The head
+protector for cadet athletes may be equipped with face shield. Any religious item shall be worn beneath the head
+pss and inside the dobok or competition uniform and shall not cause harm or obstruct the opposing contestant.
+Responsibilities of the organizing committee for competition equipment
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 9
+
+2.5.1
+
+The Organizing Committee of WT-promoted championships shall be responsible for preparing the
+following WT-recognized equipment for the use at the championships at its own expenses for all related
+materials, equipment and the related technicians for installation and operation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trunk PSS and Head PSS-related items and equipment – the choice of the PSS company shall
+be decided by the WT (For World Taekwondo Cadet Championships, conventional head
+protector with face shield shall be used)
+Mats
+Other protective equipment as reserve (Sensing socks, gloves, shin guards, forearm guards,
+groin guards and dobok or competition uniforms)
+Instant Video Replay (IVR) system and its related equipment, including but not limited to
+cameras (minimum 3 cameras per court and minimum 4 cameras, including one overhead
+camera for the semifinals and final); When broadcasting is available, the broadcast feed must
+be made available at the Video Replay desk for review purpose.
+Jumbo screen (for display of competition progress match tree, athlete profile. etc) inside the
+Field of Play (FOP)
+Spectator scoreboards (for display of instant video replay screen; minimum 12)
+Scoreboards at the court (for display of scoring; minimum 4 per court)
+Real Time Display System (RTDS) at athlete calling area and warm up area
+Real Time Referee Calling System (RTRCS) at referee lounge or waiting area.
+TV screen for showing competitions in live at referee lounge
+Metal detector at the inspection desk (minimum 2)
+Other competition equipment not prescribed in this article, if any, shall be described in
+competition’s Operational Manual of the WT.
+
+2.5.2
+
+The Organizing Committee of WT-promoted championships shall be responsible for preparing the
+following equipment and materials, etc. at the training venue at its own expenses.
+
+Trunk PSS and Head PSS-related items and equipment
+
+Mats
+
+Stationary Bicycle
+
+Running Machine
+
+Emergency equipment (refer to medical code for detailed information)
+
+Ice in the baskets
+
+Refrigerators
+
+Bottled water
+
+2.5.3
+
+It is the responsibility of the Organizing Committee to obtain approval of the WT on the number of the
+equipment to be prepared.
+
+3
+
+Anti-Doping Test
+3.1
+At the taekwondo events promoted or recognized by the WT, any use or administration of drugs or chemical
+substances described in the WADA Prohibited List is prohibited. The WADA Anti-doping Code shall be applied
+to the taekwondo competitions of the Olympic Games and other multi-sports Games. The WT Anti-Doping Rules
+shall be applied to WT promoted and/or recognized championships.
+3.2
+The WT may carry out any doping tests deemed necessary to ascertain if a contestant has committed a breach
+of this rule, and any contestant who refuses to undergo this testing or who proves to have committed such a
+breach shall be removed from the final standings, and the record shall be transferred to the contestant next in
+line in the competition standings.
+3.3
+The Organizing Committee shall be responsible for making all necessary preparations for conducting doping
+tests.
+3.4
+The details of the WT Anti-Doping Rules shall be enacted as part of the bylaws.
+
+1.
+
+자격
+1.1
+1.2
+1.3
+1.4
+
+출전국 국적 소지자
+출전국 협회가 추천한 자
+국기원에서 발행한 단/품증 소지자
+세계태권도연맹 국제선수등록증 소지자
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 10
+
+1.5
+
+2
+
+대회 당해 년도 시니어 기준 17세 이상인 자 (주니어대회의 경우 15-17세인 자, 카뎃대
+회의 경우 12-14세인 자). 유스올림픽의 나이 제한은 IOC의 결정에 따른다.
+
+도복과 경기용품
+2.1
+당 연맹 캘린더에 등재되어 있는 모든 대회에서 사용되는 매트, 전자호구, 비디오판독
+시스템, 보호구 등 제반 경기 용품 및 출전하는 선수의 도복 또는 경기복은 반드시 당
+연맹 공인용품이어야 한다.
+2.1.1 도복 또는 경기복과 보호구 및 태권도 경기 제반 장비에 대한 규격은 별도의 세
+칙으로 정한다.
+2.2
+경기에 임하는 선수는 본 연맹이 공인한 경기복 (도복), 몸통 보호대, 머리 보호대, 샅
+보호대, 팔 보호대, 다리 보호대, 장갑, 전자감응양말 (전자호구 사용 시), 마우스가드를
+경기장에 들어오기 전에 착용하여야 한다. 머리보호대는 왼팔에 끼고 입장하여 주심의
+신호에 따라 착용한다.
+2.3
+도복 착용 시 팔 보호대 와 다리 보호대는 도복 안에 입어야 하며 경기복 착용 시에는
+팔 보호대 와 다리 보호대는 부착되거나 삽입될 수 있다. 샅 보호대는 어느 경우에도
+안에 입어야 한다.
+2.4
+선수는 개인 장비에 대해서 본 연맹이 공인한 보호구와 장갑, 마우스피스를 지참하여
+야 한다. 머리 보호대 외에 다른 부착물의 사용은 불허한다. 유소년 머리보호대는 얼굴
+보호기와 함께 사용될 수 있다. 종교와 관련된 것인 경우 머리 보호대와 도복 또는 경
+기복 안에 착용해야 하며, 상대 선수에게 해를 끼치지 않는 것이어야 한다.
+2.5
+조직위원회의 경기용품 관련 준비 의무
+2.5.1 당 연맹 주최대회의 조직위원회는 아래와 같은 당 연맹 공인용품과 그 운용에 필
+요한 기술진과 장비 등을 조직위원회의 비용으로 준비해야 한다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.5.2
+
+몸통 전자호구 및 머리 전자호구 관련 용품 - PSS 공급업자는 당 연맹에
+서 선택한다. (카뎃 대회에서는 얼굴 막이가 겸비 된 머리보호대가 사용된
+다)
+매트
+여타 예비 보호 장비 (전자감응양말, 손 보호대, 정강이보호대, 팔 보호대,
+샅 보호대 및 도복)
+비디오판독시스템 및 관련 용품 : 코트당 최소 3개의 카메라와 준결승, 결
+승 시 Overhead 카메라 포함 4개, 경기 중계가 가능할 경우 비디오판독에
+사용될 영상 제공
+경기장 내 점보스크린 (경기진행상황 표출)
+관중용 스크린 (최소 12개로서 비디오판독화면 표출)
+전광판 (코트 당 최소 4대)
+선수 호출 장소 및 경기장 내 훈련장소에 실시간 경기진행상황 시스템
+심판 대기 장소에 실시간 심판배정상황 시스템
+심판 라운지에 실시간 경기를 시청할 수 있는 TV 스크린
+검사대 금속 탐지기 (최소 2개)
+상기 열거되지 않은 용품의 경우 당 연맹 경기 운영 매뉴얼에 따른다.
+
+당 연맹 주최 대회의 조직위원회는 아래와 같은 용품을 조직위원회의 비용으로
+훈련 장소에 구비하여야 한다.
+
+전자호구 및 전자호구 관련 용품
+
+매트
+
+고정식 자전거
+
+러닝머신
+
+긴급의료장비 (세부내용은 당 연맹의 의무규정을 따른다)
+
+얼음
+
+냉장고
+
+병에 든 생수
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 11
+
+2.5.3
+
+3
+
+조직위원회는 필요한 장비와 용품의 수량에 대해서 당 연맹의 사전 승인을 받아야
+한다.
+
+반도핑검사
+3.1
+당 연맹이 주최 또는 승인하는 대회에서는 세계도핑방지기구(WADA) 금지약물 리스트에
+포함된 약물을 사용 또는 복용하여서는 안 된다. 단, 올림픽과 대륙 별 종합경기에 대
+해서는 세계도핑방지기구(WADA)의 규정에 따른다. 세계태권도연맹이 주최 및 승인하는
+모든 대회에 대해서는 당 연맹의 반도핑규정을 따른다.
+3.2
+본 연맹은 필요에 따라 약물 복용 여부를 검사하며, 검사에 불응하거나 금지하는 약물
+을 복용한 사실이 판명되면 선수는 등위가 박탈되며, 차 하위자가 그 등위를 승계한다.
+3.3
+대회조직위원회는 필히 반도핑검사를 할 수 있도록 준비해야 한다.
+3.4
+당 연맹 반도핑규정은 별도의 세칙으로 정한다.
+
+(Explanation #1)
+Holder of the nationality of the participating team:
+When a contestant is a representative of a national team, his/her nationality is decided by citizenship of the country he/she is
+representing before submission of the application to participate. Verification of citizenship is done by inspection of the passport.
+A competitor who is a national of two or more countries at the same time may represent either one of them, as he/she may elect.
+However, in case of changing nationality, he/she is allowed to represent other country only if thirty-six (36) months have passed since
+competitor represented a country in such events:
+i)
+Olympic Games
+ii)
+Qualification Tournaments for Olympic Games
+iii)
+4 year cycle continental multi sports games
+iv)
+2 year cycle continental championships
+v)
+World Championships promoted by the WT
+This period may be reduced or even cancelled, with the agreement of the NOCs and the WT. The WT may take disciplinary actions at
+any time against the athlete and his/hers MNA that violates this article including but not limited to deprival of the achievements.
+(Explanation #2)
+One recommended by the WT MNA: Each MNA is responsible for control of non-pregnancy and gender and shall ensure that all team
+members have been given medical exams that show them to be of adequate health and fitness to participate. Also each MNA assumes
+full responsibilities for accident and health insurance as well as the civil liabilities for their contestants and officials during the WTpromoted championships.
+(Explanation #3)
+Mouthguard:
+The color of the mouthguard is limited to white or transparent. It must be at least 3mm thickness and cover entire upper teeth. Athletes
+with dental braces needs to wear special mouthguard for braces, that covers both upper and lower teeth, recommended by their dentist
+and submit the letter from their dentist stating that the athlete is safe to compete with the mouthguard that the dentist
+recommended.(Refer to WT Mouthguard, Taping, Brace, Piercing rules for detailed information.)
+(Explanation #4)
+Head PSS: The color of head pss other than blue or red shall not be permitted to compete.
+(Explanation #5)
+Instant Video Replay System: It is the responsibility of the Organizing Committee to ensure broadcasting feed is provided for Instant
+Video Replay for the matches requested by the WT.
+(Explanation #6)
+Taping: Taping of feet and hands will be strictly checked during the athlete inspection process. The inspector may request the WT
+Commission Doctor’s approval for excessive taping. Contestants need to take off taping on general weigh-in to see whether there is
+any open wound, cut or bleeding. (Refer to WT Mouthguard, Taping, Brace, Piercing rules for detailed information.)
+(Explanation #7)
+Any athlete who fails to wear appropriate safety protection gear and equipment or remove potentially harmful material from their
+body at the inspection as below (1) ~ (3) shall not be allow to participate in the competition. (Refer to WT Mouthguard, Taping, Brace,
+piercing rules and WT Medical Code Appendix III for detailed information.)
+(1) Any athlete whose protection gear (such as head, body, groin, hand, foot protector and mouthguard) has either inadequate
+body part coverage by the gear, inappropriate size, or significant defect of shape (or material).
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 12
+
+(2) Any athlete who does not have proper mouthguard per WT mouthguard rules at the inspection and does not have proper
+mouthguard at any time during the match, or fail to wear proper mouthguard despite of receiving a warning by an inspection
+referee, center referee or WT commissioned doctor.
+(3) Any athlete who has piercing, earing or any hard material in the face or any body part at the inspection or during the match
+despite of receiving a warning by an inspection referee, center referee or WT commissioned doctor.
+(Explanation #8)
+Any athlete who participate in competition must have valid annual periodic health evaluation (or medical certificate). Without valid annual
+Medical Certificate shall not be allowed to participate in the competition Medical Certificate. (Refer to WT medical code 8.3. Periodic
+Health Evaluation and Appendix III A. Medical Certificate for detailed information)
+(Explanation #9)
+Any athlete shall be disqualified for participation in competition if the athlete does not follow the safety protection equipment rule, has
+any health conditions that may jeopardized the safety by jurisdiction or have disqualifying conditions in the medical certificate. (refer to
+WT medical code Appendix III B. Disqualification for detailed information)
+(Explanation #10)
+Any athlete must have valid travel health insurance for the competition to participate and submit the copy of the health insurance
+certificate to GMS upon registration.
+주-(1)
+출전국 국적 소지자: 선수가 국가를 대표하는 경우에 있어서 그 자격 요건의 기준은 참가 신청 당시 이전에
+당해국의 국적을 취득한 자이어야 하며 이의 증명은 여권에 따라 행한다. 이중국적소지자의 경우 두 국적
+중 하나를 선택할 수 있다. 단, 올림픽, 올림픽선발전, 4 년 주기 대륙종합경기대회, 2 년 주기 대륙선수권대회,
+세계연맹이 주최하는 세계선수권대회에서 국가 대표로 참가한 선수 경우 최소 36 개월이 경과한 후에 다른
+국가를 대표하여 대회에 참가할 수 있다. 이 기간 (36 개월)은 해당 NOC 와 당 연맹의 합의 시 경감되거나
+취소될 수도 있다. 당 연맹은 이를 지키지 않은 협회와 해당 선수에 대해 언제라도 성적 박탈을 포함한
+징계 조치를 취할 수 있다..
+주-(2)
+출전국 협회가 추천한 자: 각 출전국 협회는 성별, 임신 여부 등에 대해 사전 확인할 책임이 있으며 추천
+선수가 경기출전에 위험이 없는 신체적 상태를 확인하는 의사의 검사를 실시하여야 한다. 또 연맹
+주최대회에서 선수 혹은 임원의 사고나 안전 등에 대해 각 출전국가 협회가 책임을 진다.
+주-(3)
+마우스가드: 마우스가드의 색깔은 흰색이나 혹은 투명한 색으로 제한하며, 마우스가드는 최소 3mm 의 두께와
+함께 윗니 전체를 보호하여야 한다. 치아 교정기 착용 시에는 윗니와 아랫니를 모두 보호하는 특수한
+마우스가드를 치과의사에 추천에 따라 착용하여야 하며 이때에는 특수한 마우스가드가 경기 시 착용해도
+안전하다는 치과의사의 소견서를 당 연맹에 제출하여야 한다. (세부내용은 당 연맹의 마우스가드, 테이핑,
+관절아대 및 피어싱 규정을 따른다)
+주-(4)
+머리보호대: 머리보호대의 색은 청색 혹은 적색이어야 하며 그 외 색은 허용되지 않는다.
+주-(5)
+비디오판독시스템: 당 연맹의 요청이 있을 시
+제공하여야 한다.
+
+조직위원회는 방송중계용 화면을 비디오판독을 위해
+
+주-(6)
+테이핑: 손과 발의 테이핑은 검사대에서 이를 엄격하게 확인하도록 한다. 과도한 테이핑에 관해서는 당 연맹
+임석의사 (커미션닥터) 의 승인을 득해야 한다. 일반 계체 시에는 테이핑 없이 참가해야 하는데 이는 피부가
+벌어진 상처 (창상) 이나 열상 혹은 출혈이 있는지를 확인 하기 위함이다. (세부내용은 당 연맹의 마우스가드,
+테이핑, 관절아대, 피어싱 규정을 따른다)
+주-(7)
+아래의 (1) ~ (3)과 같이 제대로된 안전 보호 장비를 착용하지 않거나 혹은 잠재적으로 위험할 수 있는 물건을
+신체에서 제거하지 않은채 검사간 적발된 선수의 경우 대회에 참가할 수 없다. (세부내용은 당 연맹의
+마우스가드, 테이핑, 관절아대, 피어싱 규정과 의무규정 부록 III 을 따른다)
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 13
+
+(1) 보호 장비(머리 보호대, 몸통 보호대, 샅 보호대, 팔 보호대, 다리 보호대, 마우스가드)를 착용한
+선수가 보호 장비에 의해 신체부위가 충분히 보호되지 않거나, 보호 장비의 크기가 부적합하거나,
+확연한 형체(혹은 소재)의 결함이 있는 경우
+(2) 검사간 규정에 맞는 적절한 마우스가드를 착용하지 않거나, 경기 중 규정에 명시된 마우스가드를
+착용하지 않은게 적발이 되거나, 혹은 명시된 마우스가드를 착용하지 않아 검사 담당 심판, 주심,
+혹은 세계태권도연맹 지정 임석 의사로부터 경고를 받고도 규정에 맞는 적절한 마우스가드를
+착용하지 않는 경우
+(3) 검사간 혹은 경기 중 피어싱, 귀걸이, 혹은 얼굴이나 신체에 단단한 물체를 착용하였다고 검사
+담당 심판, 주심, 혹은 세계태권도연맹 지정 임석 의사로부터 경고를 받고도 이를 시정하지 않은
+경우
+주-(8)
+대회에 참가한 선수는 연간 정기 건강 검진 (혹은 의료 확인서)이 유효한 상태이여야만 한다. 참가하는
+시점에서 유효한 연간 의료 확인서 없이는 대회에 참여할 수 없다.(세부 내용은 당 연맹의 의무규정 8.3
+정기 건강 평가와 부록 III A. 의료 확인서를 따른다)
+주-(9)
+안전 보호장비 규정을 준수하지 않거나, 의료 판단 하에 안전에 위협이 되는 건강 상태이거나, 의료
+확인서에 실격에 해당하는 건강 상태가 확인될 경우 대회 참가 자격이 상실된다.(세부내용은 당 연맹의
+의무규정 부록 III B. 실격을 따른다)
+주-(10)
+대회에 참여하는 모든 선수는 여행자 건강보험에 가입되어야 하며 등록 간 유효한 건강 보험 증명서
+복사본을 GMS 에 제출하여야 한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 14
+
+Article 5
+제5조
+1
+
+World Weight categories are divided into men’s and women’s divisions, and classified into as follows.
+Men’s division
+Under 54kg
+Under 58kg
+Under 63kg
+Under 68kg
+Under 74kg
+Under 80kg
+Under 87kg
+Over 87kg
+
+2
+
+Not exceeding 58kg
+Over 58kg & not exceeding 68kg
+Over 68kg & not exceeding 80kg
+Over 80kg
+
+Women’s division
+Under 49kg
+Not exceeding 49kg
+Under 57kg
+Over 49kg & not exceeding 57kg
+Under 67kg
+Over 57kg & not exceeding 67kg
+Over 67kg
+Over 67kg
+
+Junior Weight categories are classified as follows.
+Men’s division
+Under 45kg
+Under 48kg
+Under 51kg
+Under 55kg
+Under 59kg
+Under 63kg
+Under 68kg
+Under 73kg
+Under 78kg
+Over 78kg
+
+4
+
+Not exceeding 54kg
+Over 54 kg & Not exceeding 58 kg
+Over 58 kg & Not exceeding 63 kg
+Over 63 kg & Not exceeding 68 kg
+Over 68 kg & Not exceeding 74 kg
+Over 74 kg & Not exceeding 80 kg
+Over 80 kg & Not exceeding 87 kg
+Over 87 kg
+
+Women’s division
+Under 46kg
+Not exceeding 46 kg
+Under 49kg
+Over 46 kg & Not exceeding 49 kg
+Under 53kg
+Over 49 kg & Not exceeding 53 kg
+Under 57kg
+Over 53 kg & Not exceeding 57 kg
+Under 62kg
+Over 57 kg & Not exceeding 62 kg
+Under 67kg
+Over 62 kg & Not exceeding 67 kg
+Under 73kg
+Over 67 kg & Not exceeding 73 kg
+Over 73kg
+Over 73 kg
+
+Olympic Weight categories are classified as follows.
+Men’s division
+Under 58kg
+Under 68kg
+Under 80kg
+Over 80kg
+
+3
+
+Weight category
+체급
+
+Not exceeding 45kg
+Over 45 kg & Not exceeding 48 kg
+Over 48 kg & Not exceeding 51 kg
+Over 51 kg & Not exceeding 55 kg
+Over 55 kg & Not exceeding 59 kg
+Over 59 kg & Not exceeding 63 kg
+Over 63 kg & Not exceeding 68 kg
+Over 68 kg & Not exceeding 73 kg
+Over 73 kg & Not exceeding 78 kg
+Over 78 kg
+
+Women’s division
+Under 42kg
+Under 44kg
+Under 46kg
+Under 49kg
+Under 52kg
+Under 55kg
+Under 59kg
+Under 63kg
+Under 68kg
+Over 68kg
+
+Not exceeding 42 kg
+Over 42 kg & Not exceeding 44 kg
+Over 44 kg & Not exceeding 46 kg
+Over 46 kg & Not exceeding 49 kg
+Over 49 kg & Not exceeding 52 kg
+Over 52 kg & Not exceeding 55 kg
+Over 55 kg & Not exceeding 59 kg
+Over 59 kg & Not exceeding 63 kg
+Over 63 kg & Not exceeding 68 kg
+Over 68 kg
+
+Youth Olympic Weight categories are classified as follows.
+Men’s division
+Under 48kg
+Under 55kg
+Under 63kg
+Under 73kg
+Over 73kg
+
+Not exceeding 48kg
+Over 48kg & not exceeding 55kg
+Over 55kg & not exceeding 63kg
+Over 63kg & not exceeding 73kg
+Over 73kg
+
+Women’s division
+Under 44kg
+Not exceeding 44kg
+Under 49kg
+Over 44kg & not exceeding 49kg
+Under 55kg
+Over 49kg & not exceeding 55kg
+Under 63kg
+Over 55kg & not exceeding 63kg
+Over 63kg
+Over 63kg
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 15
+
+5
+
+Cadet Weight categories are classified as follows.
+Men’s division
+Under 33kg
+Under 37kg
+Under 41kg
+Under 45kg
+Under 49kg
+Under 53kg
+Under 57kg
+Under 61kg
+Under 65kg
+Over 65kg
+
+Women’s division
+Under 29kg
+Under 33kg
+Under 37kg
+Under 41kg
+Under 44kg
+Under 47kg
+Under 51kg
+Under 55kg
+Under 59kg
+Over 59kg
+
+Not exceeding 33kg
+Over 33kg & not exceeding 37kg
+Over 37kg & not exceeding 41kg
+Over 41kg & not exceeding 45kg
+Over 45kg & not exceeding 49kg
+Over 49kg & not exceeding 53kg
+Over 53kg & not exceeding 57kg
+Over 57kg & not exceeding 61kg
+Over 61kg & not exceeding 65kg
+Over 65kg
+
+Not exceeding 29kg
+Over 29kg & not exceeding 33kg
+Over 33kg & not exceeding 37kg
+Over 37kg & not exceeding 41kg
+Over 41kg & not exceeding 44kg
+Over 44kg & not exceeding 47kg
+Over 47kg & not exceeding 51kg
+Over 51kg & not exceeding 55kg
+Over 55kg & not exceeding 59kg
+Over 59kg
+
+5.1 Cadet Height categories are classified as follow.
+Men’s division
+Cadet contestants’ Height
+Under 148cm
+Not exceeding 148cm
+Under 152cm
+Over 148cm & not exceeding 152cm
+Under 156cm
+Over 152cm & not exceeding 156cm
+Under 160cm
+Over 156cm & not exceeding 160cm
+Under 164cm
+Over 160cm & not exceeding 164cm
+Under 168cm
+Over 164cm & not exceeding 168cm
+Under 172cm
+Over 168cm & not exceeding 172cm
+Under 176cm
+Over 172cm & not exceeding 176cm
+Under 180cm
+Over 176cm & not exceeding 180cm
+Over 180cm
+Over 180 cm
+
+MAX. Weight
+45kg
+48kg
+51kg
+53kg
+56kg
+59kg
+61kg
+64kg
+67kg
+80kg
+
+MIN. Weight
+33kg
+35kg
+37kg
+39kg
+41kg
+43kg
+45kg
+47kg
+49kg
+52kg
+
+Women’s division
+Cadet contestants’ Height
+Under 144cm
+Not exceeding 144cm
+Under 148cm
+Over 144cm & not exceeding 148cm
+Under 152cm
+Over 148cm & not exceeding 152cm
+Under 156cm
+Over 152cm & not exceeding 156cm
+Under 160cm
+Over 156cm & not exceeding 160cm
+Under 164cm
+Over 160cm & not exceeding 164cm
+Under 168cm
+Over 164cm & not exceeding 168cm
+Under 172cm
+Over 168cm & not exceeding 172cm
+Under 176cm
+Over 172cm & not exceeding 176cm
+Over 176cm
+Over 176 cm
+
+MAX. Weight
+43kg
+45kg
+48kg
+51kg
+53kg
+56kg
+59kg
+61kg
+64kg
+75kg
+
+MIN. Weight
+32kg
+33kg
+35kg
+37kg
+39kg
+41kg
+43kg
+45kg
+47kg
+50kg
+
+6.
+
+Team Weight range are classified as follows.
+Division
+
+Male pair
+
+Female pair
+
+Maximum
+number of
+athletes
+
+2
+
+2
+
+160kg or less
+
+135kg or less
+
+130kg or less
+
+110kg or less
+
+Total
+weight
+range
+
+*
+**
+
+Male Team
+
+Female Team
+
+Mixed Team
+
+4
+
+3
+
+4
+
+3
+
+4
+(Maximum 2 male & 2 female)
+
+300kg
+or less
+
+240kg
+or less
+
+260kg
+or less
+
+200kg
+or less
+
+2 female athletes: 135kg or less
+2 male athletes: 160kg or less
+
+Substitute athlete(s) shall be participated in the weigh-in.
+If the existing athlete(s) is replaced by substitute athlete(s), the total weight of four athletes including the substitute
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 16
+
+athlete(s), excluding the replaced existing athlete(s), shall be recalculated and applied.
+1
+
+시니어 경기 체급은 남자, 여자부로 구분하며 다음과 같이 분류된다.
+남자부
+54kg 이하
+58kg 이하
+63kg 이하
+68kg 이하
+74kg 이하
+80kg 이하
+87kg 이하
+87kg 초과
+
+2
+
+여자부
+49kg 이하
+57kg 이하
+67kg 이하
+67kg 초과
+
+58kg 까지
+58kg 초과 68kg 까지
+68kg 초과 80kg 까지
+80kg 초과
+
+49kg 까지
+49kg 초과 57kg 까지
+57kg 초과 67kg 까지
+67kg 초과
+
+주니어 경기 체급은 다음과 같다.
+남자부
+45kg 이하
+48kg 이하
+51kg 이하
+55kg 이하
+59kg 이하
+63kg 이하
+68kg 이하
+73kg 이하
+78kg 이하
+78kg 초과
+
+4
+
+46 kg 까지
+46 kg 초과 49 kg 까지
+49 kg 초과 53 kg 까지
+53 kg 초과 57 kg 까지
+57 kg 초과 62 kg 까지
+62 kg 초과 67 kg 까지
+67 kg 초과 73 kg 까지
+73 kg 초과
+
+올림픽 경기 체급은 다음과 같다.
+남자부
+58kg 이하
+68kg 이하
+80kg 이하
+80kg 초과
+
+3
+
+54kg 까지
+54 kg 초과 58 kg 까지
+58 kg 초과 63 kg 까지
+63 kg 초과 68 kg 까지
+68 kg 초과 74 kg 까지
+74 kg 초과 80 kg 까지
+80 kg 초과 87 kg 까지
+87 kg 초과
+
+여자부
+46kg 이하
+49kg 이하
+53kg 이하
+57kg 이하
+62kg 이하
+67kg 이하
+73kg 이하
+73kg 초과
+
+45kg 까지
+45 kg 초과 48 kg 까지
+48 kg 초과 51 kg 까지
+51 kg 초과 55 kg 까지
+55 kg 초과 59 kg 까지
+59 kg 초과 63 kg 까지
+63 kg 초과 68 kg 까지
+68 kg 초과 73 kg 까지
+73 kg 초과 78 kg 까지
+78 kg 초과
+
+여자부
+42kg 이하
+44kg 이하
+46kg 이하
+49kg 이하
+52kg 이하
+55kg 이하
+59kg 이하
+63kg 이하
+68kg 이하
+68kg 초과
+
+42 kg 까지
+42 kg 초과 44 kg 까지
+44 kg 초과 46 kg 까지
+46 kg 초과 49 kg 까지
+49 kg 초과 52 kg 까지
+52 kg 초과 55 kg 까지
+55 kg 초과 59 kg 까지
+59 kg 초과 63 kg 까지
+63 kg 초과 68 kg 까지
+68 kg 초과
+
+유스올림픽 경기 체급은 다음과 같다.
+남자부
+48kg 이하
+55kg 이하
+63kg 이하
+73kg 이하
+73kg 초과
+
+48kg 까지
+48kg 초과 55kg 까지
+55kg 초과 63kg 까지
+63kg 초과 73kg 까지
+73kg 초과
+
+여자부
+44kg 이하
+49kg 이하
+55kg 이하
+63kg 이하
+63kg 초과
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+44kg 까지
+44kg 초과 49kg 까지
+49kg 초과 55kg 까지
+55kg 초과 63kg 까지
+63kg 초과
+
+Page 17
+
+5
+
+카뎃 경기 체급은 다음과 같다.
+남자부
+
+여자부
+
+33kg 이하
+
+33kg 까지
+
+29kg 이하
+
+29kg 까지
+
+37kg 이하
+
+33kg 초과 37kg 까지
+
+33kg 이하
+
+29kg 초과 33kg 이하
+
+41kg 이하
+
+37kg 초과 41kg 까지
+
+37kg 이하
+
+33kg 초과 37kg 이하
+
+45kg 이하
+
+41kg 초과 45kg 까지
+
+41kg 이하
+
+37kg 초과 41kg 이하
+
+49kg 이하
+
+45kg 초과 49kg 까지
+
+44kg 이하
+
+41kg 초과 44kg 이하
+
+53kg 이하
+
+49kg 초과 53kg 까지
+
+47kg 이하
+
+44kg 초과 47kg 이하
+
+57kg 이하
+
+53kg 초과 57kg 까지
+
+51kg 이하
+
+47kg 초과 51kg 이하
+
+61kg 이하
+
+57kg 초과 61kg 까지
+
+55kg 이하
+
+51kg 초과 55kg 이하
+
+65kg 이하
+
+61kg 초과 65kg 까지
+
+59kg 이하
+
+55kg 초과 59kg 이하
+
+65kg 초과
+
+65kg 초과
+
+59kg 초과
+
+59kg 초과
+
+5. 1 카뎃 경기 체급 (키) 은 다음과 같다
+남자부
+카뎃 선수의 키
+148cm 이하
+148cm 까지
+
+최고체중
+
+최저체중
+
+45kg
+
+33kg
+
+152cm 이하
+
+148cm 초과 152cm 까지
+
+48kg
+
+35kg
+
+156cm 이하
+
+152cm 초과 156cm 까지
+
+51kg
+
+37kg
+
+160cm 이하
+
+156cm 초과 160cm 까지
+
+53kg
+
+39kg
+
+164cm 이하
+
+160cm 초과 164cm 까지
+
+56kg
+
+41kg
+
+168cm 이하
+
+164cm 초과 168cm 까지
+
+59kg
+
+43kg
+
+172cm 이하
+
+168cm 초과 172cm 까지
+
+61kg
+
+45kg
+
+176cm 이하
+
+172cm 초과 176cm 까지
+
+64kg
+
+47kg
+
+180cm 이하
+
+176cm 초과 180cm 까지
+
+67kg
+
+49kg
+
+180cm 초과
+
+180 cm 초과
+
+80kg
+
+52kg
+
+최고체중
+43kg
+
+최저체중
+32kg
+
+여자부
+카뎃 선수의 키
+144 cm 이하
+144cm 까지
+148 cm 이하
+
+144cm 초과 148cm 까지
+
+45kg
+
+33kg
+
+152 cm 이하
+
+148cm 초과 152cm 까지
+
+48kg
+
+35kg
+
+156 cm 이하
+
+152cm 초과 156cm 까지
+
+51kg
+
+37kg
+
+160 cm 이하
+
+156cm 초과 160cm 까지
+
+53kg
+
+39kg
+
+164 cm 이하
+
+160cm 초과 164cm 까지
+
+56kg
+
+41kg
+
+168 cm 이하
+
+164cm 초과 168cm 까지
+
+59kg
+
+43kg
+
+172 cm 이하
+
+168cm 초과 172cm 까지
+
+61kg
+
+45kg
+
+176 cm 이하
+
+172cm 초과 176cm 까지
+
+64kg
+
+47kg
+
+176 cm 초과
+
+176cm 초과
+
+75kg
+
+50kg
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 18
+
+6.
+
+단체전 경기 체급은 다음과 같다.
+체급
+
+남자복식
+
+여자복식
+
+최대선수
+수
+
+2
+
+2
+
+총 체급
+범위
+
+160kg까지
+또는
+그 이하
+130kg까지
+또는
+그 이하
+
+135kg까지
+또는
+그 이하
+110kg까지
+또는
+그 이하
+
+남자단체
+4
+
+300kg까지
+또는
+그 이하
+
+여자단체
+3
+
+240kg까지
+또는
+그 이하
+
+3
+
+4
+(최대 2 남자
+& 2 여자)
+
+200kg까지
+또는
+그 이하
+
+2 여자 :
+135kg까지
+또는 그 이하
+2 남자 :
+160kg까지
+또는 그 이하
+
+4
+
+260kg까지
+또는
+그 이하
+
+혼성단체
+
+* 대체선수도 계체를 실시해야한다
+* 대체선수로 교체되는경우, 기존선수를 제외하고 대체선수를 포함한 4 명의 체급을 재합산하여 적용한다.
+
+(Explanation #1)
+Not exceeding:
+The weight limit is defined by the criterion of one decimal place away from the stated limit. For example, not exceeding 50kg is
+established as until 50.0kg with 50.1kg being over the limit and resulting in disqualification.
+(Explanation #2)
+Over:
+Over 50.00 kg marks occur at the 50.1kg reading and 50.0kg and below is regarded as insufficient, resulting in disqualification.
+
+주-(1)
+“까지”:
+-kg 이하의 뜻으로 구체적인 적용은 단위 소수점 한 자리까지를 기준으로 한다. 예를 들어 50kg 까지는
+50.0kg 까지를 말하는 것으로 50.1kg 부터는 실격 처리된다.
+주-(2)
+“초과”:
+50kg 초과란 50.1kg 이상을 말하는 것으로써 50.0kg 까지는 미달로서 실격이 된다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 19
+
+Article 6
+제6조
+
+Classification and methods of competition
+경기의 종류와 방식
+
+1
+
+Competitions are classified as follows.
+1.1
+Individual competition shall normally be between contestants in the same weight category. When necessary,
+adjoining weight category may be combined to create a single classification. No contestant is allowed to
+participate in more than one (1) weight category in one event.
+1.2
+Team Competition: Method and weight categories of team competition shall be stipulated in the Standing
+Procedures for World Taekwondo World Cup Team Championships.
+
+2
+
+Systems of competition are divided as follows.
+2.1
+Single elimination tournament system
+2.2
+Round robin system
+
+3.
+
+Taekwondo competition of the Olympic Games and 4 year cycle continental multi sports games may use single
+elimination tournament system or the combination of single elimination tournament system with repechage.
+
+4.
+
+All international-level competitions recognized by the WT shall be formed with participation of at least four (4) countries
+in tournament with no less than four (4) contestants competed in each weight category, and any tournament with less
+than four (4) countries or weight category with less than 4 competed contestants cannot be recognized in the official
+results.
+
+5
+
+World Taekwondo Grand Prix Series will be organized based on the most recent Standing Procedure of World
+Taekwondo Grand Prix Series.
+
+(Interpretation)
+1. In the tournament system, competition is founded on an individual basis. However, the team standing can also be
+determined by the sum of the individual standings according to the overall scoring method.
+*Team Standing
+Team standing shall be decided by the total points based on the following criteria.
+Basic one (1) point per each contestant who entered the competition area after passing the general weigh-in
+One (1) point per each win (win by a bye included)
+Additional one hundred and twenty (120) points per gold medal
+Additional fifty (50) points per silver medal
+Additional twenty (20) points per bronze medal
+In case more than two (2) teams are tied in score, the rank shall be decided by 1) number of gold, silver and bronze medals won by the
+team in order, 2) number of participating contestants and 3) higher points in heavier weight categories.
+2.
+
+In the team competition system, the outcome of each team competition is determined by the individual team results.
+
+(Explanation #1)
+Consolidated weight categories:
+The method of consolidation shall follow the Olympic weight categories.
+
+1
+
+경기의 종류는 다음과 같이 구분한다.
+1.1
+개인전: 각 체급 별 개인 간의 대전 방식. 단, 차 상위 체급과 2체급의 통합전을 할 수
+있으며 어떤 선수도 한 대회에서 2체급 이상 참가할 수는 없다.
+1.2
+단체전: 단체전의 경기 방식 및 체급은 월드태권도 월드컵 팀대항전 시행규칙에 의한
+다.
+
+2
+
+경기의 방식은 다음과 같이 구분한다.
+2.1
+엘리미네이션 토너먼트 방식
+2.2
+라운드로빈 방식
+
+3
+
+올림픽 경기 및 4년 주기 대륙종합경기대회에서는 각 체급 별 개인 간의 대전 방식으로 하며,
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 20
+
+엘리미네이션 토너먼트 방식과 패자부활전 방식을 혼합하여 시행될 수 있다.
+4
+
+본 연맹이 승인하는 모든 국제 경기는 4개국 이상이 참가하여 각 체급당 4명 이상이 참가하
+여야 하며, 4개국 미만 또는 4명 이상 참가하지 않은 체급의 경기결과는 공식 결과로 인정되
+지 않는다.
+
+5
+
+세계태권도그랑프리 시리즈는 당 연맹 별도의 시행규칙에 의거 시행한다.
+
+(해설)
+1. 개인전은 각 체급 별, 개인 단위로 대전하는 방식을 원칙으로 하나 대회 규정이 정하는 채점 방식에
+따라 개인전의 성적을 종합하여 단체 등위를 결정할 수도 있다.
+*단체 등위
+다음 기준에 따라 집계된 점수에 따라 단체 등위를 결정하는 시스템
+일반 계체 통과 후 경기 출전 시 1점
+한 번 이길 때마다 1점 추가 (부전승 포함)
+체급 별 우승 시 120점, 2위에게 50점, 3위에게 20점 추가
+두 팀 이상이 동점일 경우, 1) 메달 순위 (메달 순에 관계 없이 금메달이 은메달보다 우위에 있
+고 은메달은 동메달보다 우위에 있다) 2) 팀의 참가 선수 수 3) 상대적으로 무거운 체급에서 더
+많은 점수를 얻은 순에 따라 등위를 결정한다.
+2. 단체전은 단체 간 대전의 결과에 따라 단체 단위로 승패가 가려지는 방식을 말한다.
+주-(1)
+체급의 통합: 통합의 방식은 올림픽 체급 구분을 따른다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 21
+
+Article 7
+제7조
+1
+
+Duration of Contest
+경기시간
+
+Duration of Contest is classified as follows.
+1.1
+1.2
+1.3
+
+The duration of the contest shall be three rounds of two minutes each, with a one-minute rest period between
+rounds. In case of a tie score after the completion of the 3rd round, a 4th round of one minute will be conducted
+as the Golden round, after a one-minute rest period following the 3rd round.
+In the best of three (3) system, the duration of the contest shall be three rounds of two minutes each with a oneminute rest period between rounds. However, a 4 th round of one minute will not be conducted as the Golden
+round. In case of a tie score for corresponding round, the round winner shall be decided by the Article 15.
+In the World Cup Team Championships, the duration of the contest shall be three rounds of four (4) minutes of
+1st round, five (5) minutes of 2nd and 3rd round with a one (1) minute rest period between rounds. The 1st round
+shall be conducted based on traditional team match format for one (1) minute per contest and the 2nd and the
+3rd round shall be conducted for five (5) minutes based on tag-team match format.
+
+2
+
+The duration of each round may be adjusted to 1 minute x 3 rounds, 1 minute 30 seconds x 3 rounds, 2 minutes x 2
+rounds or 5 minute x 1 round (with 1 time out for 30 seconds to each contestant) upon the decision of the Technical
+Delegate for the pertinent championships.
+
+1
+
+경기 시간은 다음과 같이 구분한다.
+1.1
+1.2
+
+1.3
+
+2
+
+2 분 3 회전, 회전 간 휴식 시간은 1 분으로 한다. 단, 동점으로 3 회전 종료 시 1 분간의
+휴식 후, 골든 회전으로서 1 분 1 회전의 제 4 회전을 시행한다.
+‘3 전다승제’ 로 경기를 하는 경우 경기시간은 2 분 3 회전, 회전 간 휴식 시간은 1 분으로
+진행되며, 다만 1 분 1 회전의 제 4 회전인 골든 회전은 시행하지 않는다. 단, 각 회전의
+점수가 동점으로 종료 시, 해당 회전의 승자는 제 15 조에 따라 결정된다.
+‘월드컵 팀대항전’ 시 경기시간은 4 분 1 회전, 5 분 2 회전과 3 회전, 회전 간 휴식 시간은
+1 분으로 진행된다. 1 회전은 팀대항전의 전통 방식인 체급별로 한 명씩 선수가 출전하여
+1 분간 서로 경기를 진행하고, 2 회전과 3 회전은 5 분간 일대일로 선수가 겨루며 같은 편
+선수끼리 손으로 대어 선수를 교대하는 방식으로 진행한다.
+
+경기 시간은 기술대표의 결정에 따라 1 분 x 3 회전, 1 분 30 초 x 3 회전, 2 분 x 2 회전, 또는 5 분
+x 1 회전 (코치 타임아웃 요청 시 선수 당 30 초 휴식) 등으로 운용할 수 있다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 22
+
+Article 8
+제8조
+
+Drawing of Lots
+추첨
+
+1
+
+The date of the drawing of lots shall be set forth in the outline of the championships. At least one representative from
+each team must attend the drawing of lots and participating teams are responsible for confirming their entries before the
+drawing of lots. In case of no representative can be at the drawing of lots, the team must designate a proxy and inform
+Technical delegate before the drawing of lots.
+
+2
+
+The drawing of lots may be conducted by random computerized drawing or by random manual drawing of lots. The
+method and order of drawing shall be determined by the Technical Delegate.
+
+3
+
+All ranked athletes will be seeded in all WT Promoted and Recognized tournaments unless otherwise stipulated in the
+relevant standing procedures or event outlines.
+
+1
+
+추첨일은 대회요강에 명시되며, 또한 참가팀은 최소 1명의 대표를 대표자 회의에 참석 시켜
+야 할 의무가 있으며 추첨 전에 각 체급별 엔트리를 확인하여야 한다. 또한 해당 참가팀이
+대표자 회의 불참 시에는 사전에 대리인을 지정하여 기술대표에게 대표자 회의 전에 통보 하
+여야 한다.
+
+2
+
+기술대표는 추첨방법 및 순서에 관해서 컴퓨터를 사용하여 랜덤으로 추첨할 것인지, 손으로
+번호를 직접 뽑는 방법으로 추첨할 것인지를 결정한다.
+
+3
+
+관련 시행 규칙 또는 대회 요강에 별도로 명시 되어 있지 않는 경우, 세계태권도연맹 주최
+및 승인대회에 참가하는 모든 선수들은 랭킹에 따라 시드가 배정된다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 23
+
+Article 9
+제9조
+
+Weigh-in
+계체
+
+1
+
+The general weigh-in of the contestants on the day of competition shall be organized one day prior to the competition.
+The time for the general weigh-in will be decided by the Organizing Committee and be informed at the head of team
+meeting. The duration of the general weigh-in shall be two (2) hours at the maximum.
+
+2
+
+The random weigh-in will take place at the venue in the morning of the competition. All contestants who pass the general
+weigh-in must be present for random weigh-in maximum two (2) hours before the start of the competition. Should a
+contestant fail to appear for the random weigh-in, he/she will be disqualified. The random weigh-in must be completed
+maximum thirty (30) minutes before the start of the competition each day.
+2.1 The rate of selection for the random weigh-in shall be determined by the number of contestants in the weight category
+as following the criteria and subjects will be randomly selected by computerized system maximum two (2) hours before
+the start of the competition.
+a) More than 32 athletes
+b) 17-32 athletes
+c) 9-16 athletes
+d) 4-8 athletes
+e) Below 4 athletes
+
+: 20% of total
+: 6 athletes
+: 4 athletes
+: 2 athletes
+: None
+
+2.2 The random weigh-in shall be conducted with plus 5% tolerance of the contestant’s weight category. Underweight
+shall not be subjected to random weigh-in.
+3
+
+During the weigh-in, the male contestant shall wear underpants and the female contestant shall wear underpants and a
+brassiere. However, weigh-in may be conducted in the nude if the contestant wishes to do so.
+3.1 Cadet and junior contestant must be weighed with underwear(s) and 100 grams will be allowed to compensate.
+
+4
+
+General weigh-in shall be made once, however, one more weigh-in is granted within the time limit to any contestant who
+did not qualify the first time. Random weigh-in shall be made only once per contestant, and there will not be 2nd weighin.
+
+5
+
+So as not to be disqualified during the weigh-in, scales identical to the official one shall be provided at the contestants’
+place of accommodation or at the competition venue for pre-weigh-in.
+
+1
+
+당일 대전 선수는 경기 1일전에 일반 계체를 받아야 하며 최종 일반 계체 시간은 조직위가
+대표자회의 시 통보하며 최대 일반 계체 시간은 2시간으로 정한다.
+무작위 계체는 일반 계체를 통과한 선수들에 한해 해당 경기 당일 날 아침 경기 시작 최대 2
+시간 전부터 실시한다. 불참 시에는 실격으로 처리되며 경기 시작 30분 전에는 종료되어야
+한다.
+2.1
+무작위 계체의 선수 선정 비율은 각 체급의 선수 수에 따라 다음과 같이 결정되며,
+선수 선정은 컴퓨터 시스템에 의해 최대 경기시작 2 시간 전에 무작위로 선정된다.
+
+2
+
+a) 32 명 이상
+b) 17-32 명
+c) 9-16 명
+d) 4-8 명
+e) 4 미만
+
+: 전체의 20 %
+:6 명
+:4 명
+:2 명
+: 없음
+
+2.2
+
+3
+
+무작위 계체는 해당 선수 체급의 체중 최대 5% 초과시 탈락되며 체중 미달은 무작위
+계체에 적용되지 않는다.
+.
+계체 시 남자는 팬티, 여자는 팬티와 브래지어를 착용한다. 단, 본인이 원할 경우, 전 나체로
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 24
+
+할 수도 있다.
+3.1
+카뎃 및 주니어 대회 참가 선수들은 속옷을 착용 후 계체를 해야 하며 이때 해당 체급
+의 100그램 초과를 허용한다.
+4
+5
+
+일반 계체는 1회로 하며, 미달 또는 초과 시는 정해진 시간 내에 1회의 계체를 더 할 수 있
+다. 무작위 계체는 단 1회에 한해 실시되며 추가 계체는 허용치 않는다.
+계체로 인한 실격 방지를 위해 경기 시작 1일 전부터 본 계체기와 같은 계기를 선수촌 또는
+경기장에 설치하여 예비 계체토록 한다.
+
+(Explantion#1)
+The contestants on the day of competition:
+This is defined as those contestants listed to compete on the scheduled day by the Organizing Committee or the WT.
+(Explanation #2)
+A separate site for the weigh-in shall be installed for the male and female contestants. The gender of weigh-in officials should be the
+same as that of the contestants.
+(Explanation #3)
+Disqualification during the weigh-in:
+When a contestant is disqualified at the weigh-in, the contestant shall not be awarded any ranking points.
+(Explanation #4)
+Scales, identical to the official one:
+The practice scale must be of the same type and calibrations as that of the official scale and these facts must be verified prior to the
+competition by the Organizing Committee.
+
+주-(1)
+-당일대전선수
+본 연맹 또는 대회 조직위원회가 미리 발표한 대전 일정 상 경기가 예정된 모든 선수를 말한다.
+주-(2)
+계체 장소는 남, 여 별도로 설치하고 남성은 남성 계체원이, 여성은 여성 계체원이 담당하여야 한다.
+주-(3)
+계체실격:
+각 선수가 계체에 실격했을 때는 랭킹 점수를 부여 받을 수 없다.
+주-(4)
+같은 계기:
+동형 동질의 계기로써 조직위원회에 의해 계량 점검이 확인된 계기
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 25
+
+Article 10 Procedure of the Contest
+제 10 조 경기진행절차
+1
+
+Call for contestants: The name of the contestants shall be announced at the Athlete Calling Desk three (3) times
+beginning thirty (30) minutes prior to the scheduled start of the contest. If a contestant fails to report to the Desk following
+the third call, the contestant shall be disqualified, and this disqualification shall be announced.
+
+2
+
+Inspection of body, uniform and apparatus: After being called, the contestants shall undergo inspection of body, uniform
+and apparatus at the designated inspection desk by the inspectors designated by the WT, and the contestant shall not
+show any signs of aversion, and also shall not wear any materials which may cause harm to the other contestant.
+
+3
+
+Entering the Competition Area: After inspection, the contestant shall proceed to the Coach’s zone with one coach and
+one team doctor or team medical staff(such as physiotherapist, athletic trainer or chiropractor, if any).
+
+4
+
+Procedure before the Beginning and After the End of the Contest
+4.1
+Before the start of the contest, the center referee will call “Chung, Hong.” Both contestants will enter the contest
+area with their head pss firmly tucked under their left arms. When any of contestant is not present or present
+without being fully attired, including all protective equipment, uniform, etc., at the Coach’s Zone by the time the
+referee calls “Chung, Hong”, he/she shall be regarded as withdrawn from the contest and the referee shall
+declare the opponent as the winner.
+4.2
+The contestants shall face each other and make a standing bow at the referee’s command of “Cha-ryeot
+(attention)” and “Kyeong-rye (bow)”. A standing bow shall be made from the natural standing posture of “Charyeot” by bending the waist at an angle of more than 30 degrees with the head inclined to an angle of more than
+45 degree. After the bow, the contestants shall put on their head pss
+4.3
+The referee shall start the contest by commanding “Joon-bi (ready)” and “Shi-jak (start)”.
+4.4
+The contest in each round shall begin with the declaration of “Shi-jak (start)” by the referee.
+4.5
+The contest in each round shall end with the declaration of “Keu-man (stop)” by the referee. Even if the referee
+did not declare “Keu-man”, the contest shall be deemed to have ended when the match clock expired, however
+“Gam-jeom” can be given and registered in score even after expiration of match clock.
+4.6
+The referee may pause a contest by declaring “Kal-yeo” (break) and resume the contest by the command of
+“Kye-sok” (continue). When the referee declares “Kal-yeo” the recorder should immediately stop the match time;
+when the referee declares “Kye-sok” the recorder should immediately restart the match time.
+4.7
+After the end of the last round, the referee shall declare the winner by raising his/her hand to the winner's side.
+4.7.1 In the best of three (3) system, the referee shall declare the winner of respective round.
+4.8
+
+Retirement of the Contestants
+
+5
+
+Contest Procedure in Team Competition
+5.1
+Both teams shall stand facing each other in line in the submitted team order towards the 1st Boundary Line from
+the Contestants’ marks.
+5.2
+Procedure before the beginning and after the end of the contest shall be conducted as in clause 4 of this article.
+5.3
+Both teams shall leave the Contest Area and stand by at the designated area for each contestant’s match.
+5.4
+Both teams shall line up in the Contest Area immediately after the end of the final match facing each other.
+5.5
+The referee shall declare the winning team by raising his/her own hand to the winning team’s side.
+
+1
+
+선수의 호출: 선수호출데스크에서 경기 시간 30분 전부터 3회 호출한다. 만약 참가자가 3번째
+호출 뒤에도 데스크에 확인되지 않을 경우, 선수는 실격 처리 되며 이를 경기장내에 공지한
+다.
+
+2
+
+신체 및 복장 점검: 호출 된 선수는 지정된 검사대에서 본 연맹이 지명한 검사원에 의해 신
+체 및 복장, 용구 검사를 받아야 하고, 혐오감을 나타내지 않아야 하며 상대방에게 위해를 끼
+칠 수 있는 물건을 지녀서는 안 된다.
+
+3
+
+선수입장: 선수는 검사를 받은 후 코치 한 명과 팀 닥터 또는 팀 의무진(물리치료사, 의무트
+레이너 혹은 척추지압사) 한 명과 함께 지정된 대기석에 입장한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 26
+
+4
+
+경기진행의 절차
+4.1
+경기 시작 전에 주심은 “청, 홍”을 선언한다. 두 선수는 왼쪽 팔 밑에 머리보호대를 끼
+고 경기지역에 입장한다. 주심이 “청”, “홍” 선언할 때까지 코치석에 입장해 있지 않거나
+지정된 경기용품을 모두 착용한 상태로 코치석에 입장해 있지 않은 선수는 대전 포기
+로 간주하고 주심은 그 상대 선수를 승자로 선언한다.
+4.2
+선수들은 서로 마주보고 심판의 “차렷 (attention)” 과 “경례(bow)”에 따라 입례 한다. 입례
+는 허리는 30도 이상의 각도로 구부리고 머리는 45도 이상의 각도로 숙여 자연스러운
+자세로 예를 표한다. 선수들은 입례를 마치고 머리보호대를 착용한다.
+4.3
+심판은 “준비(ready)”와 “시작(start)”을 선언하여 경기를 시작한다.
+4.4
+각 회전의 경기는 주심의 “시작(start)” 선언으로 시작된다.
+4.5
+각 회전의 경기는 주심의 “그만(stop)” 선언함으로 종료된다. 비록 심판이 “그만”을 선언
+하지 않았다 할지라도 경기는 지정 시간이 끝났을 때 종료된 것으로 간주한다. 다만
+종료 시에도 주심의 감점 선언은 유효하며 이는 결과에 반영 되어야 한다.
+4.6
+회전 중 주심의 갈려 선언으로 경기는 중단되며 주심의 계속 선언으로 경기가 속개된
+다. 주심이 “갈려(break)”를 선언하였을 때는 기록원은 즉시 경기시간을 중단시켜야 하며
+주심이 “계속(continue)” 선언을 하였을 때는 즉시 경기시간을 속개시켜야 한다.
+4.7
+주심은 승자 쪽 손을 들어 승자를 선언한다.
+4.7.1 ‘3전다승제’에서 주심은 각 회전마다 승자를 선언한다.
+4.8
+
+5
+
+선수 퇴장
+
+단체전 절차
+5.1
+양 팀 선수는 제출된 명단 순으로 청, 홍 선수 위치로부터 제1한계선을 향해 일렬횡대
+로 마주 보고 선다.
+5.2
+경기 진행은 4항의 절차에 따른다.
+5.3
+양 진영 선수는 경기 지역 밖의 지정된 장소에 대기하고 순서에 따라 대전한다.
+5.4
+경기 종료 직후 양 진영 선수는 경기 지역에 입장하여 마주 보고 선다.
+5.5
+승자 선언은 주심 자신의 승자 쪽 손을 들어 선언한다.
+
+(Explanation#1)
+Team doctor, chiropractor, athlete trainer or a physiotherapist:
+At the time of submission of entry for team officials, copies of relevant and appropriate licenses of team doctor chiropractor, athletic
+trainer or physiotherapist written in English shall be attached. After verification, special accreditation cards shall be issued to those team
+doctors, chiropractor, athlete trainer or physiotherapists. Only those who have obtained proper accreditation shall be allowed to proceed
+to competition area with coach. Only medical doctor with active medical license who graduated from recognized medical school can
+obtain accreditation card of team doctor. Other medical staff(team chiropractor, athletic trainer, physiotherapist or other healthcare
+professionals) are not allowed to claim themselves as team doctor, which shall be regarded as improper accreditation.
+(Guideline for officiating)
+In the case of using PSS, the referee shall check if the PSS system and sensing socks worn by both athletes are properly working. This
+process, however, may be deleted to save time for speedy competition management.
+주-(1)
+팀닥터, 척추지압사, 의무트레이너 또는 물리치료사:
+엔트리 제출 시 팀닥터 척추지압사, 의무트레이너, 또는 물리치료사의 경우 영문으로 된 자격증을
+첨부하여야 한다. 자격 입증 후에는 특별한 등록카드가 발급되며, 적합한 등록카드를 소지하지 않은
+팀닥터, 척추지압사, 의무트레이너, 또는 물리치료사는 코치와 함께 경기장에 입장할 수 없다. 기 인정된
+의과 대학 출신의 현역 의사 자격증을 가진 의사만이 팀 닥터 자격증을 취득할 수 있다. 그 외
+의무진(팀 척추지압사, 의무 트레이너, 물리치료사 혹은 기타 의료인은 팀 닥터로 지칭될 수 없으며,
+등록될 수 없다.
+(심판지침)
+전자호구 사용 시, 주심은 경기 개시 전에 양 선수의 전자호구와 전자감응양말이 모두 작동하는지를
+확인하도록 한다. 그러나 경기를 신속히 진행하기 위하여 본 과정을 생략할 수 있다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 27
+
+Article 11
+제 11 조
+
+Permitted techniques and areas
+허용기술과 부위
+
+1
+
+Permitted techniques
+1.1
+Fist technique: A straight punching technique using the knuckle part of a tightly clenched fist
+1.2
+Foot technique: Delivering techniques using any part of the foot below the ankle bone
+
+2
+
+Permitted areas
+2.1
+Trunk: Attack by fist and foot techniques on the areas covered by the trunk protector are permitted. However,
+such attacks shall not be made on the part of the spine.
+2.2
+Head: The area above the collar bone. Only foot techniques are permitted.
+
+1
+
+허용기술
+1.1
+손기술: 바른 주먹의 앞부분을 이용한 지르기 공격
+1.2
+발기술: 복사뼈 이하의 발 부위를 이용한 공격
+
+2
+
+허용부위
+2.1
+몸통부위: 몸통호구로 보호되는 부위로서 손기술과 발기술의 공격이 허용된다. 단, 척
+추 부위는 공격할 수 없다.
+2.2
+머리: 쇄골 위 부위. 발기술만 허용된다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 28
+
+Article 12
+제 12 조
+
+Valid Points
+득점
+
+1
+
+Scoring Areas
+1.1
+Trunk: The blue or red colored area of the trunk protector
+1.2
+Head: The entire head above the bottom line of the head protector
+
+2
+
+Criteria for valid point(s):
+2.1
+Point(s) shall be awarded when a permitted technique is delivered to the scoring areas of the trunk with a proper
+level of impact.
+2.2
+Point(s) shall be awarded when a permitted technique is delivered to the scoring areas of the head.
+2.3
+The determination of the validity of the technique, level of impact, and/or valid contact to the scoring area shall
+be made by the electronic scoring system except fist techniques. These PSS determinations shall not be subject
+to Instant Video Replay except for head kicks.
+2.4
+The WT Technical Committee shall determine the required level of impact and sensitivity of the PSS, using
+different scales in consideration of weight category, gender, and age groups. In certain circumstances as deemed
+necessary the Technical Delegate may recalibrate the valid level of impact.
+
+3
+
+The valid points are as follows.
+3.1
+One (1) point for a valid punch to the trunk protector
+3.2
+Two (2) points for a valid kick to the trunk protector
+3.3
+Four (4) points for a valid turning kick to the trunk protector
+3.4
+Three (3) points for a valid kick to the head
+3.5
+Five (5) points for a valid turning kick to the head
+3.6
+One (1) point awarded for every one “Gam-jeom” given to the opponent contestant
+
+4
+
+Match score shall be the sum of points of the three rounds.
+4.1
+In the best of three (3) system, match score shall be the sum of the number of round won of the three rounds.
+
+5
+
+Invalidation of point(s): When a contestant records points following prohibited act(s):
+5.1
+If prohibited act is followed by point(s), the referee shall declare the penalty for the prohibited act and invalidate
+the point(s).
+
+1
+
+득점 부위
+1.1
+몸통: 몸통보호대의 청, 홍 색깔로 표시된 부위
+1.2
+머리: 머리보호대 아래 끝선으로부터 머리 부위 전체
+
+2
+
+득점 기준
+2.1
+몸통부위: 몸통 득점부위에 허용 기술로 적정한 강도 이상의 타격을 가했을 때 득점이
+부여된다.
+2.2
+머리 부위: 머리 득점부위에 허용기술로 가격하였을 때 득점을 부여한다.
+2.3
+손기술을 제외한 기술의 유효성, 타격 강도, 타격 부위의 타당성은 전자 채점 장치에
+의하여 판정된다. 위 사항에 대한 전자채점 장비에 의한 판정은 머리 공격을 제외하고
+는 비디오 판독의 대상이 될 수 없다.
+2.4
+본 연맹 기술위원회는 체급과 성별, 연령별 등을 고려하여 적정한 강도와 감응도 등을
+결정한다. 필요한 경우 본 연맹 기술대표는 강도와 감응도 등을 조정하는 결정을 할
+수 있다.
+
+3
+
+득점의 종류
+3.1
+1점: 몸통 부위 주먹 공격
+3.2
+2점: 몸통 부위 발 공격
+3.3
+4점: 몸통 부위를 몸통의 회전을 이용하면서 공격한 기술
+3.4
+3점: 머리 부위 발 공격
+3.5
+5점: 머리 부위를 몸통의 회전을 이용하면서 공격한 기술
+3.6
+상대 선수가 1회의 “감점” 선언을 받음으로써 얻어지는 1점
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 29
+
+4
+
+득점은 전 3회전을 통산한다.
+4.1 ‘3전다승제’에서 경기의 득점은 1회전부터 3회전까지 승리한 회전을 합산한다.
+
+5
+
+득점의 무효: 공격자가 반칙 행위를 이용하여 가격했을 때 득점에 해당하여도 무효로 한다.
+5.1
+공격자의 사전 반칙 행위가 득점과 연결 되었을 때 주심은 벌칙을 선언하고 득점을
+무효로 한다.
+
+(Explanation#1)
+Back kick (Dwichagi) is one type of turning kick techniques, the head and shoulder rotation must occur to be considered as a back kick
+(Dwichagi) and awarded technical points.
+When contestants kick opponent by the back kick (Dwichagi), without contestant’s simultaneous rotation of head and shoulder, ‘Back
+kick’ (Dwichagi) will not be considered turning kick.
+주-(1)
+뒷차기는 몸통 회전을 이용한 발차기 공격 기술 중 하나로, 해당 발차기 공격 시, 반드시 머리와 어깨의
+회전이 발기술과 같이 이루어져야 기술점수로 인정된다.
+상대선수에게 뒷차기 공격시, 머리와 어깨의 회전이 없이 이루어진 뒷차기 공격은 몸통 회전을 이용한
+발차기 공격기술로 인정되지 않는다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 30
+
+Article 13
+제 13 조
+
+Scoring and publication
+채점과 표출
+
+1
+
+Scoring of valid point(s) shall be determined primarily using the electronic scoring system installed in Protector and
+Scoring Systems (PSS). Points awarded for punching techniques and additional points awarded for turning kicks
+shall be scored by judges using manual scoring devices. If PSS (Protector & Scoring System) is not used, all scoring
+shall be determined by judges using manual scoring devices.
+
+2
+
+If head PSS is not employed with trunk PSS, scoring for kicking techniques to the head shall be made by judges
+using the manual scoring devices.
+
+3
+
+The additional point given for a turning kick shall be invalidated if the turning kick was not scored as a valid point(s)
+by PSS.
+
+4
+
+Under a three (3) corner judge setting, two or more judges shall be needed to confirm valid scoring.
+
+5
+
+Under a two (2) corner judges setting, two judges shall be needed to confirm valid scoring.
+
+1.
+
+득점의 채점은 전자 채점보호구(PSS)에 의하여 하는 것을 위주로 하고 주먹 득점과
+몸통의 회전이 가미된 기술에 대한 추가 점수의 채점은 부심이 수동 채점기로 한다. 단
+전자 채점부호구를 사용할 수 없을 때는 모든 채점은 부심이 수동 채점기로 한다.
+
+2.
+
+머리부위 전자 채점보호구를 사용하지 못할 때에는 머리부위에 대한 채점은 부심이 수동
+채점기로 한다.
+
+3.
+
+몸통부위의 회전이 가미된 기술에 대한 추가 채점은 전자 채점보호구에 의하여 득점으로
+채점되지 않았을 때는 유효하지 않다.
+
+4.
+
+3 부심제의 경우 채점은 두 명 이상의 부심이 인정하였을 때 유효하다.
+
+5.
+
+2 부심제의 경우 채점은 두 명의 부심이 모두 인정하였을 때 유효하다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 31
+
+Article 14
+제 14 조
+
+Prohibited acts and Penalties
+금지행위와 벌칙
+
+1
+
+Penalties shall be declared by the referee.
+
+2
+
+Prohibited acts which described in article 14 shall be penalized with “Gam-jeom” by referee.
+
+3
+
+A “Gam-jeom” shall be counted as one (1) point for the opposing contestant.
+
+4
+
+Prohibited acts
+4.1
+The following acts shall be classified as prohibited acts, and “Gam-jeom” shall be declared.
+4.1.1 Crossing the Boundary Line
+4.1.2 Falling down
+4.1.3 Avoiding or delaying the match
+4.1.4 Grabbing or pushing the opponent
+4.1.5 The following are considered prohibited acts:
+a) Lifting the leg to block
+b) Kicking the opponent’s leg to impede the opponent’s kicking attack
+c) Kick was aiming to below the waist
+d) Lifting the leg above waist for kicking in the air for four (4) times or more
+e) Lifting a leg or kicking in the air for more than three (3) seconds to impede opponent’s potential
+attacking movements
+4.1.6 Kicking below the waist
+4.1.7 Attacking the opponent after "Kal-yeo"
+4.1.8 Hitting the opponent’s head with the hand
+4.1.9 Butting or attacking with the knee
+4.1.10 Attacking the fallen opponent
+4.1.11 Attacking trunk PSS with the side or bottom of the foot in clinch position
+4.1.12 Attacking back of head PSS in clinch position
+4.1.13 Following Misconducts of contestant or coach
+a) Not complying with the referee’s command or decision
+b) Inappropriate protesting behavior to officials’ decisions
+c) Inappropriate attempts to disturb or influence the outcome of the match
+d) Provoking or insulting the opposing contestant or coach
+e) Unaccredited doctor/physicians or other team officials found to be seated in the doctor’s position
+f) Any other severe misconduct or unsportsmanlike conduct from a contestant or coach
+g) When a contestant commits a prohibited Act followed by an Attack After “Kal-yeo” (as per article
+14.4.1.7) or any other unsportsmanlike behavior (as per article 14.4.1.13) the Referee may give a
+2nd “Gam-jeom” for ‘Attack after “Kal-yeo”’ or ‘Misconduct’.
+4.2
+
+When a coach or contestant commits excessive misconduct and does not follow the referee’s command the
+referee may declare a sanction request by raising a yellow card. In this case the Competition Supervisory Board
+shall investigate the contestant‘s and/or coach’s behavior and determine whether a sanction is appropriate
+
+5
+
+If a contestant intentionally and repeatedly refuses to comply with the Competition Rules or the referee’s orders, the
+referee may end the match raising yellow card and declare the opposing contestant the winner.
+
+6
+
+If the referee at the inspection desk or officials in the Field of Play determines, in consultation with the PSS technician,
+if necessary, that a contestant or coach has attempted to manipulate the sensitivity of PSS sensor(s) and/or
+inappropriately alter the PSS so as to affect its performance, the contestant shall be disqualified.
+
+7
+
+When a contestant receives ten (10) “Gam-jeom”, the referee shall declare the contestant loser by referee’s punitive
+declaration (PUN)
+7.1 In the best of three (3) system, when a contestant receives five (5) “ Gam-jeom” in a round, the opponent will be
+declared the winner of that round.
+
+8
+
+In Article 14.7, “Gam-jeom” shall be counted in the total score of the three rounds.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 32
+
+1
+
+금지행위에 대한 벌칙의 선언은 주심이 한다.
+
+2
+
+본 경기규칙 14조에 명시된 금지행위에 대한 벌칙은 “감점”으로 한다.
+
+3
+
+“감점”은 상대 선수의 1득점으로 계산된다.
+
+4
+
+금지행위
+4.1
+다음 행위를 금지행위로 간주하며, 이 행위를 범할 시 “감점”을 선언한다.
+4.1.1 한계선 밖으로 나가는 행위
+4.1.2 넘어지는 행위
+4.1.3 선수가 경기를 회피하거나 지연시키는 행위
+4.1.4 상대를 잡거나 혹은 미는 행위
+4.1.5 다음과 같은 행위
+a) 다리를 들어 막는 행위
+b) 상대의 공격을 방해할 목적으로 상대의 다리를 차는 행위
+c) 허리 아래 방향으로 차는 행위
+d) 허리 위 방향으로 허공에 4번 혹은 그 이상 차는 행위
+e) 상대의 공격을 방해할 목적으로 3초 이상 다리를 드는 행위
+4.1.6 상대의 허리 아래 부위를 가격하는 행위
+4.1.7 주심의 "갈려" 선언 후 상대를 가격하는 행위
+4.1.8 손으로 상대 머리 부분을 가격하는 행위
+4.1.9 무릎 또는 이마로 상대를 가격하는 행위
+4.1.10 넘어진 상대를 가격하는 행위
+4.1.11 선수가 서로 끌어안은 상태에서 발날 및 발바닥으로 몸통전자호구를 가격하는 행위
+4.1.12 선수가 서로 끌어안은 상태에서 머리보호대 후두부를 가격하는 행위
+4.1.13 선수나 코치의 바람직하지 못한 행위
+a) 주심의 지시나 경기규정을 따르지 않는 행위
+b) 심판의 판정에 대하여 부적절한 방법으로 항의하거나 비판하는 행위
+c) 부적절한 방법으로 판정이나 경기결과에 영향을 미치거나 혼란스럽게 하려는
+행위
+d) 상대 선수나 코치를 모욕하거나 자극하는 행위
+e) 오직 등록된 팀 닥터 또는 물리치료사만이 의사 지정석에 앉을 수 있으며,
+승인되지 않은 팀 닥터, 물리치료사 혹은 팀 관계자가 의사 지정석에 앉을 경우,
+해당 관계자는 경기장을 나가야 하며, 해당 선수 또한 “감점”이 주어진다,
+f)
+그 외 스포츠 정신에 어긋나거나 바람직하지 않는 행위.
+g) 주심의 “갈려” 선언 후 상대를 가격하는 행위 (‘제 14 조 금지행위의 벌칙’
+4.1.7 조항)를 하거나 그 외 스포츠 정신에 어긋나는 행위 (‘제 14 조 금지행위의
+벌칙’의 4.1.13 조항)를 했을 때, 주심은 해당 사항에 대해 두 번째 감점을 줄 수
+있다.
+4.2
+
+과도한 금지행위를 한 선수 또는 코치가 심판의 명령을 따르지 않을 경우 심판은 옐로
+우 카드를 들어 징계를 요청할 수 있으며, 이 경우 경기감독위원회는 해당 선수 또는
+코치의 금지 행동에 관해서 징계의 적절 여부를 조사한다.
+
+5
+
+선수가 고의로 또는 반복적으로 규칙을 부정하거나 심판의 지시를 따르지 않을 때는 주심은
+옐로우 카드를 들어 경기를 중단시키고 반칙패를 선언할 수 있다.
+
+6
+
+검사대 또는 경기장에서 심판이나 경기임원이 선수나 코치가 전자 채점보호구를 조작하여 그
+기능에 영향을 미치는 행위를 발견하였을 때는 그 선수를 실격시킨다. 이 때 필요하다고 판
+단되면 전자 채점보호구 기술진의 조언을 참고할 수 있다.
+
+7
+
+선수가 “감점” 10 회를 받으면 심판은 벌칙으로 그 선수를 반칙패 패자로 선언한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 33
+
+7.1 ‘3전다승제’에서는, 한 선수가 한 회전에서 “감점” 5 회를 받으면 상대 선수가 그 회전의
+승자로 선언된다.
+8
+
+위 14.7항에서 “감점”은 전 3회전을 통산한다.
+
+(Interpretation)
+Objectives in establishing the prohibited acts and penalties are as follows,
+(1) To secure the contestant’s safety
+(2) To ensure fair competition
+(3) To encourage appropriate techniques
+(해설)
+본 경기규칙이 금지행위를 정하여 처벌하는 목적은 다음과 같다.
+첫째, 선수의 보호
+둘째, 공정한 경기의 운영
+셋째, 바람직한 기술 장려
+(Explanation #1)
+“Gam-jeom”
+i.
+
+Crossing the Boundary Line:
+A “Gam-jeom” shall be declared when one foot of a contestant crosses the Boundary Line. No “Gam-jeom” will be declared
+if a contestant crosses the boundary line as a result of a prohibited act by the opposing contestant.
+
+ii.
+
+Falling down:
+“Gam-jeom” shall be declared for falling down. However, if a contestant falls down due to the opponent’s prohibited acts
+“Gam-jeom” penalty shall not be given to the fallen contestant, while a penalty shall be given to the opponent. If both
+contestants fall as a result of incidental collision, or in case a contestant who received a point with turning kick falls down,
+no penalty shall be given.
+
+iii.
+
+Avoiding or delaying the match:
+a) This act involves stalling with no intention of attacking. A contestant who continuously displays a non-engaging style
+shall be given a “Gam-jeom”. If both contestants remain inactive after three (3) seconds, the center referee will signal
+the “”Gong-gyeok" command. A “Gam-jeom” will be declared: On both contestants if there is no activity from them
+three (3) seconds after the command was given; or on the contestant who moved backwards from the original position
+three (3) seconds after the command was given.
+
+iv.
+
+b)
+
+Turning the back and move away to avoid the opponent’s attack should be punished as it expresses the lack of a
+spirit of fair play and may cause serious injury. The same penalty should also be given for evading the opponent’s
+attack by bending below waist level or crouching.
+
+c)
+
+Retreating from the technical engagement only to avoid the opponent’s attack and to run out the clock, “Gam-jeom”
+shall be given to the passive contestant.
+
+d)
+
+Pretending injury means exaggerating injury or indicating pain in a body part not subjected to a blow for the purpose
+of demonstrating the opponent’s actions as a violation, and also exaggerating pain for the purpose of elapsing the
+match time.
+
+e)
+
+“Gam-jeom” shall also be given to the athlete who asks the referee to stop the contest in order to adjust the position/fit
+of protective equipment.
+
+Grabbing or pushing the opponent:
+a) This includes grabbing any part of the opponent’s body, uniform or protective equipment with the hands. It also
+Includes the act of grabbing the foot or let or hooking the leg with forearm. For pushing, it is permitted as a quick
+impact and a contestant must disengage from opponent after one push. The flowing acts shall be penalized.
+- Pushing the opponent with prolonged or continuous contact
+- Pushing the opponent out of the boundary line
+- Pushing the opponent in a way that prevents kicking motion or any normal execution of attacking movement
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 34
+
+v.
+
+Lifting the leg or cut kick motion shall not be penalized only when it is followed by execution of punching or kicking technique
+in combination motion.
+
+vi.
+
+Attacking below the waist:
+This action applies to an attack on any part below the waist. When an attack below the waist is caused by the recipient in
+the course of an exchange of techniques, no penalty will be given. This article also applies to strong kicking or stamping
+actions to any part of the thigh, knee or shin for the purpose of interfering with the opponent’s technique.
+
+vii.
+
+Attacking the opponent after “Kal-yeo”:
+a)
+b)
+c)
+d)
+
+Attacking after Kal-yeo requires that the attack results in actual contact to the opponent’s body.
+If the attacking motion started before the Kal-yeo, the attack shall not be penalized.
+In Instant Video Replay, the timing of Kal-yeo shall be defined as the moment that the referee’s Kal-yeo hand signal
+was completed (with fully extended arm); and the start the attack shall be defined as the moment that the attacking
+foot is fully off the floor.
+If an attack after Kal-yeo did not land on the opponent’s body but appeared deliberate and malicious the referee may
+penalize the behavior with a “Gam-jeom”
+
+viii.
+
+Hitting the opponent’s head with the hand:
+This article includes hitting the opponent’s head with the hand (fist), wrist, arm, or elbow. However, unavoidable actions due
+to the opponent’s carelessness such as excessively lowering the head or carelessly turning the body cannot be punished
+by this article.
+
+ix.
+
+Butting or attacking with the knee:
+This article relates to an intentional butting or attacking with the knee when in close proximity to the opponent.
+However, contact with the knee that happens in the following situations cannot be punished by this article.
+When the opponent rushes in abruptly at the moment a kick is being executed
+Inadvertently, or as the result of a discrepancy in distance in attacking.
+
+x.
+
+Attacking the fallen opponent:
+This action is extremely dangerous due to the high probability of injury to the opponent. The danger arises from the
+following:
+The fallen opponent is in an immediate defenseless state
+The impact of any technique which strikes a fallen contestant will be greater due to the contestant’s position.
+These types of aggressive actions toward a fallen opponent are not in accordance with the spirit of taekwondo
+and as such are not appropriate to taekwondo competition. In this regard, penalties should be given for
+intentionally attacking the fallen opponent regardless of the degree of impact
+
+When misconduct is committed by a contestant or a coach during a rest period, past the five (5) seconds of the round conclusion, the
+referee can immediately declare the “Gam-jeom” and the “Gam-jeom” shall be recorded to the upcoming round.
+However, “Gam-jeom” shall be recorded to the previous round if the action happened within five (5) seconds of the round conclusion.
+
+주-(1)
+“감점”
+i.
+한계선 밖으로 나가는 행위:
+“감점”은 선수의 한 발이 한계선을 넘을 때 선언된다. 선수가 상대 선수의 금지 행위로 인해
+한계선을 넘으면 “감점”은 선언되지 않는다.
+ii.
+
+넘어지는 행위:
+넘어지는 행위에 대해서는 즉각 “감점”을 부여한다. 상대의 반칙 행위로 인하여 넘어졌을
+경우에는 “감점” 처리하지 않고 반칙을 범한 선수에게만 벌칙을 부여한다. 단 두 선수가 서로
+몸이 부딪혀 넘어진 경우 또는 한 선수가 상대선수에게 몸통 회전을 이용한 공격을 하고
+넘어졌으나 득점을 성공 경우에는 “감점”을 부여하지 않는다.
+
+iii.
+
+선수가 경기를 회피하거나 지연시키는 행위:
+a) 선수가 공격의 의사 없이 경기를 회피하거나 고의로 경기를 지연시키는 행위로 양 선수
+중에 보다 방어적인 자세와 뒤로 물러서는 한 선수를 가려 벌칙을 선언한다. 두 선수가
+3 초 동안 움직이지 않고 그대로 있다면 주심은 “공격” 지시 신호를 보낸 후 3 초 동안 원래
+위치에서 뒤로 움직인 선수에게 “감점”을 부여하고 두 선수 모두 움직이지 않았다면 두
+선수 모두에게 “감점”을 부과한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 35
+
+b)
+
+상대방의 공격을 회피할 목적으로 등을 돌려 달아나는 행위는 페어플레이정신에 위배되며
+심각한 부상을 야기할 수 있으므로 “감점”을 부여한다 또한 몸을 허리 이하로 숙여서
+피하거나 웅크려서 피하는 행위도 이 조항에 준하여 “감점”을 부여한다.
+
+c)
+
+경기 시간을 허비하기 위하여 상대의 공격을 회피하며 물러나는 행위는 소극적 행위로
+“감점”을 부여한다.
+
+d)
+
+상대가 행한 공격 행위를 반칙 행위인 것으로 판단하게 할 의도로 지나치게 아픔을
+과장하거나 가격된 부위를 사실과 다르게 하여 고통을 표시하거나 또는 경기 시간을
+고의로 지연시키기 위해 아픔을 과장하는 행위 등은 스포츠 정신에 어긋나는 행위로
+“감점”을 부여한다.
+
+e)
+
+또한 선수가 보호장비를 정비하기 위하여 주심에게 경기의 중단을 요청하는 행위는 경기를
+지연시키는 행위로 “감점”을 부여한다.
+
+iv.
+
+상대를 잡거나 미는 행위:
+a) 상대 선수의 신체 또는 도복이나 보호용구의 일부를 손으로 잡거나 또 상대 선수 공격을
+방어하는 과정에서 다리나 발을 잡거나 팔 위에 거는 행위도 ‘잡는 행위’에 적용시켜
+“감점”을 부여한다. 하지만, 빠른 타격 혹은 한번의 미는 행위 후 상대방으로부터 떨어지는
+경우에는 허용된다.
+아래의 경우 미는 행위로 간주되어 “감점”을 부여한다.
+- 상대방을 지속적으로 미는 행위
+- 상대방을 한계선 밖으로 미는 행위
+- 정상적인 기술 발휘를 못하게 하려고 밀어서 상대의 공격을 방해하는 행위
+
+v.
+
+다리를 드는 컷킥 동작이 나오더라도 그 다음 연결 동작에서 주먹 또는 발 공격 기술이 행하여
+질 경우에는 “감점”을 부여하지 않는다.
+
+vi.
+
+허리 아래 부위를 공격하는 행위:
+허리 아래 부위에 대한 공격은 처벌한다. 허리 아래 부위를 가격 당하게 된 원인이 가격 당한
+자에게 있을 때나 양 선수의 정상적인 기술 발휘 과정에서 일어난 가격은 처벌되지 않는다. 이
+조항은 또한, 상대의 공격을 막거나 방해할 목적 또는 정상적인 기술 발휘가 아닌 상황에서 상
+대의 허벅지 또는 무릎, 정강이 등 다리 부위를 차거나 강하게 밟거나 하는 행위를 포함한다.
+
+vii.
+
+주심의 ‘갈려’ 선언 이후 상대 선수를 가격하는 행위:
+a) 갈려 후 공격은 실제로 상대 선수의 신체에 타격이 이루어진 경우를 말한다.
+b) 만약 공격동작이 갈려 선언 전에 시작되었을 경우는 처벌되지 않는다.
+c) 영상분석의 경우, 갈려 선언의 시작 기준은 주심의 갈려 수신호의 팔이 완전히 펴진
+순간으로 한다. 공격동작의 시작 기준은 발이 바닥을 완전히 떠난 순간으로 한다.
+갈려 후 공격으로 인하여 실제 타격이 일어나지 않았더라도 고의적이며 악의적인 공격 동작이
+이루어졌을 때는 바람직하지 못한 행위로 “감점”을 선언할 수 있다.
+
+viii.
+
+손으로 머리 부위를 가격하는 행위:
+손 (주먹) 또는 팔, 팔목이나 팔꿈치 등으로 상대의 머리 부위를 가격하는 행위를 말한다.
+그러나 가격 당한 선수가 부주의에 의하여 가격 당한 경우, 즉 지나치게 숙이거나 주의 없이
+몸을 돌리는 등으로 인해 불가항력으로 가격한 경우는 제외된다.
+
+ix.
+
+무릎 또는 이마로 가격하는 행위:
+접근 상태에서 명백히 의도적으로 무릎으로 가격하거나 버팅 하는 행위를 말한다. 단, 발기술을
+발휘하여 공격하는 순간 상대방이 앞으로 들어오거나 공격자의 의도와는 달리 거리가 맞지
+않아 무릎 부위가 부득이 상대를 가격하게 된 경우나 고의성이 없는 우연한 버팅은 여기에서
+제외한다.
+
+x.
+
+넘어진 상대 선수를 가격하는 행위:
+이 행위는 매우 위험한 행위로서 상대 선수에게 심한 상해를 입힐 가능성이 많은 것이다.
+넘어진 상대는 순간적으로 무방비 상태에 있기 쉽고 또 낮은 위치에 있는 상대의 신체 부위에
+가해지는 발기술의 위력은 강하게 가해지기 마련이므로 그 위험성이 더욱 크다. 뿐만 아니라
+넘어진 상대를 공격하는 행위는 태권도 선수로서 해서는 안될 행위에 속하는 것으로서 올바른
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 36
+
+스포츠 정신에 어긋나는 행동이기도 하다. 이와 같은 이유로 넘어진 상대에 대한 공격은
+고의성 여부와 관계없이 벌칙이 선언된다.
+선수 또는 코치가 회전 간 휴식 시간 중 스포츠 정신에 어긋나거나 바람직하지 않는 행위를 할 때는
+주심은 회전 간 휴식 시간 일지라도 즉시 벌칙을 선언하여 “감점”을 부여할 수 있다. 이때 경기가 끝난
+후 5 초가 지난 경우라면 “감점”은 다음 회전으로 기록되지만, 5 초 이내라면 “감점”은 전 회전의 기록으로
+인정된다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 37
+
+Article 15
+제 15 조
+
+Golden Points and Decision of Superiority
+골든포인트와 우세의 판정
+
+1
+
+In the event the winner cannot be decided after 3 rounds, a 4th round (golden round) will be conducted in one-minute
+round.
+
+2
+
+In case of a contest advances to a golden round, all scores awarded during the first three (3) rounds shall be void.
+
+3
+
+The first contestant scores two (2) or more points or whose opponent receives two “Gam-jeoms” in the golden round
+shall be declared the winner.
+
+4
+
+In the event that neither contestant has scored two (2) points after the completion of the golden round, the winner shall
+be decided by superiority based the following criteria:
+4.1
+The contestant who received a point by a punch in the golden round
+4.2
+If none of the contestant received a point by a punch or both contestants received a point by a punch each in
+the golden round, the contestant who achieved a higher number of hits registered by the PSS during the golden
+round.
+4.3
+If number of hits registered by the PSS is tied, the contestant who won more rounds in first three rounds
+4.4
+If number of round won is tied, the contestant who received less numbers of a “Gam-jeom” during all four rounds
+4.5
+If the three above criteria are the same, the referee and judges shall determine superiority based on the content
+of the golden round. If the superiority decision is tied among the referee and judges, the referee shall decide the
+winner.
+
+5
+
+In the best of three (3) system, in case of tie score for corresponding round, the round winner shall be decided by
+superiority based on following criteria:
+5.1
+Most points scored by turning or spinning kick.
+5.2
+If the technical score is the same, the contestant who has more scored in the order of a higher value techniques
+as follows (Head, Trunk, Punch, Gam-Jeom).
+5.3
+If the high value points are same, the contestant who received higher number of hits registered by the PSS..
+5.4
+If the three above criteria are the same, the referee and judges shall determine superiority.
+a) In case of two (2) corner judges, winner shall be decided by referee and two (2) judges
+b) In case of three (3) corner judges, winner shall be decided by three (3) judges except referee.
+
+1
+
+3회전까지 승패를 가리지 못할 경우 1분 휴식 후 제 4회전 연장전을 1분간 실시한다.
+
+2
+
+4회전 연장전 실시할 경우 3회전까지의 점수 및 벌칙사항은 무효로 처리하고 제 4회전의 점
+수만으로 판정을 한다.
+
+3
+
+연장전에서는 2점 이상 먼저 득점 하거나 상대방이 2개의 “감점”을 받았을 때 승자로 선언된
+다.
+
+4
+
+제 4회전에서 어느 선수도 2점 이상을 얻지 못하였을 때는 다음의 기준에 따라 우세승을 결
+정한다.
+4.1
+주먹으로 득점을 기록한 선수
+4.2
+두 선수 다 주먹 득점이 없거나 주먹 득점이 같을 경우 연장회전(제 4회전) 동안 전자
+채점보호구에 기록된 유효타의 횟수가 많은 선수
+4.3
+유효타가 동수일 때는 기존 3회전 중에서 회전 승리 횟수가 많은 선수
+4.4
+회전 승리 횟수가 동수일 때는 1회전부터 4회전까지 누적된 “감점” 횟수가 적은 선수
+4.5
+위 두 가지 기준이 모두 동일할 경우 주심과 부심이 연장회전(제 4회전)의 경기 내용을
+평가하여 우세승을 결정한다. 주심과 부심의 우세 판정이 동수를 이루었을 때는 주심
+이 우세승을 결정한다.
+
+5
+
+‘3전다승제’에서 어느 회전이든 동점으로 회전을 마쳤다면, 다음의 기준에 따라 해당 회전의
+승자를 결정한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 38
+
+5.1
+5.2
+5.3
+5.4
+
+회전공격으로 많은 점수를 득점한 선수
+회전공격의 점수가 동점일 때는 기술가치가 더 높은 공격 (머리, 몸통, 주먹, 감점) 순
+으로 더 많은 득점을 획득한 선수
+기술 가치에 따른 공격 득점이 동점일 경우 전자채점보호구의 유효타의 횟수가 높은
+선수
+위 세 가지 기준이 모두 동일할 경우 주심과 부심이 해당 회전의 경기 내용을 평가하
+여 우세승을 결정한다.
+a) 부심이 2명인 3심제의 경우, 주심과 2명의 부심이 승자를 결정한다.
+b) 부심이 3명인 4심제의 경우, 주심을 제외한 3명의 부심이 승자를 결정한다.
+
+(Explanation #1)
+Decision of superiority by judges shall be based on technical dominance of an opponent through aggressive match management, the
+greater number of techniques executed, the use of the more advanced techniques both in difficulty and complexity, and display of the
+better competition manner.
+(Explanation #2)
+In the event that referee is counting for delivering successful head kick which caused knock down right before the opponent’s body kick
+but only the latest body kick was registered, the coach of the athlete who delivered head kick may request for video replay. If review
+jury determines that head kick was valid and performed earlier than body kick, the referee shall invalidate the point(s) scored by body
+kick, then declare points for head kick, and declare the one who delivered head kick as winner.
+In the event that one athlete who already has one (1) point is delivering successful punch right before the opponent’s body kick but only
+the latest body kick was registered, the coach of the athlete who delivered punch may request for video replay. If review jury determines
+that punch was performed earlier than body kick, the referee shall ask whether corner judges were scored or not. If two or more corner
+judges scored for punch, referee shall invalidate the point(s) scored by body kick, then declare points for punch, and declare the one
+who delivered punch as winner
+
+(Guideline for officiating)
+The procedure for superiority decision shall be as follows except for the best of three (3) system.
+1) Prior to the contest, all refereeing officials take the superiority card with them.
+2) When a match is to be decided by superiority, the referee shall declare “Woo-se-girok (Record Superiority)”.
+3) Upon the referee’s declaration, the judges shall record the winner within 10 seconds with their heads down, sign on the card
+and then give it to the referee.
+4) The referee shall collect all superiority cards, record the final result, and then declare the winner.
+5) Upon declaration of winner, the referee shall hand over the cards to the recorder and the recorder shall submit the cards to
+the Technical Delegate of World Taekwondo.
+(Guideline for officiating for the best of three (3) system)
+1) When a round is to be decided by superiority, the referee shall declare “Woo-se-girok (Record Superiority)”.
+2) Upon the referee’s declaration, the judges declare the winner simultaneously after the Referee’s count of three (3) by using
+round winner hand signal facing the head table.
+3) In case of two (2) corner judges, winner shall be decided by referee and two (2) corner judges.
+4) In case of three (3) corner judges, winner shall be decided by three (3) corner judges except referee.
+5) The Review Jury shall record the final result, and declare to Operator the round winner.
+6) Upon declaration of winner, the referee shall declare the round or match winner.
+
+주-(1)
+주,부심의 우세승 판정의 기준은 제 4 회전에서의 경기 공격주도권, 기술 발휘 횟수, 고난도 기술 횟수,
+경기 매너 순으로 한다.
+주-(2)
+연장전에서 한 선수가 상대 머리에 대한 공격을 먼저 성공시켰으나 상대 선수의 몸통 득점이 먼저
+표출되었을 경우 비디오판독을 요청할 수 있다. 비디오판독관이 머리 공격에 대한 득점이 빨랐다고 판단
+시 주심은 몸통득점을 취소시키고 머리 득점을 한 선수를 승자로 선언한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 39
+
+(심판지침)
+‘3 전 다승제’를 제외하고, 우세승의 결정을 해야 할 경우 절차는 다음과 같다.
+1) 심판원은 경기에 임할 때 반드시 우세판정표를 지참한다.
+2) 우세승 판정을 해야 할 경우 주심은 각 부심에게 “우세 기록”이라고 외친다.
+3) 주심의 “우세 기록” 선언이 있으면 부심 전원은 반드시 머리를 숙이고 10초 이내에 기록을 마치
+고 기록표에 본인의 서명을 한다. 주심에게 제출한다.
+4) 주심은 부심의 우세판정표를 받아 종합 기록을 한 후 승패를 선언한다.
+5) 승패 선언 후 주심은 우세판정표를 기록원에게 전달하고 기록원은 세계태권도연맹 기술대표에
+게 전달한다.
+(‘3 전 다승제’의 심판지침)
+1) 동점인 회전에서 우세승 판정을 해야 할 경우 주심은 각 부심에게 “우세 기록”이라고 외친다.
+2) 주심의 “우세 기록” 선언이 있으면, 부심은 팔을 핀 상태에서 주심의 “하나”, “둘”, “셋” 카운트에
+맞춰 “셋”을 셈과 동시에 손으로 승자를 가리킨다.
+a) 부심이 2 명인 3 심제의 경우, 주심과 2 명의 부심이 승자를 결정한다.
+b) 부심이 3 명인 4 심제의 경우, 주심을 제외한 3 명의 부심이 승자를 결정한다.
+3) 비디오판독관은 주, 부심이 결정한 최종결과를 기록하고, 기록원에게 회전 승자를 알린다.
+4) 승자를 선언함에 따라, 주심은 회전 또는 경기의 승자를 선언한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 40
+
+Article 16
+제 16 조
+
+Decisions
+경기결과판정
+
+1
+
+Win by Referee Stops Contest (RSC)
+
+2
+
+Win by final score (PTF)
+
+3
+
+Win by point gap (PTG)
+
+4
+
+Win by golden points (GDP)
+
+5
+
+Win by superiority (SUP)
+
+6
+
+Win by withdrawal (WDR)
+
+7
+
+Win by disqualification (DSQ)
+
+8
+
+Win by referee’s punitive declaration (PUN)
+
+9
+
+Win by disqualification for unsportsmanlike behavior (DQB)
+
+1
+
+주심직권승
+
+2
+
+최종점수승
+
+3
+
+점수차승
+
+4
+
+골든포인트승
+
+5
+
+우세승
+
+6
+
+기권승
+
+7
+
+실격승
+
+8
+
+반칙승
+
+9
+
+비스포츠맨쉽 실격승
+(Explanation #1)
+Referee Stops Contest:
+The referee declares RSC in the following situations:
+i.
+ii.
+iii.
+iv.
+
+if a contestant has been knocked down by an opponent’s legitimate technique and cannot resume the contest by the count
+of “Yeo-dul”; or if the referee determines the contestant is not able to resume the competition regardless of the progress
+of counting;
+if a contestant disregards the referee’s command to continue the match three times;
+if the referee recognizes the need to stop the match to protect a contestant’s safety;
+when the Commission Doctor determines that the match should be stopped due to a contestant’s injury;
+
+(Explanation #2)
+Win by point gap: In case of twenty (20) points difference between two athletes at the time of the completion of 2nd round and/or at any
+time during the 3rd round, the referee shall stop the contest and shall declare the winner by point gap. Win by point gap shall not be
+applied in semi- finals & finals in senior division by the outline of tournament.
+(Explanation #3)
+Win by withdrawal: The winner is determined by withdrawal of the opponent.
+When a contestant withdraws from the match due to injury or other reasons
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 41
+
+-
+
+When the coach throws a towel into the court to signify forfeiture of the match
+
+(Explanation #4)
+Win by disqualification: This is the result determined by the contestant’s failure in weigh-in or when a contestant fails to report to the
+Athlete Calling Desk following the third call.
+The follow-up actions should be different in accordance with the reason of disqualification.
+i.
+In the event that contestants have not passed or did not show at weigh-in: The result should be reflected on the draw sheet
+and the information should be provided to technical officials and all relevant persons. Referees will not be assigned for this
+match. The opponent of athletes that did not pass or show at weigh-in will not need to appear at the court to compete.
+ii.
+In the event that a contestant passed weigh-in but did not appear at the Athletes Calling Desk: The assigned referee and
+opponent shall enter the FOP and waiting in their position until the referee declares the opponent a winner of the match.
+Detailed procedure is stipulated in 4.1 of Article 10.
+(Explanation #5)
+Win by the referee’s punitive declarations:
+The referee declares PUN in the following situations:
+i.
+if a contestant accumulated ten (10) “Gam-jeom”
+(Explanation #6)
+Win by disqualification for unsportsmanlike behavior: DQB shall be declared in the following situations:
+When a contestant or any of his/her team member is found manipulating of the sensor(s) or scoring system of the PSS
+When a contestant cheats the process of weigh-in
+When a contestant is found violating the WT Anti-Doping Rules
+When a contestant or coach commits serious infringing behavior described in article 23.3.1& 23.3.2
+The all result of contestant who lost by DQB shall be removed, and other contestant’s result which affected by DQB shall be reallocated.
+(Explanation #7)
+In the best of three (3) system, the decisions shall follow the procedure of Article 16:
+16.1 Win by Referee Stops Contest (RSC)
+16.2 Win by Final Score (PTF)
+16.6 Win by Withdrawal (WDR)
+16.7 Win by Disqualification (DSQ)
+16.9 Win by Disqualification for unsportsmanlike behavior (DQB)
+i)
+ii)
+
+In case of Article 16.2. Win by final score (PTF), match score shall be the sum of the number of round won of the three
+rounds.
+In case of Article 16.3. Win by point (PTG), in case of twelve (12) points difference between two athletes per round, the
+referee shall stop the contest and shall declare the winner by point gap for corresponding round. Point gap for
+corresponding round shall not be applied in semi- finals & finals in senior division by the outline of tournament.
+
+주-(1)
+주심직권승:
+주심은 다음의 경우에 주심직권승을 선언한다.
+i.
+선수가 득점 기술에 의하여 쓰러져 주심이 “여덟”까지 계수할 때에도 경기 속행이 불가능한
+경우, 또는 계수의 진행에 상관없이 주심이 경기 속행이 불가하다고 판단했을 때
+ii.
+선수가 주심의 3 회의 경기속행 지시(“stand-up”)에 따르지 않을 때
+iii.
+주심이 선수의 안전을 위하여 경기를 중단시켜야 한다고 판단했을 때
+iv.
+임석의사가 선수의 부상으로 인하여 경기 중단을 결정했을 때
+주-(2)
+점수차승:
+2 회전 종료 시점 또는 3 회전 중 언제라도 20 점 차가 날 경우 주심은 경기를 중단시키고 승자에게
+점수차승을 선언한다. 성인대회의 준결승 및 결승 경기에서는 점수차승이 적용되지 않는다.
+주-(3)
+기권승: 상대방 경기 포기로 인하여 얻는 승리
+한 선수가 부상 또는 기타 이유로 경기를 포기하였을 때
+코치가 자기 소속 선수의 열세로 더 이상 경기를 속행 시킬 필요가 없다고 판단하여 경기장
+내로 수건을 던졌을 때
+주-(4)
+실격승: 상대 선수가 계체 실격 또는 3 번째 선수 호출 후에도 선수 대기석에 나타나지 않을 경우
+내려지는 승리
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 42
+
+실격승의 사유에 따라 다른 조치를 취한다.
+i.
+선수가 계체에 불참하였거나 계체를 통과하지 못했을 경우 이 사실은 모든 기술임원과 관계자
+에게 사전에 통보된다. 해당 경기에는 심판이 배정되지 않고 상대 선수도 시합을 위해 입장해
+있을 필요가 없다.
+ii.
+선수가 계체는 통과하였으나 선수대기석에 나타나지 않았을 경우에는 배정된 심판과 상대 선수
+가 입장하여 대기하다가 주심이 상대 선수의 승리를 선언한다. 자세한 절차는 10조 4.1에 따른
+다.
+주-(5)
+반칙승:
+주심은 다음과 같은 경우 반칙승을 선언한다.
+i.
+상대 선수가 10 개의 “감점”을 받았을 때
+주-(6)
+비츠포츠맨쉽 실격승
+다음과 같은 경우 비스포츠맨쉽 실격승을 선언한다.
+선수 또는 팀 관련자가 전자감응장치를 조작하여 적발 됬을 경우
+계체 시 부정 행위를 저질렀을 경우
+당 연맹 반도핑 규정을 위반 했을 경우
+선수 또는 코치가 본 경기 규칙 23.3.1 및 23,3,2 조항에 명시한 스포츠맨쉽에 어긋나는 행동
+했을 경우
+비스포츠맨쉽에 의해 패자가 된 선수의 경기 기록은 삭제되고 이에 영향 받은 선수들의 기록은 재조정된
+다.
+주-(7)
+‘3전다승제’에서의 경기결과판정은 16조의 다음항을 따른다.
+16.1 주심직권승
+16.2 최종점수승
+16.6 기권승
+16.7 실격승
+16.9 비스포츠맨쉽 실격승
+i.
+
+16.2조항의 최종점수승의 경우, 점수는 1회전부터 3회전까지 승리한 회전을 합산한 것을 말한다.
+
+ii.
+
+16.3조항의 점수차승의 경우, 한 회전에서 두 선수의 점수 차이가 12점 이상일 경우 주심은 경
+기를 즉시 중단시키고 승자에게 해당 회전의 점수차승을 선언한다. 성인대회의 준결승 및 결승
+경기에서는 회전간 점수차승을 적용하지 않는다
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 43
+
+Article 17
+제 17 조
+
+Knock Down
+위험한 상태
+
+A Knock Down shall be declared, when a legitimate attack is delivered and;
+1
+
+When any part of the body other than the sole of the foot touches the floor due to the force of the opponent’s scoring
+technique
+
+2
+
+When a contestant is staggered and shows no intention or ability to continue as a result of the opponent's scoring
+techniques.
+
+3
+
+When the referee judges that the contest cannot continue as the result of being struck by a legitimate scoring technique
+
+위험한 상태는 다음과 같은 경우를 말한다.
+1
+상대의 유효한 타격으로 인한 득점으로 발바닥을 제외한 신체의 일부분이 바닥에 닿고 있을
+때
+2
+
+상대의 유효한 타격으로 인한 득점으로 공격이나 방어의 의사 없이 비틀거리고 있을 때
+
+3
+
+상대의 강한 타격으로 인한 득점으로 주심이 경기를 지속할 수 없다고 인정했을 때
+
+(Explanation #1)
+A knock down:
+This is the situation in which a contestant is knocked to the floor or is staggered or unable to respond adequately to the requirements
+of the match due to a blow. Even in the absence of these indications, the referee may interpret as a knock down, the situation where,
+as the result of contact, it would be dangerous to continue or when there is any question about the safety of a contestant.
+주-(1)
+위험한 상태:
+타격에 의한 충격으로 쓰러지거나 쓰러지지 않았더라도 중심을 잡지 못하고 비틀거릴 때는 위험한
+상태로 본다. 또 주심이 계속 경기진행이 위험을 초래하거나 일시적으로 선수의 보호가 필요하다고
+판단할 만한 타격을 있을 때는 이를 위험한 상태로 처리할 수 있다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 44
+
+Article 18
+제 18 조
+
+Procedure in the event of a Knock Down
+위험한 상태에 대한 조처
+
+1
+
+When a contestant is knocked down as the result of the opponent’s legitimate attack, the referee shall take the following
+measures.
+1.1
+The referee shall keep the attacker away from downed contestant by declaration of “Kal-yeo (break)”. The
+recorder shall stop the match clock following the referee’s “Kal-yeo (break)” command.
+1.2
+The referee shall first check the status of the downed contestant and count aloud from “Ha-nah (one)” up to
+“Yeol (ten)” at one second intervals towards the downed contestant, making hand signals indicating the passage
+of time.
+1.3
+In case the downed contestant stands up during the referee’s count and desires to continue the fight, the referee
+shall continue the count up to “Yeo-dul (eight)” for recovery of the contestant. The referee shall then determine
+if the contestant is recovered and, if so, continue the contest by declaration of “Kye-sok (continue)”.
+1.4
+When a contestant who has been knocked down cannot demonstrate the will to resume the contest by the count
+of “Yeo-dul (eight)”, the referee shall announce the other contestant winner by RSC(Referee Stops Contest).
+1.5
+In case both contestants are knocked down, the referee shall continue counting as long as one of the contestants
+has not sufficiently recovered.
+1.6
+In case both contestants are knocked down and both contestants fail to recover by the count of “Yeol”, the winner
+shall be decided by the match score before the occurrence of Knock Down.
+1.7
+When it is judged by the referee that a contestant is unable to continue, the referee may decide the winner either
+without counting or during the counting.
+
+2
+
+Procedures to be followed after the contest: Any contestant who could not continue the match as a result of a serious
+injury regardless of any parts of the body cannot enter competition within thirty (30) days without approval of the WT
+Medical Chairman after submission of a statement from the physician designated by the pertinent national federation.
+2.1
+2.2
+2.3
+2.4
+
+2.5
+2.6
+2.7
+
+Except for medical emergency, any contestant with any serious injury must be evaluated by venue medical
+doctor and confirmed by medical chairman (MC) at medical room immediately after the contest.
+Any contestant who had knockout due to head injury must be checked by medical doctor at medical room per
+WT medical rules. A venue medical doctor must perform SCAT5 on the injured contestant for diagnosis of
+concussion in case of head injury within 30minutes after the head injury.
+Any significant(moderate to severe) head trauma or concussion carries mandatory suspension for any
+competition during the suspension period(see 18.2.5) This mandatory medical suspension period cannot be
+shortened in any circumstances once the suspension is given.
+The decision on the suspension of the contestant for significant head trauma or concussion must be made based
+the on one of the following criteria (1)~(3).
+(1) Comprehensive neurological examination and neurocognitive testing (SCAT 5 or other validated concussionassessment tools permitted by MC Chair) performed by commissioned doctor in the venue medical room
+which must be reported to MC Chair)
+(2) Referee-stop-contest due to any loss of consciousness, altered mental status or inability to make a meaningful,
+stable and voluntary movement as a result of a direct head trauma at least for ten (10) seconds or by the
+count ten (10)
+(3) Failure to fully recover from head trauma and resume the match within one (1) minute of medical evaluation
+on the mat after centre referee calls a doctor for possible concussion.
+Any contestant who had diagnosis of significant head trauma or concussion based on one of the above 2.4
+criteria will get 30days suspension(senior), 40days suspension(junior) or 50days suspension(cadet). This
+mandatory medical suspension period cannot be shortened in any circumstances once the suspension is given.
+Any contestant who had second concussion in last 90 days will get 90days suspension and who had third
+concussion in last 180days will get 180days suspension.
+For any incidence of concussion or significant head trauma underreported, misdiagnosed or mismanaged
+without mandatory medical suspension, WT Sport Department and WT MC Medical Committee led by WT MC
+Chair shall start investigating the incidence by retrospective video review even after the end of the competition.
+The incidence must be reported to WT MC Chair within 30days after the incidence date to commence the
+investigation. If the video review confirmed by at least three (3) reviewers of WT medical committee reveals
+obvious concussion or serious head trauma (knockout more than 10 seconds) or other serious injuries which
+mandate at least 30-day mandatory medical suspension, WT medical committee shall override the medical
+examiner (OMD or commissioned doctor)’s decision and apply the mandatory suspension rules to the athlete to
+protect the health and safety of the contestant.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 45
+
+1
+
+유효 부위에 정당한 가격으로 인하여 위험한 상태를 보일 때 주심은 다음과 같은 조치를 취
+한다.
+1.1
+“갈려”로 가격 선수를 먼 거리에 위치하도록 한다. 기록원은 주심의 갈려 선언과 함께
+시간을 멈춘다.
+1.2
+주심은 먼저 위험한 상태에 처한 선수의 상태를 확인한 후 그 선수에게 큰 소리로 “하
+나”, “둘” …… “열” 까지를 1초 간격으로 세며 이를 수신호로 알린다.
+1.3
+주심은 계수하는 도중 위험한 상태에 처한 선수가 일어나 경기 지속 의사를 표시하더
+라도 여덟을 셀 때까지 선수를 쉬게 하며 선수의 회복을 확인한 후 경기를 계속하게
+한다.
+1.4
+주심은 “여덟”을 셀 때까지 위험한 상태에 처한 선수가 경기 지속 의사를 취하지 못하
+면 이를 패자 (주심직권승=RSC)로 한다.
+1.5
+양 선수가 동시에 위험한 상태에 처한 경우 그 중 1명이 위험한 상태에 있는 한 계수
+는 계속된다.
+1.6
+양 선수가 동시에 위험한 상태에 처해 “열”을 셀 때까지 회복되지 않았을 경우 위험한
+상태에 처하기까지의 점수로 승패를 결정한다.
+1.7
+주심은 선수가 위험한 상태에 이르렀다고 판단되면 계수 없이 또는 계수 도중이라도
+승패를 결정할 수 있다.
+
+2
+
+사후조치: 어느 부위든 심한 부상으로 경기 속행이 불능했던 선수가 30일 이내에 경기에 출
+전하기 위해서는 해당국가협회가 지정한 의사가 신체 이상이 없다는 확인서를 제출하여 세계
+태권도연맹 의무위원장으로부터 승인을 득해야 한다.
+2.1
+응급상황의 경우을 제외하고는 경기종료 후 바로 의무실의사가 해당의무실에서 검사를
+해야하며 이 사실을 의무위원장에게 확인받아야 한다.
+2.2
+머리 부상에 의해 실신 했을 경우 임석의사는 연맹의무규정에 따라 부상 후 30분내로
+경기장 의무실에서 SCAT5 검사를 통해 뇌진탕 여부를 검사해야한다.
+2.3
+확연한 (중등도 내지 심각한) 두부 외상 혹은 뇌진탕의 경우 의학적 사유로 인한 의무
+출전 정지 기간 동안에는 어떠한 경기 출전도 금지된다. (세부내용은 18.2.5에 따른다).
+의무 출전 정지 기간은 출전 정지가 확정된 이후 어떠한 경우라도 단축될 수 없다.
+2.4
+심각한 두부 외상 혹은 뇌진탕을 입은 선수의 출전 정지 여부는 다음 (1)~(3) 중 한 가
+지의 기준에 따른다.
+(1) 종합 신경 검사 및 경기장 의무실에서 임석의사가 진행한 신경인지 검사(SCAT5 혹은
+의무위원장의 허가를 받은 다른 유효한 뇌진탕 평가 방법)
+(2) 두부 외상으로 인해 10초간, 혹은 주심이 “열”까지 계수 할때까지도 의식을 잃은 상태
+이거나, 정신 상태가 변화되어 있는 경우, 혹은 안정적이며 자발적 움직임을 보이지
+않아 주심직권승(RSC)이 부여된 경우
+(3) 두부 외상으로 인해 주심이 임석의사를 불러 뇌진탕 여부 확인을 위한 매트 위 1분
+간의 의무 확인 시간 이내에 완전히 회복하여 경기를 재개하지 못하는 경우
+2.5
+심각한 두부 외상 혹은 뇌진탕으로 2.4의 기준 중 하나에 포함되어 검사를 받은 선수의
+경우 30일(성인), 40일(주니어) 혹은 50일(카뎃)간 출전이 정지 된다. 의무 출전 정지 기간
+은 출전 정지가 확정된 이후 어떠한 경우라도 단축될 수 없다.
+2.6
+최근 90일 내 총 2회의 뇌진탕을 겪은 선수의 경우 90일간 출전이 정지되며 최근 180일
+내총 3회의 뇌진탕을 겪은 경우 180일간 출전이 정지된다.
+2.7
+뇌진탕 혹은 심각한 두부 외상이 제대로 검사가 이루어 지지 않았거나 보고가 되지 않
+았거나 오진으로 인해서 의무적 출전 정지 조치 없이 잘못 처리되어버린 경우, 당 연
+맹 스포츠국과 당 연맹 의무위원장 및 의무위원회가 대회 이후 영상 리뷰를 통해 사후
+조사를 진행 할 수 있다. 조사를 개시하기 위해서는 발생한 사항이 당 연맹 의무위원
+장에게 발생 후 30일 이내에 보고되어야 한다. 영상리뷰 상 최소 3인의 의무위원회 검
+토자로부터 확연한 뇌진탕 혹은 심각한 두부 외상(10초 이상 실신) 혹은 최소 30일 이
+상의 의무 출전금지를 강제하는 중대한 부상이 확인된 경우 당 연맹 의무위원회는 해
+당 경기 의무 검사관 (조직위 의무총책임자 (OMD) 혹은 임석 의사)의 결정을 기각할 수
+있으며 선수의 건강과 안전을 위해 의무 출전 정지 규정을 적용할 수 있다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 46
+
+(Explanation #1)
+Keep the attacker away:
+In this situation the standing opponent shall return to the respective contestant’s mark, however, if the downed contestant is on or near
+the opponent’s contestant’s mark, the opponent shall wait at the boundary line in front of his/her coach’s chair.
+(Guideline for officiating)
+The referee must be constantly prepared for the sudden occurrence of a knock down or situation where the contestant is staggered,
+which is usually characterized by a powerful blow accompanied by impact.
+(Explanation #2)
+In case the downed contestant stands up during the referee’s count and desires to continue the fight:
+The primary purpose of counting is to protect the contestant. Even if the contestant desires to continue the match before the count of
+eight is reached, the referee must count until “Yeo-dul (eight)” before resuming the match. Counting to “Yeo-dul” is compulsory and
+cannot be altered by the referee.
+*Count from one to ten: Ha-nah, Duhl, Seht, Neht, Da-seot, Yeo-seot, Il-gop, Yeo-dul, A-hop, Yeol.
+(Explanation #3)
+The referee shall then determine if the contestant has recovered and, if so, restart the contest by the declaration of “Kye-sok”:
+The referee must ascertain the ability of the contestant to continue while he/she counts until eight. Final confirmation of the contestant’s
+condition after the count of eight is only procedural and the referee must not needlessly pass time before resuming the contest.
+(Explanation #4)
+When a contestant who has been knocked down cannot express the will to resume by the count of “Yeo-dul”, the referee shall announce
+the other contestant winner by RSC after counting to “Yeol”:
+The contestant expresses the will to continue the match by gesturing several times in a fighting position with the clenched fists. If the
+contestant cannot display this gesture by the count of “Yeo-dul”, the referee must declare the other contestant winner after first counting
+“A-hop” and “Yeol”. Expressing the will to continue after the count of “Yeo-dul” cannot be considered valid. Even if the contestant
+expresses the will to resume by the count of “Yeo-dul”, the referee can continue counting and may declare the contest over if he/she
+determines the contestant is incapable of resuming the match.
+(Explanation #5)
+When a contestant is downed by a powerful scoring blow and whose condition appears serious, the referee can suspend the count and
+call for first aid or do so in conjunction with the count.
+(Guideline for officiating)
+i.
+The referee must not spend additional time confirming the contestant’s recovery after counting to “Yeo-dul” as a result of
+failing to observe that condition during the administration of the count.
+ii.
+When the contestant clearly recovers before the count of “Yeo-dul” and expresses the will to resume and the referee can
+clearly discern the contestant’s condition yet resumption is hampered by the requirement of medical treatment, the referee
+must first resume the match with the declaration of “Kye-sok” and immediately after declare “Kal-yeo” and “Kye-shi” and
+then follow the procedures of Article 19.
+주-(1)
+먼 거리에 위치토록 한다.
+일반적으로 선수 위치를 말한다. 그러나 다운된 선수가 상대 선수의 위치 주위에 있을 때는 가격 선수를
+자기 코치석 앞의 한계선상에 위치하도록 한다.
+(심판지침)
+주심은 경기 진행 중에 갑자기 일어나는 강한 타격과 그로 인한 위험한 상태 즉, 넉다운 또는
+스탠딩다운의 상황에 대해 기민한 판단으로 대처할 수 있어야 한다.
+주-(2)
+1.3
+주심이 계수하는 도중 위험한 상태에 처한 선수가 일어나 경기 지속 의사를 표시한다:
+계수를 하는 가장 중요한 목적은 선수를 보호하기 위한 것이다. 선수가 비록 여덟 이전에 경기 지속
+의사를 표시하더라도 여덟까지 세기 전에 경기를 속행시킬 수 없다. 계수를 여덟까지 하는 것은 주심이
+임의로 바꿀 수 없는 강제 조항이다.
+주-(3)
+선수의 회복을 확인한 후 경기를 계속한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 47
+
+여덟을 셀 때까지 주심은 선수의 회복 여부에 대한 판단을 마쳐야 한다. 여덟 이후의 확인은 단순한
+점검이다. 짧은 순간에 확인하고 바로 경기의 속행을 명해야 한다.
+주-(4)
+주심이 여덟을 셀 때까지 위험한 상태에 처한 선수가 경기 지속 의사를 취하지 못하면 이는 패자(RSC 로
+한다:
+경기지속 의사란 선수가 겨루기 자세로 서서 겨눈 양 주먹을 가볍게 흔들어 주는 것을 말한다. 계수
+여덟까지 선수가 경기지속 의사를 표하지 않으면 주심은 아홉, 열을 센 후 상대 선수에게 승리를
+선언한다. 여덟 이후의 경기지속 의사는 아무 효력을 가질 수 없다. 또 비록 경기지속 의사를 표했을
+지라도 선수가 대전을 계속할 수 없다고 판단될 때는 열까지 센 다음 경기 결과를 선언할 수 있다.
+주-(5)
+주심은 선수가 상대의 강한 공격으로 인한 득점에 의해 위험한 상태에 이르렀다고 판단되면 계수 없이
+또는 계수 도중이라도 승패를 결정할 수 있다:
+선수가 받은 충격의 정도가 몹시 위험하여 응급조치에 시간을 지체할 수 없다고 판단되었을 때는 계수
+없이 또는 계수 중이라도 언제든지 바로 승패를 결정할 수 있다.
+(심판지침)
+i.
+ii.
+
+“여덟”을 세는 과정에서 선수의 회복 여부를 결정하지 못하고 확인을 위해 시간을 끄는 행
+위를 해서는 안 된다.
+“여덟” 이전에 선수가 의식을 분명히 회복하고 경기지속 의사를 표했으며, 주심도 경기 속행
+이 가능하다고 판단하였으나, 부상 선수의 치료를 위해 경기 속행이 어려울 때는 “계속”을
+명하는 즉시 다시 갈려 선언을 하고 “계시”를 선언한 후 제 19 조 경기중단상황의 처리 방
+법에 따라 조치한다
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 48
+
+Article 19
+제 19 조
+1
+
+When a contest is to be stopped due to the injury of one or both contestants, the referee shall take the measures
+prescribed below. However, in a situation which warrants suspending the contest for reasons other than an injury, the
+referee shall declare“Kal-yeo (break)” and resume the contest by declaring “Kye-sok (continue)”.
+1.1
+1.2
+
+1.3
+1.4
+1.5
+
+1.6
+
+1.7
+
+1.8
+
+1
+
+Procedures of suspending the match
+경기중단 상황의 처리
+
+The referee shall suspend the contest by declaration of “Kal-yeo” and order the recorders to suspend the time.
+The referee shall allow the contestant one minute to receive first aid by the commission doctor; the referee may
+allow team doctor to treat first aid if the commission doctor is not available or if it is deemed necessary.
+1.2.1 The commission doctor may request more time (up to 2 minutes) if necessary.
+1.2.2 If there is no commission doctor, team doctor or medical chairman available, any doctor (or medical
+associate) near competition mat can be requested to provide the athlete with first aid.
+If an injured contestant cannot return to the match after one minute the referee shall declare the other contestant
+winner.
+In case resumption of the contest is impossible after one minute, the contestant causing the injury by a prohibited
+act to be penalized by “Gam-jeom” shall be declared the loser.
+In case both the contestants are knocked down and are unable to continue the contest after one minute, the
+winner shall be decided upon points scored before the injuries occurred.
+1.5.1 In case of best of three (3) System: If both contestants are knocked down and are unable to continue the
+contest after one minute at the Round 1 or Round 3, the winner shall be determined by the points scored
+before the injuries occurred in the pertinent Round. If this occurs during the Round 2, the winner shall be
+determined by the decision of the Round 1.
+1.5.2 If points are tied, the winner shall be decided according to criteria of superiority.
+If the referee determines a contestant’s pain is caused only by a bruise the referee shall declare “Kal-yeo” and
+give a command to resume the match with the call, “stand-up”. If the contestant refuses to continue the match
+after the referee gives the command “stand up” three times, the referee shall declare the match ‘Referee Stops
+Contest’.
+If the referee determines a contestant has received an injury such as broken bone(s), dislocation, sprain ankle(s),
+and/or bleeding, the referee shall allow the contestant to receive a first aid treatment for one minute after “Kyeshi”. The referee may allow the contestant to receive first aid treatment even after giving the commanding “standup” if the contestant is determined to be injured in one of the categories above.
+Stopping the match due to injury: If the referee determines a contestant has received an injury such as broken
+bone(s), dislocation, sprain ankle(s), and/or bleeding, the referee shall consult with the chairperson of the
+Medical Committee or the commissioned doctor assigned by the chairperson. If a contestant is re-injured in the
+same manner, the chairperson of the Medical Committee or the commission doctor assigned by the chairman
+may advise the referee to stop the match and declare the injured the loser.
+
+부상으로 인하여 경기가 중단되었을 때 주심은 다음의 조치를 취한다. 부상 외 이유로 인하
+여 경기가 중단되었을 때 주심은 “갈려”를 선언하여 경기시간을 정지시키며 “계속”을 선언하
+여 경기를 재개시킨다.
+1.1
+경기를 “갈려” 선언으로 경기시간을 정지시킨다.
+1.2
+1분이 초과하지 않은 범위 내에서 임석의사의 치료를 허가한다. 임석의사가 없거나 또
+는 주심이 필요하다고 판단될 때에는 팀 닥터의 치료를 허가할 수 있다.
+1.2.1 임석의사는 필요 시 추가 2분까지의 치료를 요청 할 수 있다.
+1.2.2 임석의사, 팀닥터, 의무위원장 모두 부재 시 주변에 있는 어느 의사도 응급처치를
+요청 할 수 있다.
+1.3
+1분이 경과하도록 경기지속 의사를 표하지 않는 선수는 패자로 한다.
+1.4
+1분이 경과하여 속행이 불가능한 경우, 부상이 “감점”행위에 의한 경우는 부상케 한 자
+를 패자로 한다.
+1.5
+양 선수가 동시에 쓰러져 1분이 경과하여도 속행이 불가능할 경우 부상 시까지의 점수
+로 승패를 결정한다.
+1.5.1 3전 다승제의 경기에서, 양 선수가 모두 쓰러져 1분이 경과한 후에도 경기를 속개
+하기 어려울 때, 1회전 또는 3회전에 상황이 발생한 경우 부상 시까지의 점수로 승
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 49
+
+1.6
+
+1.7
+
+1.8
+
+패를 결정하고, 2회전에 상황이 발생한 경우 1회전 경기 결과로 승패를 결정한다.
+1.5.2 동점일 경우, 우세승 판정으로 승패를 결정한다.
+만약 주심이 선수의 통증이 타박에 의하여 야기된 경우로 판단했을 때는 “갈려” 선언으
+로 경기를 중단시키고, 경기속행 지시(“stand-up”)를 한다. 선수가 주심의 세 차례의 경기
+속행 지시에도 경기 속행에 임하지 않을 때는 상대 선수에게 주심직권승을 선언한다.
+만약 선수가 골절, 탈골, 염좌 또는 출혈 등의 부상을 당한 것으로 판단될 때에는 주심
+은 “계시”를 선언하고 1분간 치료를 받게 한다. 주심은 경기속행 지시를 한 후일 때라
+도 만약 선수가 이와 같은 부상을 당한 것으로 판단될 때에는 1분의 치료를 받게 조치
+할 수 있다.
+부상으로 인한 경기의 중단: 선수가 골절, 탈골, 염좌 또는 출혈 등의 부상을 당한 것
+으로 판단될 때에는 주심은 의무위원장 또는 의무위원장이 지명한 임석의사의 조언을
+구할 수 있다. 만약 선수가 한 경기에서 동일한 부상으로 두 번째 경기를 중단해야 할
+경우에는 의무위원장 또는 의무위원장이 지명한 임석의사가 주심에게 경기의 중단을
+조언할 수 있으며, 이 때 주심은 상대 선수를 승자로 선언한다.
+
+(Explanation #1)
+When the referee determines that the competition cannot be continued due to injury or any other emergency situation, he/she may take
+the following measures:
+i.
+
+If the situation is critical such as a contestant losing consciousness or suffering from a severe injury and time is crucial, first
+aid must be immediately directed first and the match must be closed. In this case, the result of the match will be decided
+as follows.
+The contestant causing the injury shall be declared the loser if the outcome was the result of a prohibited act
+to be penalized by “Gam-jeom”.
+The incapacitated contestant shall be declared the loser if the outcome was the result of a legal action or
+accidental, unavoidable contact.
+If the outcome was unrelated to the match contents, the winner shall be decided by the match score before
+suspension of the match. If the suspension occurs before the end of the first round, the match shall be
+invalidated. If points are tied, the winner shall be decided according to the criteria of superiority.
+In case of best of three (3) System: If the outcome was unrelated to the match contents, the winner shall be
+determined by the points scored before the suspension occurred in the pertinent Round (in case of the
+Round 1 or 3). If points are tied, the winner shall be decided according to the criteria of superiority. If this
+occurs in the Round 2, the winner shall be determined by the decision of the Round 1.
+
+ii.
+
+If first aid treatment is need for an injury, the contestant can receive necessary treatment within one minute after the
+declaration of “Kye-shi”.
+Order to resume the match: It is the decision of the center referee, after consultation with the Commission
+Doctor, whether or not it is possible for the contestant to resume the match. The referee can anytime order the
+contestant to resume the match within one minute. The referee can declare any contestant who does not follow
+the order to resume the match the loser of the contest.
+While the contestant is receiving medical treatment or is in the process of recovering, 40 seconds after the
+declaration of “Kye-shi”, the referee begins to loudly announce the passage of time in five second intervals.
+When the contestant cannot return to the Contestant’s Mark by the end of the one minute period, the match
+results must be declared.
+After the declaration of “Kye-shi”, the one minute time interval must be counted from the moment the
+commission doctor enter the mat or after waiting for commission doctor up to 10 seconds if not readily available
+in the mat. However, when the doctor’s treatment is required but the doctor is absent or additional treatment is
+necessary, the one minute time limit can be suspended by the judgment of the referee.
+If resumption of the match is impossible after one minute, the decision of the match will be determined
+according to sub-article “i” of this article.
+
+iii.
+
+If both contestants become incapacitated and are unable to resume the match after one minute or urgent conditions arise,
+the match result is decided according to the following criteria:
+If the outcome is the result of a prohibited act to be penalized by “Gam-jeom” by one contestant that person
+shall be the loser.
+If the outcome was not related to any prohibited act to be penalized by “Gam-jeom”, the result of the match
+shall be determined by the match score at the time of suspension of the match. However, if the suspension
+occurs before the end of the first round, the match shall be invalidated and the Organizing Committee will
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 50
+
+-
+
+-
+
+determine an appropriate time to re-contest the match. The contestant who cannot resume the match shall be
+deemed to have withdrawn from the match.
+In case of best of three (3) System: If the outcome was unrelated to “Gam-jeom” penalty, the contest result
+shall be determined by the points scored before the suspension occurred in the pertinent Round (in case of
+Round 1 or 3). If the points are tied, the winner shall be determined according to the criteria of superiority. If
+this occurs in the Round 2, the winner shall be determined by the decision of the Round 1.
+If the outcome is the result of prohibited acts to be penalized by “Gam-jeom” by both contestants, then both
+contestants shall lose.
+
+(Explanation #2)
+The situation which warrants suspending the match beyond the above-prescribed procedures shall be treated as follows.
+i.
+ii.
+
+iii.
+
+When uncontrollable circumstances require suspension of the match, the referee shall suspend the match and follow the
+directives of the Technical Delegate.
+If the match is suspended after the completion of the second round, the outcome shall be determined according to the
+match score at the time of suspension.
+In case of best of three (3) System, if the match is suspended, the outcome shall be determined by the point
+scored before the suspension occurred in pertinent Round in case of Round 1 or Round 3 of the contest. If
+points are tied, the winner shall be decided according to the criteria of superiority. In case of the occurrence
+during Round 2, the winner shall be decided upon decision of Round 1.
+If the match is suspended before the conclusion of the second round, a rematch shall, in principle, be conducted and shall
+be held in three rounds.
+
+주-(1)
+부상 또는 응급 사태의 발생으로 경기 진행이 불가능하다고 판단되었을 때 주심은 다음과 같이 처리할
+수 있다.
+i.
+
+부상 또는 그 사태가 선수가 의식을 잃고 쓰러져 있는 등 시간을 지체할 수 없는 긴급한 위험
+상황이라고 판단될 때는 먼저 선수가 응급처치를 받게 하고 바로 경기를 종결시켜야 한다. 이
+때 승패는:
+그 행위가 “감점” 행위에 의해 야기된 경우에는 행위자를 패자로 하고,
+그 행위가 정상적인 경기 진행 중에 일어난 “감점” 행위가 아닌 동작이나 정당한 기
+술에 의한 것일 경우 경기불능 자를 패자로 한다.
+경기진행과 무관한 경기외적 사태로 말미암은 부상 및 응급상황에서는 양 선수가 그
+때까지 받은 점수로 승패를 정한다. 1회전도 끝나지 않았을 때는 그 경기를 무효로 한
+다. 동점일 경우, 우세승 판정으로 승패를 결정한다.
+3전 다승제 경기에서는, 경기외적 요인으로 인하여 경기 진행이 불가능하게 되었을
+때 양 선수가 해당 시점까지 받은 점수로 승패를 결정한다 (1회전 및 3회전에 해당).
+동점일 경우, 우세승 판정으로 승패를 결정한다. 만약, 2회전 경기 중 상황이 벌어진
+경우, 1회전 경기 결과로 승패를 결정한다.
+
+ii.
+
+치료가 필요한 경우 주심은 계시 후 1분의 범위 내에서 응급치료를 받게 한다..
+경기속행의 지시: 주심은 임석 의사와 상의 한 후 선수가 경기를 재개할 수 있을지
+없을지 결정한다. 심판은 언제든지 선수에게 1분 이내에 경기를 재개할 것을 명령할
+수 있다. 심판은 경기를 재개하라는 명령을 따르지 않는 선수를 경기의 패자로 선언
+할 수 있다.
+치료 또는 회복을 기다리는 도중에 계시 후 40초가 경과한 때로부터 주심은 5초 간격
+으로 “00초 경과”를 큰 소리로 알려야 한다. 1분이 되는 순간까지 선수 위치로 돌아오
+지 못할 때는 경기 결과를 선언해야 한다.
+1분의 치료 시간 시작은 임석의사가 매트에 들어 온 순간부터 또는 임석의사를 10초
+기다린 후 시작된다. 꼭 필요한 상황이지만 없을 경우 또는 경미한 부상이나 의사의
+치료에 약간의 추가 시간이 필요한 경우에는 주심의 판단에 따라 계시의 진행을 중단
+할 수 있다.
+1분이 경과하여도 경기진행이 불가능할 경우 승패는 위 “i”의 방법과 같이 결정한다.
+
+iii.
+
+양 선수가 모두 경기 불능상태에 빠져 1분 이내에 일어나지 못하거나 즉시 종결 상황에 처했을
+때의 승패는:
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 51
+
+-
+
+-
+
+-
+
+한 편의 선수가 “감점”행위를 범했을 때는 그 선수를 패자로 하고,
+“감점” 행위가 아닌 행위에 의한 상황일 경우는 그 때까지의 점수로 승패를 정한다.
+단, 1회전도 끝나지 않았을 경우는 그 경기를 무효로 하고 대회본부가 정한 시간에 재
+대전케 한다. 이 때에도 경기의 속행이 불가능한 선수가 있을 때는 기권으로 처리한
+다.
+3전 다승제 경기에서 감점 행위가 아닌 행위에 의한 상황일 경우, 상황이 발행한 시
+점까지의 점수로 승패를 결정한다 (1회전 및 3회전에 해당). 동점일 경우, 우세승 판정
+으로 승패를 결정한다. 만약 2회전 경기중 상황이 발생한 경우 1회전 경기 결과로 승
+패를 결정한다.
+양 선수가 모두 “감점” 행위를 범했을 때는 두 선수 모두 반칙패로 선언한다.
+
+주-(2)
+본 규정에 명시된 사태 이외 경기 중단 상황은 다음에 따라 처리한다.
+i.
+ii.
+
+iii.
+
+부득이한 사정에 의해 경기 진행이 불가능한 상황이 초래되었을 때는 주심이 경기를 중단시키
+고 기술 대표의 지시에 따른다.
+2회전 종료 이후에 경기가 중단되었을 때는 그 때까지의 점수로 승패를 정한다.
+3전다승제 경기일 때, 1라운드 또는 3라운드 진행 중 경기가 중단되었을 때, 해당 시점
+까지의 점수로 승패를 결정한다. 동점일 경우, 우세승 판정으로 승패를 결정한다. 2라
+운드 진행중 경기가 중단되었을 때는 1라운드 경기결과로 승패를 결정한다.
+2회전 종료 이전에 경기가 중단되었을 때는 재대전을 원칙으로 하고 재대전은 1회전부터 한다
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 52
+
+Article 20
+제 20 조
+
+Technical Officials
+기술임원
+
+1
+
+Technical Delegate (TD)
+1.1
+Qualification: WT President shall appoint TD among members of WT technical committee for WT promoted
+championships upon recommendation of WT Secretary General.
+1.2
+Roles: TD is responsible to ensure that WT Competition Rules are properly applied and preside over the Head
+of Team meeting and drawing of lots session. TD approves the result of draw, weigh-in and competitions before
+it being officialized. TD has the right to make final decisions on competition area and overall technical matters
+on competitions in consultation with Competition Supervisory Board. TD shall make final decisions on any
+matters pertaining to competitions not prescribed in Competition Rules. TD serves as the Chairman of
+Competition Supervisory Board. TD is responsible for reporting of event evaluation.
+
+2
+
+Competition Supervisory Board (CSB) Member
+2.1
+Qualification: CSB members shall be appointed by the WT President upon recommendation of Secretary
+General from those who have sufficient experience and knowledge of taekwondo competitions.
+2.2
+Composition: CSB shall consist of one Chairperson and no more than 4 members at WT-promoted
+championships. Chairpersons of WT Games Committee, WT Referee Committee, and WT Medical Committee
+and WT Athlete Committee shall be included in CSB as ex-officio members. The composition, however, may be
+adjusted by the President, if necessary.
+2.3
+Roles: CSB shall assist TD in competitions and technical matters and ensure the competitions are held in
+accordance with the schedule. CSB shall evaluate the performances of Review Jury and refereeing officials.
+CSB shall also concurrently act as the Extraordinary Sanctions Committee during competition with regard to
+competition management matters.
+
+3
+
+Refereeing officials
+3.1
+Qualification: Holders of International Referee Certificate registered by the WT
+3.2
+Duties
+3.2.1 Referee
+3.2.1.1 The referee shall have control over the match.
+3.2.1.2 The referee shall declare “Shi-jak”, “Keu-man”, “Kal-yeo”, “Kye-sok”, “Kye-shi”, “Shi-gan”, winner
+and loser, deduction of points, penalty, and retiring. All the referees’ declarations shall be made
+after the results are confirmed.
+3.2.1.3 The referee shall have the right to make decisions independently in accordance with the prescribed
+rules.
+3.2.1.4 In principle, the center referee shall not award points. However, if one of the corner judges raises
+his/her hand because a point was not scored, then the center referee will convene a meeting with
+the judges. If it was found that two corner judges request for change of the judgment, the referee
+must accept and correct the judgment (in case of 1 referee + 3 judges). In a two corner judge
+setting, the result of the scoring can be revised when two persons among two judges and the
+referee agree to do so.
+3.2.1.5 In case as defined by the Article 15, the decision of superiority shall be made by refereeing officials
+after the end of four (4) rounds when necessary.
+3.2.2 Judges
+3.2.2.1 The judges shall mark the valid points immediately.
+3.2.2.2 The judges shall state their opinions forthrightly when requested to do so by the referee.
+3.2.3 Review Jury (RJ)
+3.2.3.1 RJ shall review an instant replay and inform the referee of the decision within thirty (30) seconds.
+3.2.4 Technical Assistant
+3.2.4.1 TA shall keep monitoring scoreboard during the contest if the scoring, penalties and timing are
+correctly publicized, and immediately notify the referee of any problematic issue in this regard.
+3.2.4.2 TA shall notify the referee of starting or stopping the contest in close communication with system
+operator and recorder.
+3.2.4.3 TA manually records all scores, penalties and IVR result in TA paper.
+3.3
+Composition of refereeing officials per court
+3.3.1 The officials’ squad is composed of one (1) referee and three (3) judges.
+3.3.2 The officials’ squad is composed of one (1) referee and two (2) judges
+3.4
+Assignment of refereeing officials
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 53
+
+3.4.1
+3.4.2
+
+4
+
+The assignment of the referees and judges shall be made after the contest schedule is fixed.
+Referees and judges with the same nationality as that of either contestant shall not be assigned to such a
+contest. However, an exception can be made for the judges when the number of refereeing officials is
+insufficient.
+3.5
+Responsibilities for decisions: Decisions made by the referees and judges shall be conclusive and they shall be
+responsible to the Competition Supervisory Board for the content of those decisions.
+3.6
+Uniforms
+3.6.1 The referees and judges shall wear the uniform designated by the WT.
+3.6.2 The refereeing officials shall not carry or take any materials to the contest area which might interfere with
+the contest. Use of mobile phones by refereeing officials in the field of play may be restricted, if necessary.
+Recorders: The recorder shall time the contest, periods of time-out, and suspensions, and also shall record and publicize
+the awarded points, and/or penalties.
+
+1
+
+기술대표
+1.1
+자격: WT사무총장의 제청으로 WT총재는 WT기술위원회 멤버 중 1명을 당 연맹이 주최
+하는 대회에 기술대표로 임명한다.
+1.2
+역할: 기술대표는 WT 경기규칙이 대회에 올바르게 적용되고 있는지를 감독하고 대표자
+회의와 추첨을 주재하며 대진표, 계체 및 경기 결과를 최종 승인한다. 기술대표는 경기
+장 및 경기에 관한 제반 기술적 문제에 대해 경기감독위원회와 상의하여 최종 결정할
+권한을 가진다. 경기규칙에 명시되어 있지 않은 사항에 대해서 기술대표의 결정은 최
+종이다. 기술대표는 경기감독위원회의 의장 역할을 겸한다. 기술대표는 대회 종료 후
+대회평가서를 연맹에 제출할 의무가 있다.
+
+2
+
+경기감독위원
+2.1
+자격: 경기감독위원은 충분한 태권도 경기 경험과 지식이 있는 자로 WT 사무총장의 제
+청으로 총재가 임명한다.
+2.2
+구성: 연맹 주최대회에서 경기감독위원은 의장 외 4명 이하로 구성된다. 본 연맹 경기
+위원회, 심판위원회, 의무위원회, 선수위원회의 위원장은 당연직 경기감독위원으로 임
+명한다. 단, 필요 시 총재가 구성을 조정할 수 있다.
+2.3
+역할: 경기감독위원회는 경기 및 기술적 문제 등에서 기술대표를 보조하며 대회가 일
+정대로 진행되도록 한다. 경기감독위원회는 비디오판독관과 심판원의 수행능력을 평가
+한다. 또한 경기감독위원회는 현장징계위원회로서의 역할을 수행한다.
+
+3
+
+심판원
+3.1
+자격: 본 연맹에 등록된 심판자격증 소지자
+3.2
+임무
+3.2.1 주심
+3.2.1.1 경기 전반에 걸쳐 주도권을 갖는다.
+3.2.1.2 경기의 “시작”, “그만”, “갈려”, “계속”, “계시”, “시간”, 승패의 선언, 감점 선언 벌칙
+선언, 퇴장 선언 등을 한다. 모든 선언은 결과가 확인된 후 선언한다.
+3.2.1.3 규정에 따라 판정권을 독자적으로 행사할 수 있다.
+3.2.1.4 원칙적으로 주심은 채점을 하지 않는다. 그러나, 점수가 채점되지 않아서 부
+심 중 한 명이 손을 들면 주심은 부심들과 회의를 소집하여 2명 이상의 부
+심이 요청 시 결과를 정정할 수 있다. 3심제의 경우 두 명의 부심이 동의하
+고 주심이 이에 동의할 경우 결과를 정정 할 수 있다.
+3.2.1.5 필요할 경우 본 규정 제15조에 따라 부심과 함께 연장회전 후 우세승을 결
+정한다.
+3.2.2
+
+부심
+3.2.2.1 득점이라고 인정되면 즉시 채점한다.
+3.2.2.2 주심이 의견을 물었을 때 자기의 소견을 진술한다
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 54
+
+3.2.3
+.
+
+3.2.3.1
+
+3.2.4
+
+4
+
+비디오판독관
+비디오판독관은 코치의 요청 시 즉시 비디오를 판독, 검토하여 결정을 30초
+내에 주심에게 알려줄 의무가 있다.
+
+보조심판
+3.2.4.1 보조심판은 경기 중 전광판을 주시하면서 득점, 벌칙, 시간이 정확히 표출되
+는지를 확인하고 어떤 문제라도 발생 시 즉시 주심에게 통보한다.
+3.2.4.2 보조심판은 기록원과 긴밀히 업무 연계를 하면서 주심에게 경기 시작 및 그
+만 신호를 한다.
+3.2.4.3 보조심판은 모든 득점, 벌칙, 비디오판독 결과를 보조심판기록지에 기록한다.
+
+3.3
+
+구성
+3.3.1 4심제: 주심 1명, 부심 3명
+3.3.2 3심제: 주심 1명, 부심 2명
+
+3.4
+
+심판원 배정
+3.4.1 심판원 배정은 대진표 작성 후에 한다.
+3.4.2 대전 선수와 동일한 국적 소지자는 심판으로 배정될 수 없다. 단, 경우에 따라 심
+판의 부족 시 부심은 예외로 한다.
+
+3.5
+
+판정의 책임: 심판 판정은 절대적인 것이며, 경기감독위원회에 진술한 내용에 대해 책
+임을 진다.
+
+3.6
+
+복장
+3.6.1 심판원은 본 연맹이 정한 복장을 착용하여야 한다.
+3.6.2 심판원은 경기지역 안에서 경기에 방해가 되는 물건을 휴대할 수 없다. 경기장 안
+에서 심판원의 휴대폰 사용은 제한될 수 있다.
+
+기록원: 정지 시간 등을 계측하고 득점 및 벌칙을 기록, 표출한다.
+
+(Explanation #1)
+Refereeing officials must stay in a separate hotel to avoid any contact with team officials. The hotel should be located less than 20
+minutes distance by car from the venue.
+(Interpretation)
+The details of the refereeing official’s qualifications, duties, organization, etc. shall follow the WT Regulations on the Administration of
+International Referees.
+(Interpretation)
+TD may replace or penalize the refereeing officials in consultation with CSB in the event that refereeing officials have been wrongly
+assigned, or when it is judged that any of the assigned refereeing officials have unfairly conducted the contest or made unjustifiable
+mistakes repeatedly.
+(Guideline for officiating)
+In case that each judge awards different score respectively to the legal attack on the head, for instance, one judge gives one point,
+another gives two and the other gives no point, and that no point is recognized as a valid one, or in the case that the recorder makes
+mistakes in timing, scoring or penalties, any of the judges may indicate the mistake and ask for confirmation among the judges. Then,
+the referee may declare “Kal-yeo” (break)” to stop the contest and gather the judges to ask for statements. After discussion, the referee
+must publicize the resolution. In the case that a coach requests for video review for the same case that one of the judges requests for
+a meeting between refereeing officials, the referee shall first gather judges before taking the request from coach. If it has been decided
+to correct the decision, the coach shall remain seated without using appeal quota. If the coach still stands and request for video review,
+the referee shall take the coach’s request.
+주-(1)
+심판 호텔은 선수단과 불필요한 접촉을 피하기 별개의 호텔을 배정 받아야 하며 경기장에서의 거리는
+자동차로 20 분내에 위치 하도록 한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 55
+
+(해설)
+심판원의 구성, 자격, 임무, 권한 등 제반 내용은 본 연맹의 심판운영규정에 따른다.
+(해설)
+심판 배정에 오류가 있거나 심판의 불공정한 경기 운영 혹은 납득하기 어려운 실수의 반복 시,
+기술대표는 경기감독위원회와의 논의를 통해 심판을 교체 혹은 징계에 회부할 수 있다.
+(심판지침)
+명백한 공격임에도 세 부심의 판정이 각기 달라 점수로 인정되지 않았을 경우 또는 기록원이 시간, 득점,
+벌칙 등에 있어 오류를 범했을 시 부심 누구라도 이의를 제기하면 주심이 ‘시간’을 선언하여 경기를
+중단시키고 부심에게 의견을 물어 번복할 수 있다. 만약, 같은 건에 대해 코치가 비디오판독을 요청할
+경우, 주심은 우선 부심과 합의를 통해 결정하고 번복이 안되었을 경우 코치의 요청을 받아들여 판독의
+기회를 준다. 또한 주심의 넉다운 판정에 부심이 이의가 있을 경우 주심이 셋 혹은 넷을 카운트할 때
+이의를 제기할 수 있다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 56
+
+Article 21
+제 21 조
+
+Instant Video Replay
+비디오판독
+
+1.
+
+In case there is an objection to a judgment of the refereeing officials during the contest, the coach of a team can make
+a request to the center referee for an immediate review of the video replay. The coach can only request video replay for
+followings;
+i)
+Penalties against the opponent for instances of falling down or crossing the boundary line or attacking the opponent
+after "Kal-yeo" or attacking the fallen opponent
+ii) Technical point
+iii) Any penalty against own contestant
+iv) Any mechanical malfunction or error in time management. In case of appeal for PSS mechanical malfunction, the
+coach may request to the center referee for a testing of the PSS at any time during the 2 nd and/or the 3rd round.
+However, if the PSS mechanical function is properly working, the coach’s appeal quota shall be forfeited. As well
+as this coach’s appeal is considered to be a misconduct of coach that “Gam-jeom” shall be given to own contestant
+in in accordance with Article 14.4.1.3 ‘Following Misconducts of contestant of coach’. This only applies to the ‘Best
+of 3’ System.
+v) When referee forgot to invalidate point(s) after “Gam-jeom” was given for prohibited act
+vi) Wrong identification of fist attacking contestant by judge
+vii) Head kick that is not scored
+
+2.
+
+When coach appeals, the center referee will approach the coach and ask the reason for the appeal. Any appeal shall
+not be admissible on any points scored by foot or fist attacks on the trunk or foot attack on trunk PSS. Coach may request
+instant video replay for head kick regardless of using head PSS. The scope of instant video replay request is limited to
+the only one action which has occurred within five (5) seconds from the moment of the coach’s request. Once the coach
+rises the blue or red card to request for instant video replay, it will be considered that the coach has used his/her allocated
+appeal under any circumstance unless the judge's meeting satisfies the coach.
+
+3
+
+Referee shall request the Review Jury to review the instant video replay. Review Jury, who is not of the same nationality
+as the contestants, shall review the video replay.
+3.1
+In the last five (5) seconds of any Round, the Center Referee may request for IVR review to check the possible
+Gam-jeom penalties for the following actions:
+Falling down
+Crossing the boundary line
+Attack after Kal-yeo
+Attack the fallen opponent
+* Any points scored after Prohibited Act will be invalidated.
+3.2
+If a referee perceives a contestant to be staggering, a strong impact to the head, kick to the eye(s), bleeding or
+knocked down by a kick to the head, and so begins counting, but the attack was not scored by the head PSS,
+the referee or coach must request IVR to make the decision for awarding or not awarding points after the
+count.
+3.3
+Referee may request IVR for clarification before declaration of "Gam-jeom" for pretending injury.
+
+4
+
+After review of the instant video replay, the Review Jury shall inform the center referee of the final decision within thirty
+(30) seconds after receiving the request.
+
+5
+
+Coach shall be allocated with one (1) appeal to request an instant video replay request per each contest. However,
+based on the size and level of the Championships, the Technical Delegate may decide the number of appeal quota
+during the head of team meeting. If the appeal is successful and the contested request is corrected, the coach shall
+retain the appeal right for the pertinent contest.
+
+6
+
+The decision of the Review Jury is final; no further appeals during the contest or protest after the contest will be
+accepted except errors in the calculation of scoring in contest of Olympic Qualification Tournaments, G6 event or
+above as explained article 21.7.1.
+
+7
+
+In the case that there is a clear erroneous decision from the refereeing officials and scoring operators on identification
+of the contestant or errors in the calculation of scoring as follows
+Score and Gam-jeom input by Operator
+Misidentification of athletes by Center Referee
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 57
+
+any of the refereeing officials shall request for IVR and correct the decision at any time during the round.
+7.1
+
+If errors in calculation of scoring or misidentification of the athlete were not corrected during the round by the
+refereeing officials and the errors subsequently affected the result of the winner of the contest or the round in
+Olympic Qualification Tournaments, G6 events or above, the Technical Delegate (TD) has the right to review the
+case with assistance of the Competition Supervisory Board (CSB) to make the necessary correction within 30
+minutes after the pertinent round. If the errors were identified and confirmed, the TD may request for resumption
+of the round from the moment when the error was occurred. In case of multiple errors, competition will be
+resumed from the moment when the first error was occurred.
+
+8
+
+In the case of a successful appeal, the Competition Supervisory Board may investigate the contest at the end of the
+competition day and take disciplinary action against the concerned refereeing officials, if necessary.
+
+9
+
+In any time during the round, any of the judges can ask for adding or removing technical points regardless of coach’s
+appeal quota.
+In the tournament where instant video replay system is not available, the following protest procedure will be applied.
+10.1 In case there is an objection to a referee judgment, an official delegate of the team must submit an application
+for re-evaluation of decision (protest application) together with the non-refundable protest fee of US$200 to the
+Board of Arbitration (Competition Supervisory Board) within 10 minutes after pertinent contest.
+10.2 Deliberation of re-evaluation shall be carried out excluding those members with the same nationality as that of
+contestant concerned, and resolution on deliberation shall be made by majority.
+10.3 The members of the Board of Arbitration (Competition Supervisory Board) may summon the refereeing officials
+for confirmation of events.
+10.4 The resolution made by the Board of Arbitration (Competition Supervisory Board) will be final and no further
+means of appeal will be applied.
+10.5 Deliberation procedures are as follows:
+10.5.1 A coach or head of team from the protesting nation shall be permitted to make a brief verbal presentation
+to the Board of Arbitration in support of their position. The coach or head of team from the respondent
+nation shall be allowed to present a brief rebuttal.
+10.5.2 After reviewing the protest application, the contest of the protest must be arranged according to the
+criterion of “Acceptable” or “Unacceptable”.
+10.5.3 If necessary, the Board can hear opinions from the referee or judges.
+10.5.4 If necessary, the Board can review the material evidence of the decision, such as the written or visual
+recorded data.
+10.5.5 After deliberation, the Board shall hold the secret ballot to determine a majority decision.
+10.5.6 The Chairperson will make a report documenting the outcome of the deliberation and shall make this
+outcome publicly known.
+10.5.7 Subsequent process following the decision:
+10.5.7.1 Errors in determining the match results, mistakes in calculating the match score or misidentifying
+a contestant shall result in the decision being reversed.
+10.5.7.2 Error in application of the rules: When it is determined by the Board that the referee made a clear
+error in applying the Competition Rules, the outcome of the error shall be corrected and the referee
+shall be punished.
+10.5.7.3 Errors in factual judgment: When the Board decides that there was a clear error in judging the facts
+such as impact of striking, severity of action or conduct, intention, timing of an act in relation to a
+declaration or area, the decision shall not be changed and the officials seen to have made the
+error shall be reprimanded.
+
+10
+
+1
+
+경기 도중 심판원의 판정에 이의가 있는 경우 코치는 주심에게 즉시 비디오판독을 다음과 같
+은 상황에서 요청할 수 있다
+i)
+상대 선수의 경우 넘어진 행위, 경기장 한계선 밖으로 나간 행위, 갈려 선언 후 가격
+행위, 그리고 넘어진 상대를 가격하는 행위에 따른 “감점” 사항들에서만 즉시
+비디오판독을 요청 할 수 있다.
+ii)
+부심의 기술점수
+iii)
+자기 선수에 대한 모든 “감점” 사항들에 즉시 비디오판독을 요청 할 수 있다.
+iv)
+기계의 결함 사항 및 경기시간 관리의 실수 사항. 전자호구 결함에 관한 경우, 코치
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 58
+
+v)
+vi)
+vii)
+
+는 2회전 또는 3회전 중 언제라도 전자호구 테스트를 주심에게 요청 할 수 있다. 하
+지만 전자호구 기능이 정상적으로 작동할 경우, 코치의 판독권은 박탈되며 또한, 이
+행위는 제 14 조 4.1.13 항에 따라 바람직하지 못한 행위로 간주되어 감점을 받는다.
+해당사항은 3전 다승제에서만 적용된다.
+주심이 감점 선언 후 관련된 득점을 취소시키지 않은 경우
+부심의 주먹 공격자 청.홍 판별 착오
+득점으로 인정되지 않은 머리공격
+
+2
+
+코치가 요청하면 주심은 코치에게 다가가 요청의 사유를 묻는다. 전자호구 사용 여부와 관계
+없이 발 공격에 의한 몸통 득점 여부는 비디오 판독 신청 대상이 아니다. 발 또는 주먹에 의
+한 몸통 득점 여부 또는 몸통 전자호구 사용시 발에 의한 득점여부는 이의 신청 대상이 아니
+다. 머리 전자호구 사용 여부와 관계없이, 코치는 머리 공격에 대한 비디오판독을 요청할 수
+있다. 비디오 판독 요청은 한 가지의 행위에 대해서만 할 수 있으며 요청 전 5초 이내에 일
+어난 행위로만 제한한다. 일단 코치가 비디오 판독을 위해 판독요청카드를 들면, 주, 부심의
+회의가 동일 건에 해당 되는 경우를 제외하고는 사용된 것으로 간주한다.
+
+3
+
+주심은 비디오 판독관에게 즉시 비디오 판독을 요구한다. 선수와 동일한 국적이 아닌 비디오
+판독관이 판독을 실시한다.
+3.1
+각 라운드 마지막 5초 동안에는, 주심이 다음의 행위에 대한 감점 사항을 체크하기 위
+하여 비디오 판독을 요청할 수 있다.
+넘어지는 행위
+경기장 한계선 밖으로 나간 행위
+갈려 선언 후 가격 행위
+넘어진 상대를 가격하는 행위
+* 금지행위가 일어난 후 획득한 점수는 무효처리 된다.
+3.2
+한 선수가 머리 부위의 타격에 의한 비틀거림, 머리에 강한 충격, 눈 공격으로 시야확
+보 불가 및 출혈이나 위험한 상태에 빠졌을 때 (knock down) 주심이 계수를 시작하였지
+만 전자 채점보호구에 의하여 득점으로 채점되지 않았을 때는, 주심 혹은 코치는 계수
+를 완료한 후 득점의 유효성을 확인하기 위하여 비디오 판독을 반드시 요청해야 한다.
+3.3
+단 주심은 감점 부여 전 정확한 상황 판단을 위해 비디오판독을 요청할 수 있다.
+
+4
+
+비디오 판독관은 즉시 비디오를 판독한 후 30초 이내에 주심에게 최종 판정을 알린다.
+
+5
+
+코치는 매 경기마다 1 개의 비디오판독 요청권를 갖는다. 다만 대회 규모와 성격에 따라
+기술대표는 한 선수에 대한 비디오판독요청권 수를 대표자회의를 통해 제한 할 수 있다.
+판독 요청이 받아들여지고 점수가 시정되는 경우 코치는 요청권를 해당 경기에서 돌려받는다.
+
+6
+
+비디오 판독관의 결정은 최종이다. 올림픽 선발전 및 G6 이상에 대회에서 경기규칙 21.7.1 에
+설명되어 있는 점수 계산 오류를 제외하고 경기 중 더 이상의 항의나 경기 후 소청은
+수용되지 않는다.
+
+7
+
+오퍼레이터의 점수 및 감점입력, 주심의 청홍 선수 착오 등과 같이 선수구분 및 점수계산
+관련하여 심판 및 오퍼레이터의 명백한 착오가 있을 경우, 심판원들 중 누구라도 회전 도중
+비디오판독 및 판정의 정정을 요청할 수 있다.
+7.1
+올림픽 선발전 및 G6 이상의 대회에서 점수 계산 및 청 홍 선수 착오에 대한 오류를
+심판이 해당 회전에서 정정하지 않았으며, 해당 오류가 회전 또는 경기 승자를
+결정하는데 영향을 미치는 경우, 기술대표는 해당 회전 종료 후 30 분 이내에
+경기감독위원회와 협의하여 해당 경기를 검토하고 오류를 정정할 권한이 있다. 오류가
+확인된 경우, 기술대표는 해당 오류가 발생한 시점부터 경기 속개를 요청할 수 있다.
+다수의 오류가 확인된 경우, 가장 첫번째 오류가 발생한 시점부터 경기를 속개한다.
+비디오 판독 후 심판의 판정이 수정된 경우 경기감독위원회는 경기일 종료 후 해당 경기를
+조사하고 필요하다면 관련 심판원에 대해 징계 조치를 취할 수 있다.
+
+8
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 59
+
+9
+
+코치의 비디오 판독권 여부와 상관없이, 회전 도중 언제라도 부심 중 누구나 기술점수 추가
+및 삭제 요청 할 수 있다
+
+10
+
+즉시비디오판독시스템이 구비되지 않은 대회에서의 소청 절차는 다음과 같다.
+10.1 판정에 이의가 있을 때는 소정의 소청신청서와 미화 200불의 소청료를 경기 종료 후
+10분 이내에 제출하여야 한다.
+10.2 소청위원회의 심의는 해당국 소청위원은 제외하며 의결은 과반수로 결정한다.
+10.3 소청위원은 필요에 따라 해당 경기에 관련된 심판원을 소환, 진상 문의할 수 있다.
+10.4 소청위원회의 의결은 최종적인 것이며 어느 누구도 이의를 제기할 없다.
+10.5 의결을 위한 심의 절차는 다음과 같다.
+10.5.1 소청을 제기하는 국가의 해당 코치 또는 단장은 소청위원회에 구두로 간략한 입장
+표명을 할 수 있으며 상대 팀의 코치 또는 단장 또한 반박의 기회를 갖는다.
+10.5.2 소청이 제기되면 그 내용을 검토하여 ‘인정’과 ‘기각’의 형식으로 결정할 수 있게
+정리한다.
+10.5.3 필요한 경우, 주부심의 소견을 청문할 수 있다.
+10.5.4 필요하다고 판단될 경우, 판정 기록이나 경기 내용 영상 기록을 검토한다.
+10.5.5 끝나면 위원단의 무기명 투표에 의해 다수결로 가부를 결정한다.
+10.5.6 위원장이 소청심의 결과보고서를 작성, 발표한다.
+10.5.7 결과의 처리
+10.5.7.1 경기 결과 처리의 착오: 점수 계산의 착오나 청, 홍 선수의 착각에 의한 경
+우는 그 결과를 번복한다.
+10.5.7.2 규칙적용의 착오: 주심이 규칙 적용을 명백히 착오한 것으로 판명되었을 때
+는 그 결과를 번복하고 주심을 징계한다.
+10.5.7.3 사실판단의 착오: 주심 또는 부심 등이 타격의 강도, 행위의 정도, 고의성 유,
+무 또는 행위의 시간적 유효성 여부 등 사실 판단에 있어 명백한 착오가 있
+었다고 판단될 때는 그 결과를 번복할 수 없고 오심을 행한 심판원을 징계
+한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 60
+
+Article 22
+제 22 조
+
+Deaf-Taekwondo
+농아인 태권도 경기
+
+This article outlines the modifications to the Competition Rules used for Deaf-Taekwondo. For matters not covered by Article
+22 the WT Competition Rules will apply.
+1.
+
+Qualification of athlete
+Contestant must have gone through classification procedures as outlined in the World Para-Taekwondo and DeafTaekwondo Classification Code and been assigned Sport Class and Sport Class Status
+
+2.
+
+Weight Categories
+Olympic weight categories apply to competitions in Deaf-Taekwondo
+
+3.
+
+World Deaf-Taekwondo Championships will be organized based on the most recent Standing Procedure of the World
+Deaf-Taekwondo Championships.
+
+이 조항은 농아인선수권대회에 적용되는 경기규칙 개정에 대한 개요입니다. 경기규칙 제 22 조에
+포함되지 않은 사항은 세계태권도연맹의 경기규칙이 적용된다.
+1. 선수 자격
+선수는 본 연맹 장애인 태권도 및 농아인 태권도 선수 등급분류 규정과 경기등급 및
+등급자격 인증을 부여 받아야 한다.
+2. 체급: 농아인 경기의 체급은 올림픽 체급으로 한다.
+3.
+
+본 연맹 농아인선수권대회는
+운영한다.
+
+본
+
+연맹
+
+최신의
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+농아인세계선수권대회
+
+운영요강에
+
+따라
+
+Page 61
+
+Article 23
+제 23 조
+
+Sanctions
+징계
+
+1
+
+The WT President, Secretary General, or Technical Delegate may request that an on-spot Extraordinary Sanctions
+Committee be convened for deliberation when inappropriate behaviors may have been committed by a coach, a
+contestant, an official, and/or any member of a Member National Association.
+
+2
+
+The Extraordinary Sanctions Committee shall investigate the matter, and summon person(s) concerned for confirmation
+of events.
+
+3
+
+The Extraordinary Sanctions Committee shall deliberate the matter and determine if disciplinary actions are to be
+imposed. The result of deliberation shall be immediately announced to the public. If there is a finding of violation, a
+written decision, including the relevant facts, rules, supporting evidence (such as witness statements), the sanction
+imposed, and rationale, shall be given to the sanctioned party as soon as reasonably practicable, and a copy shall be
+included in the Technical Delegate’s report.
+3.1 Potential violations on Conduct of a Contestant;
+3.1.1
+
+Refusing the referee’s command to complete the ending procedures of the match, including not
+participating in the declaration of the winner.
+
+3.1.2
+
+Throwing his/her belongings (head protector, gloves, etc.) as an expression of dissatisfaction with
+decision.
+
+3.1.3
+
+Not leaving the competition area after the end of a match
+
+3.1.4
+
+Not returning to a match after a referee’s repeated command
+
+3.1.5
+
+Not complying with the competition official’s ruling or command
+
+3.1.6
+
+Not complying with the Competition Management Officials reasonable instructions related to the orderly
+management of the event
+
+3.1.7
+
+Manipulation of scoring equipment, sensors or/and any part of a PSS
+
+3.1.8
+
+Any serious unsportsmanlike behavior during a match or aggressive misconduct toward competition
+officials.
+
+3.2 Potential violations on conduct of a coach, team official, or other members of a Member National Association;
+3.2.1
+
+Complaining about or/and arguing against an official’s decision during or after a round.
+
+3.2.2
+
+Arguing with the referee or other official(s)
+
+3.2.3
+
+Violent behavior or remark toward officials, opponents or the opposing side, or spectators during a match
+
+3.2.4
+
+Provoking spectators or spreading false rumor
+
+3.2.5
+
+Instructing athlete(s) to participate in misconduct, such as remaining in the competition area after a
+match
+
+3.2.6
+
+Violent behaviors such as throwing or kicking personal belonging(s) or competition material(s).
+
+3.2.7
+
+Not following instructions of competition officials to leave the Field of Play or Venue
+
+3.2.8
+
+Any other serious misconducts toward competition officials
+
+3.2.9
+
+Any attempt to bribe competition officials
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 62
+
+4
+
+Disciplinary actions: Disciplinary actions issued by the Extraordinary Sanction Committee may vary according to the
+degree of the violation. The following sanctions may be given:
+4.1 Disqualification of the athlete
+4.2 Warning and order to issue official apology
+4.3 Removal of accreditation
+4.4 Ban from the competition venue
+i)
+Ban for the day
+ii)
+Ban for the duration of the Championships.
+4.5 Cancellation of result
+i) Cancellation of the match result and all related merits
+ii) Cancellation of WT Ranking points
+4.6 Monetary fine of between $100-to-$5,000 US dollars per violation.
+
+5
+
+The Extraordinary Sanctions Committee may recommend to the WT or WT at its own initiative may investigate and
+determine, that additional disciplinary actions be taken against the members/MNA involved, including but not limited to
+longer-term suspension, lifetime ban, and/or additional monetary fines. Such recommendation can be based on
+violations of the Competition Rules and Interpretations as well as violations of the WT Code of Ethics or other pertinent
+WT rules.
+
+1
+
+코치, 선수 및 임원 또는 해당 국가협회 소속인 자가 바람직하지 않은 행위를 했을 시 총재,
+사무총장 또는 기술대표가 현장징계위원회에 징계를 요청할 수 있다.
+
+2
+
+현장징계위원회는 사실 확인을 위해 관련 당사자를 소환, 진상을 조사한다.
+
+3
+
+현장징계위원회는 사안을 심의하고 징계 여부를 결정한다. 심의결과는 즉시 발표하여야 하며
+위반사항이 발견된 경우에는 관련 사실, 규칙, 증거(증인 진술 등), 부과된 제재 및 근거 등을
+포함한 결정의결서를 합리적으로 가능한 한 빨리 제재 당사자에게 전달하고, 그 사본을 대회
+기술대표 보고서에 포함시켜야 한다.
+3.1 선수의 징계해당 행위
+3.1.1
+선수가 경기종료 후 승패 선언 절차 등 그 외 주심의 경기종료 절차 지시에
+따르지 않는 행위
+3.1.2
+경기결과에 대한 불만의 표시로 헤드기어 등 소지품을 던지는 행위
+3.1.3
+경기 종료 후 경기장을 떠나지 않는 행위
+3.1.4
+경기 중 주심의 반복된 지시에도 불구하고 경기장으로 돌아오지 않는 행위
+3.1.5
+경기 중 심판의 지시나 결정을 따르지 않는 행위
+3.1.6
+경기운영요원의 경기진행 방식을 따르지 않는 행위
+3.1.7
+전자 채점 보호구나 발보호대 센서의 장치나 민감도를 조작하는 행위
+3.1.8
+경기 중 심판이나 경기임원에 대한 공격적 행동 또는 그 밖에 스포츠맨쉽에
+어긋나는 행동
+3.2 코치, 임원 및 국가협회 회원의 징계해당 행위
+3.2.1
+경기 중 또는 종료 후 심판의 판정에 대하여 항의하거나 불평하는 행위
+3.2.2
+심판 또는 경기임원과 언쟁을 하는 행위
+3.2.3
+경기 중 심판, 경기임원, 상대선수 또는 상대편 및 관중에게 거친 언동을 하는
+행위
+3.2.4
+관중을 선동하거나 잘못된 소문을 유포시키는 행위
+3.2.5
+선수에게 경기 종료 후 경기장을 떠나지 않게 하는 등 잘못된 지시를 내리는
+행위
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 63
+
+3.2.6
+3.2.7
+3.2.8
+3.2.9
+4
+
+소지품이나 경기장 내의 물품을 던지거나 차는 등의 폭력적 행동
+경기장 또는 대회장을 떠날 것을 요구하는 주심이나 경기임원의 지시를 따르지
+않는 행위.
+그 외 경기 임원에 대한 중대한 바람직하지 못한 행위
+경기 임원에 대한 어떠한 뇌물이나 영향을 미치려는 행위
+
+징계의 종류: 상벌위원회가 부과하는 징계의 정도는 행위의 중대성에 따라 결정된다. 그
+종류는 다음과 같다.
+4.1 선수의 실격
+4.2 경고 및 공개 사과
+4.3 등록 카드 박탈
+4.4 대회장 출입금지
+i.
+당일 출입금지
+ii.
+대회 전기간 출입금지
+4.5 경기결과 취소
+i.
+경기결과 및 해당 상장, 메달 등 관련 사항 취소 및 반납
+ii.
+연맹 랭킹 점수 취소
+4.6 벌금: 미화 100$ - 5000$ (각 징계 행위별)
+
+5
+
+현장징계위원회는 심각한 위반사항일 경우 세계태권도연맹에 권고하거나 세계태권도연맹
+자체적으로 관련 임원 및 국가협회에 대한 장기적인 또는 영구적인 자격정지 및 추가의
+벌금을 부과할 것을 권고할 수 있다. 이러한 권고는 세계태권도연맹의 경기규칙 위반사항
+뿐만 아니라 WT 윤리 강령 또는 기타 관련 WT 규칙 위반에 근거할 수 있다.
+
+6
+
+현장징계위원회에서 결정된 징계에 대한 재심은 본 연맹 분쟁해결 및 징계규정 제 6조에
+따라 청구될 수 있다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 64
+
+Article 24
+제 24 조
+
+Other matters not specified in Competition Rules
+본 규칙에 명시되지 않은 사태
+
+1
+
+In the case that any matters not specified in the rules occur, they shall be dealt with as follows.
+1.1
+Matters related to a contest shall be decided through consensus by the refereeing officials of the pertinent
+contest.
+1.2
+Matters not related to a specific contest throughout the championships such as technical matters, competition
+matters, etc. shall be decided by the Technical Delegate.
+
+1
+
+본 규칙에 명시되지 않은 사태가 발생 시, 다음과 같이 처리한다.
+1.1
+특정 경기에 관한 사항은 해당 경기 심판원이 합의하여 처리한다.
+1.2
+특정 경기 이외의 대회 전반에 관한 기술 및 경기 등 제반 사항에 대한 건은
+기술대표가 처리한다.
+
+WT Competition Rules and Interpretation in force as of September 30, 2024
+
+Page 65
+
+
