@@ -1,0 +1,2403 @@
+
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[ ]{report}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp} % provide euro and other symbols
+\usepackage[]{fontawesome}
+
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage[explicit]{titlesec}
+\usepackage[svgnames]{xcolor}
+\usepackage{enumitem}
+
+% section headers
+
+\titleformat{\chapter}
+  [hang]
+  {\normalfont\sffamily\LARGE\color{white}}
+  {}
+  {0.5ex}
+  {\colorbox{RoyalBlue}{\parbox{\textwidth}{Article \thechapter \hspace{1cm} #1}}}  
+
+% \newcommand{\chapterbreak}{\addpenalty{-500}\vspace*{0pt}}
+
+\titleformat{\section}
+  {\normalfont\sffamily}
+  {}
+  {0.5ex}
+  {#1}
+
+% enumerations
+\renewcommand{\labelenumi}{\arabic{enumi}}
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
+\renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}}
+
+\setlist{noitemsep}
+
+% environment for the explanations
+\newenvironment{expl}[0]{\footnotesize}{\normalsize}
+
+
+
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+
+\begin{document}
+
+\chapter{Purpose}\label{purpose}
+
+\begin{enumerate}
+\tightlist
+\item
+\input{1.1.txt}
+\end{enumerate}
+
+\section{(Interpretation)}\label{interpretation}
+
+\begin{expl}
+\input{1.i_1.txt}
+\end{expl}
+
+\chapter{Application}\label{application}
+
+\begin{enumerate}
+\item
+\input{2.1.txt}
+\item
+\input{2.2.txt}
+\item
+\input{2.3.txt}
+\end{enumerate}
+
+\section{(Explanation\#1)}\label{explanation1}
+\begin{expl}
+\input{2.e_1.txt}
+\end{expl}
+
+
+\chapter{Competition Area}\label{competition-area}
+
+\begin{enumerate}
+\item
+\input{3.1.txt}
+
+  \begin{enumerate}
+  \item
+  \input{3.1.1.txt}
+  \item
+  \input{3.1.2.txt}
+  \end{enumerate}
+\item
+  Indication of positions
+
+  \begin{enumerate}
+  \item
+    The outer line of the Contest Area shall be called the Boundary
+    Line(s) and the outer line of the Competition Area shall be called
+    the Outer Line(s).
+  \item
+    The front outer line adjacent to the Recorder's Desk shall be called
+    Outer Line \#1, and Clockwise from Outer Line \#1, the other lines
+    shall be called Outer Lines \#2, \#3, and \#4. The Boundary Line
+    adjacent to the Outer Line \#1 shall be called Boundary Line \#1 and
+    clockwise from Boundary Line \#1, the other lines shall be called
+    Boundary Lines \#2, \#3, and \#4. In case of Octagonal Shape Contest
+    Area, The Boundary Line adjacent to the Outer Line \#1 shall be
+    called Boundary Line \#1 and clockwise from Boundary Line \#1, the
+    other lines shall be called Boundary Lines \#2, \#3, \#4, \#5, \#6,
+    \#7, and \#8.
+  \item
+    Positions of Referee and Contestants at the beginning and end of the
+    Match: The position of the Contestants shall be at the two opposing
+    points, 1m from the center point of the Contest Area parallel to
+    Outer Line \#1. The Referee shall be positioned at a point 1.5m from
+    the center of the Contest Area toward the Outer Line \#3.
+  \item
+    Positions of Judges: The position of the 1st Judge shall be located
+    at a point in minimum 2 m from the corner of the Boundary Line \#2.
+    The position of the 2nd Judge shall be located at a point in minimum
+    2 m outward from the center of the Boundary Line \#5. The position
+    of the 3rd Judge shall be located at a point in minimum 2 m from the
+    corner of the Boundary Line \#8. In case of two Judges setting the
+    position of the 1st Judge shall be located at a point in minimum 3 m
+    from the outer line \#1 on the left of the mat and the 2nd Judge
+    shall be located at a point in minimum 3m from of the outer line \#3
+    on the right. The positions of Judges may be altered to facilitate
+    media, broadcasting and/or sports presentation.
+  \item
+    Position of Recorder \& IVR: Position of Recorder \& IVR shall be
+    located at a point 2 m from the Outer Line \#1. Position of Recorder
+    may be altered to accommodate the environment of the venue and
+    requirements from media broadcasting and/or sports presentation.
+  \item
+    Positions of Coaches: The position of the Coaches shall be marked at
+    a point in minimum 2 m or more from the center point of the Outer
+    Line of each contestant's side. Position of the coaches may be
+    altered to accommodate the environment of the venue and requirements
+    from media broadcasting and/or sports presentation.
+  \item
+    Position of Inspection desk: The position of the Inspection Desk
+    shall be near the entrance of the Competition Area for the
+    inspection of the contestants' protective equipment.
+  \end{enumerate}
+\item
+  Technical and Environmental Requirements for Competitiion Venues
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The minimum illuminance at the competition venue requred for
+    broadcasted events shall be \textgreater=1,600 lux.
+  \item
+    The illuminance at the training venue shall range between 750 and
+    900 lux.
+  \item
+    The temperature of the competition venue shall be maintained between
+    17°C and 24°C.
+  \item
+    For G14 or higher-graded events, the minimum seating capacity of the
+    competition venue shall be 4,000 seats.
+  \end{itemize}
+\end{enumerate}
+
+\section{(Explanation \#1)}\label{explanation-1}
+
+Elastic mat: The degree of elasticity and slipperiness of the mat must
+be approved by the WT before the competition.
+
+\section{(Explanation \#2)}\label{explanation-2}
+
+Color: The color scheme of the mat's surface must avoid giving a harsh
+reflection, or tiring the contestant's or spectator's eyesight. The
+color scheme must also be appropriately matched to the contestant's
+equipment, uniform and the surface of the Contest Area.
+
+\section{(Explanation \#3)}\label{explanation-3}
+
+Inspection Desk: At the Inspection desk, the inspector checks if all the
+materials worn by the contestant are approved by the WT and fit the
+contestant properly. In case they are found to be inappropriate, the
+contestant is requested to change the protective equipment.
+
+\chapter{Contestant}\label{contestant}
+
+\begin{enumerate}
+\item
+  Qualification of Contestant
+
+  \begin{enumerate}
+  \item
+    Holder of the nationality of the participating team
+  \item
+    One recommended by the WT MNA
+  \item
+    Holder of Taekwondo Dan/Poom certificate issued by the Kukkiwon
+  \item
+    Holder of the WT Global Athlete License (GAL)
+  \item
+    Contestants at the age of at least 17 years old for Senior in the
+    year the pertinent tournament is held (15-17 years old for Junior
+    Championships and 12-14 years old for Cadet Championships). Ages for
+    Youth Olympic Games might be different depending on the decision of
+    the IOC.
+  \end{enumerate}
+\end{enumerate}
+
+\section{(Interpretation)}\label{interpretation-1}
+
+The age limit is based on the year, not on the date. For instance, if
+the Junior Championships are held on June 11, 2013, those contestants
+born on between January 1, 1996 and December 31, 1998 are eligible to
+participate.
+
+\section{(Interpretation)}\label{interpretation-2}
+
+Article 4.1 Qualification of Contestant: applied at WT promoted
+championships, CU promoted championships, multi-sports games, and
+approved event(s) of WT recognized international open taekwondo
+tournament.
+
+\section{(Interpretation)}\label{interpretation-3}
+
+Article 4.1.1 \& 4.1.2 shall not be applied to WT recognized
+international open taekwondo tournament.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\item
+  Contestant uniform and competition equipment
+
+  \begin{enumerate}
+  \item
+    At the competitions enlisted in the WT Event Calendar, dobok or
+    competition uniform and all competition equipment such as but not
+    limited to mats, PSS, IVR and protective equipment must be those
+    ones approved by the WT.
+
+    \begin{enumerate}
+    \tightlist
+    \item
+      Specifications of dobok or competition uniform, protective
+      equipment, and all other equipment shall be set forth separately.
+    \end{enumerate}
+  \item
+    A contestant shall wear a WT-approved dobok or competition uniform,
+    trunk PSS, head PSS, groin guard, forearm guards, shin guards,
+    gloves, sensing socks (in the case of using PSS) and be equipped
+    with a mouthguard before entering the Field of Play. Head pss must
+    be firmly tucked under left arms when entering into competition
+    area. Head pss shall be put on the head following instructions of
+    the referee before the start of the contest.
+  \item
+    In case of wearing dobok, the forearm and shin guards shall be worn
+    beneath garment. In case of wearing competition uniform, the forearm
+    and shin guards shall be worn in the garment or beneath garment. The
+    groin guards shall be worn beneath garment for both cases.
+  \item
+    The contestant shall bring the WT-approved protective equipment, as
+    well as gloves and the mouthguard, for his/her personal use. Wearing
+    any item on the head other than the head pss shall not be permitted.
+    The head protector for cadet athletes may be equipped with face
+    shield. Any religious item shall be worn beneath the head pss and
+    inside the dobok or competition uniform and shall not cause harm or
+    obstruct the opposing contestant.
+  \item
+    Responsibilities of the organizing committee for competition
+    equipment
+
+    \begin{enumerate}
+    \item
+      The Organizing Committee of WT-promoted championships shall be
+      responsible for preparing the following WT-recognized equipment
+      for the use at the championships at its own expenses for all
+      related materials, equipment and the related technicians for
+      installation and operation.
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Trunk PSS and Head PSS-related items and equipment - the choice
+        of the PSS company shall be decided by the WT (For World
+        Taekwondo Cadet Championships, conventional head protector with
+        face shield shall be used)
+      \item
+        Mats
+      \item
+        Other protective equipment as reserve (Sensing socks, gloves,
+        shin guards, forearm guards, groin guards and dobok or
+        competition uniforms)
+      \item
+        Instant Video Replay (IVR) system and its related equipment,
+        including but not limited to cameras (minimum 3 cameras per
+        court and minimum 4 cameras, including one overhead camera for
+        the semifinals and final); When broadcasting is available, the
+        broadcast feed must be made available at the Video Replay desk
+        for review purpose.
+      \item
+        Jumbo screen (for display of competition progress match tree,
+        athlete profile. etc) inside the Field of Play (FOP)
+      \item
+        Spectator scoreboards (for display of instant video replay
+        screen; minimum 12)
+      \item
+        Scoreboards at the court (for display of scoring; minimum 4 per
+        court)
+      \item
+        Real Time Display System (RTDS) at athlete calling area and warm
+        up area
+      \item
+        Real Time Referee Calling System (RTRCS) at referee lounge or
+        waiting area.
+      \item
+        TV screen for showing competitions in live at referee lounge
+      \item
+        Metal detector at the inspection desk (minimum 2)
+      \item
+        Other competition equipment not prescribed in this article, if
+        any, shall be described in competition's Operational Manual of
+        the WT.
+      \end{itemize}
+    \item
+      The Organizing Committee of WT-promoted championships shall be
+      responsible for preparing the following equipment and materials,
+      etc. at the training venue at its own expenses.
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Trunk PSS and Head PSS-related items and equipment
+      \item
+        Mats
+      \item
+        Stationary Bicycle
+      \item
+        Running Machine
+      \item
+        Emergency equipment (refer to medical code for detailed
+        information)
+      \item
+        Ice in the baskets
+      \item
+        Refrigerators
+      \item
+        Bottled water
+      \end{itemize}
+    \item
+      It is the responsibility of the Organizing Committee to obtain
+      approval of the WT on the number of the equipment to be prepared.
+    \end{enumerate}
+  \end{enumerate}
+\item
+  Anti-Doping Test
+
+  \begin{enumerate}
+  \item
+    At the taekwondo events promoted or recognized by the WT, any use or
+    administration of drugs or chemical substances described in the WADA
+    Prohibited List is prohibited. The WADA Anti-doping Code shall be
+    applied to the taekwondo competitions of the Olympic Games and other
+    multi-sports Games. The WT Anti-Doping Rules shall be applied to WT
+    promoted and/or recognized championships.
+  \item
+    The WT may carry out any doping tests deemed necessary to ascertain
+    if a contestant has committed a breach of this rule, and any
+    contestant who refuses to undergo this testing or who proves to have
+    committed such a breach shall be removed from the final standings,
+    and the record shall be transferred to the contestant next in line
+    in the competition standings.
+  \item
+    The Organizing Committee shall be responsible for making all
+    necessary preparations for conducting doping tests.
+  \item
+    The details of the WT Anti-Doping Rules shall be enacted as part of
+    the bylaws.
+  \end{enumerate}
+\end{enumerate}
+
+\section{(Explanation \#1)}\label{explanation-1-1}
+
+Holder of the nationality of the participating team: When a contestant
+is a representative of a national team, his/her nationality is decided
+by citizenship of the country he/she is representing before submission
+of the application to participate. Verification of citizenship is done
+by inspection of the passport.\\
+A competitor who is a national of two or more countries at the same time
+may represent either one of them, as he/she may elect. However, in case
+of changing nationality, he/she is allowed to represent other country
+only if thirty-six (36) months have passed since competitor represented
+a country in such events:
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi})}
+\tightlist
+\item
+  Olympic Games
+\item
+  Qualification Tournaments for Olympic Games
+\item
+  4 year cycle continental multi sports games
+\item
+  2 year cycle continental championships
+\item
+  World Championships promoted by the WT
+\end{enumerate}
+
+This period may be reduced or even cancelled, with the agreement of the
+NOCs and the WT. The WT may take disciplinary actions at any time
+against the athlete and his/hers MNA that violates this article
+including but not limited to deprival of the achievements.
+
+\section{(Explanation \#2)}\label{explanation-2-1}
+
+One recommended by the WT MNA: Each MNA is responsible for control of
+non-pregnancy and gender and shall ensure that all team members have
+been given medical exams that show them to be of adequate health and
+fitness to participate. Also each MNA assumes full responsibilities for
+accident and health insurance as well as the civil liabilities for their
+contestants and officials during the WTpromoted championships.
+
+\section{(Explanation \#3)}\label{explanation-3-1}
+
+Mouthguard:\\
+The color of the mouthguard is limited to white or transparent. It must
+be at least 3mm thickness and cover entire upper teeth. Athletes with
+dental braces needs to wear special mouthguard for braces, that covers
+both upper and lower teeth, recommended by their dentist and submit the
+letter from their dentist stating that the athlete is safe to compete
+with the mouthguard that the dentist recommended.(Refer to WT
+Mouthguard, Taping, Brace, Piercing rules for detailed information.)
+
+\section{(Explanation \#4)}\label{explanation-4}
+
+Head PSS: The color of head pss other than blue or red shall not be
+permitted to compete.
+
+\section{(Explanation \#5)}\label{explanation-5}
+
+Instant Video Replay System: It is the responsibility of the Organizing
+Committee to ensure broadcasting feed is provided for Instant Video
+Replay for the matches requested by the WT.
+
+\section{(Explanation \#6)}\label{explanation-6}
+
+Taping: Taping of feet and hands will be strictly checked during the
+athlete inspection process. The inspector may request the WT Commission
+Doctor's approval for excessive taping. Contestants need to take off
+taping on general weigh-in to see whether there is any open wound, cut
+or bleeding. (Refer to WT Mouthguard, Taping, Brace, Piercing rules for
+detailed information.)
+
+\section{(Explanation \#7)}\label{explanation-7}
+
+Any athlete who fails to wear appropriate safety protection gear and
+equipment or remove potentially harmful material from their body at the
+inspection as below (1) \textasciitilde{} (3) shall not be allow to
+participate in the competition. (Refer to WT Mouthguard, Taping, Brace,
+piercing rules and WT Medical Code Appendix III for detailed
+information.)
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\tightlist
+\item
+  Any athlete whose protection gear (such as head, body, groin, hand,
+  foot protector and mouthguard) has either inadequate body part
+  coverage by the gear, inappropriate size, or significant defect of
+  shape (or material).
+\item
+  Any athlete who does not have proper mouthguard per WT mouthguard
+  rules at the inspection and does not have proper mouthguard at any
+  time during the match, or fail to wear proper mouthguard despite of
+  receiving a warning by an inspection referee, center referee or WT
+  commissioned doctor.
+\item
+  Any athlete who has piercing, earing or any hard material in the face
+  or any body part at the inspection or during the match despite of
+  receiving a warning by an inspection referee, center referee or WT
+  commissioned doctor.
+\end{enumerate}
+
+\section{(Explanation \#8)}\label{explanation-8}
+
+Any athlete who participate in competition must have valid annual
+periodic health evaluation (or medical certificate). Without valid
+annual Medical Certificate shall not be allowed to participate in the
+competition Medical Certificate. (Refer to WT medical code 8.3. Periodic
+Health Evaluation and Appendix III A. Medical Certificate for detailed
+information)
+
+\section{(Explanation \#9)}\label{explanation-9}
+
+Any athlete shall be disqualified for participation in competition if
+the athlete does not follow the safety protection equipment rule, has
+any health conditions that may jeopardized the safety by jurisdiction or
+have disqualifying conditions in the medical certificate. (refer to WT
+medical code Appendix III B. Disqualification for detailed information)
+
+\section{(Explanation \#10)}\label{explanation-10}
+
+Any athlete must have valid travel health insurance for the competition
+to participate and submit the copy of the health insurance certificate
+to GMS upon registration.
+
+\chapter{Weight category}\label{weight-category}
+
+ToDo: A táblázatok teljes elkészítése szükséges
+
+\chapter{Classification and methods of
+competition}\label{classification-and-methods-of-competition}
+
+\begin{enumerate}
+\item
+  Competitions are classified as follows.
+
+  \begin{enumerate}
+  \item
+    Individual competition shall normally be between contestants in the
+    same weight category. When necessary, adjoining weight category may
+    be combined to create a single classification. No contestant is
+    allowed to participate in more than one (1) weight category in one
+    event.
+  \item
+    Team Competition: Method and weight categories of team competition
+    shall be stipulated in the Standing Procedures for World Taekwondo
+    World Cup Team Championships.
+  \end{enumerate}
+\item
+  Systems of competition are divided as follows.
+
+  \begin{enumerate}
+  \item
+    Single elimination tournament system
+  \item
+    Round robin system
+  \end{enumerate}
+\item
+  Taekwondo competition of the Olympic Games and 4 year cycle
+  continental multi sports games may use single elimination tournament
+  system or the combination of single elimination tournament system with
+  repechage.
+\item
+  All international-level competitions recognized by the WT shall be
+  formed with participation of at least four (4) countries in tournament
+  with no less than four (4) contestants competed in each weight
+  category, and any tournament with less than four (4) countries or
+  weight category with less than 4 competed contestants cannot be
+  recognized in the official results.
+\item
+  World Taekwondo Grand Prix Series will be organized based on the most
+  recent Standing Procedure of World Taekwondo Grand Prix Series.
+\end{enumerate}
+
+\section{(Interpretation)}\label{interpretation-4}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  In the tournament system, competition is founded on an individual
+  basis. However, the team standing can also be determined by the sum of
+  the individual standings according to the overall scoring method.
+
+  Team Standing
+
+  Team standing shall be decided by the total points based on the
+  following criteria.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Basic one (1) point per each contestant who entered the competition
+    area after passing the general weigh-in
+  \item
+    One (1) point per each win (win by a bye included)
+  \item
+    Additional one hundred and twenty (120) points per gold medal
+  \item
+    Additional fifty (50) points per silver medal
+  \item
+    Additional twenty (20) points per bronze medal
+  \end{itemize}
+
+  In case more than two (2) teams are tied in score, the rank shall be
+  decided by 1) number of gold, silver and bronze medals won by the team
+  in order, 2) number of participating contestants and 3) higher points
+  in heavier weight categories.
+\item
+  In the team competition system, the outcome of each team competition
+  is determined by the individual team results.
+\end{enumerate}
+
+\section{(Explanation \#1)}\label{explanation-1-2}
+
+Consolidated weight categories:
+
+The method of consolidation shall follow the Olympic weight categories.
+
+\chapter{Duration of Contest}\label{duration-of-contest}
+
+\begin{enumerate}
+\item
+  Duration of Contest is classified as follows.
+
+  \begin{enumerate}
+  \item
+    The duration of the contest shall be three rounds of two minutes
+    each, with a one-minute rest period between rounds. In case of a tie
+    score after the completion of the 3rd round, a 4th round of one
+    minute will be conducted as the Golden round, after a one-minute
+    rest period following the 3rd round.
+  \item
+    In the best of three (3) system, the duration of the contest shall
+    be three rounds of two minutes each with a oneminute rest period
+    between rounds. However, a 4 th round of one minute will not be
+    conducted as the Golden round. In case of a tie score for
+    corresponding round, the round winner shall be decided by the
+    Article 15.
+  \item
+    In the World Cup Team Championships, the duration of the contest
+    shall be three rounds of four (4) minutes of 1st round, five (5)
+    minutes of 2nd and 3rd round with a one (1) minute rest period
+    between rounds. The 1st round shall be conducted based on
+    traditional team match format for one (1) minute per contest and the
+    2nd and the 3rd round shall be conducted for five (5) minutes based
+    on tag-team match format.
+  \end{enumerate}
+\item
+  The duration of each round may be adjusted to 1 minute x 3 rounds, 1
+  minute 30 seconds x 3 rounds, 2 minutes x 2 rounds or 5 minute x 1
+  round (with 1 time out for 30 seconds to each contestant) upon the
+  decision of the Technical Delegate for the pertinent championships.
+\end{enumerate}
+
+\chapter{Drawing of Lots}\label{drawing-of-lots}
+
+\begin{enumerate}
+\item
+  The date of the drawing of lots shall be set forth in the outline of
+  the championships. At least one representative from each team must
+  attend the drawing of lots and participating teams are responsible for
+  confirming their entries before the drawing of lots. In case of no
+  representative can be at the drawing of lots, the team must designate
+  a proxy and inform Technical delegate before the drawing of lots.
+\item
+  The drawing of lots may be conducted by random computerized drawing or
+  by random manual drawing of lots. The method and order of drawing
+  shall be determined by the Technical Delegate.
+\item
+  All ranked athletes will be seeded in all WT Promoted and Recognized
+  tournaments unless otherwise stipulated in the relevant standing
+  procedures or event outlines.
+\end{enumerate}
+
+\chapter{Weigh-in}\label{weigh-in}
+
+\begin{enumerate}
+\item
+  The general weigh-in of the contestants on the day of competition
+  shall be organized one day prior to the competition. The time for the
+  general weigh-in will be decided by the Organizing Committee and be
+  informed at the head of team meeting. The duration of the general
+  weigh-in shall be two (2) hours at the maximum.
+\item
+  The random weigh-in will take place at the venue in the morning of the
+  competition. All contestants who pass the general weigh-in must be
+  present for random weigh-in maximum two (2) hours before the start of
+  the competition. Should a contestant fail to appear for the random
+  weigh-in, he/she will be disqualified. The random weigh-in must be
+  completed maximum thirty (30) minutes before the start of the
+  competition each day.
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    The rate of selection for the random weigh-in shall be determined by
+    the number of contestants in the weight category as following the
+    criteria and subjects will be randomly selected by computerized
+    system maximum two (2) hours before the start of the competition.
+  \end{enumerate}
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii})}
+  \tightlist
+  \item
+    More than 32 athletes : 20\% of total
+  \item
+    17-32 athletes : 6 athletes\\
+  \item
+    9-16 athletes : 4 athletes\\
+  \item
+    4-8 athletes : 2 athletes\\
+  \item
+    Below 4 athletes : None
+  \end{enumerate}
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    The random weigh-in shall be conducted with plus 5\% tolerance of
+    the contestant's weight category. Underweight shall not be subjected
+    to random weigh-in.
+  \end{enumerate}
+\item
+  During the weigh-in, the male contestant shall wear underpants and the
+  female contestant shall wear underpants and a brassiere. However,
+  weigh-in may be conducted in the nude if the contestant wishes to do
+  so.
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    Cadet and junior contestant must be weighed with underwear(s) and
+    100 grams will be allowed to compensate.
+  \end{enumerate}
+\item
+  General weigh-in shall be made once, however, one more weigh-in is
+  granted within the time limit to any contestant who did not qualify
+  the first time. Random weigh-in shall be made only once per
+  contestant, and there will not be 2nd weighin.
+\item
+  So as not to be disqualified during the weigh-in, scales identical to
+  the official one shall be provided at the contestants' place of
+  accommodation or at the competition venue for pre-weigh-in.
+\end{enumerate}
+
+\section{(Explantion\#1)}\label{explantion1}
+
+The contestants on the day of competition:\\
+This is defined as those contestants listed to compete on the scheduled
+day by the Organizing Committee or the WT.
+
+\section{(Explanation \#2)}\label{explanation-2-2}
+
+A separate site for the weigh-in shall be installed for the male and
+female contestants. The gender of weigh-in officials should be the same
+as that of the contestants.
+
+\section{(Explanation \#3)}\label{explanation-3-2}
+
+Disqualification during the weigh-in:\\
+When a contestant is disqualified at the weigh-in, the contestant shall
+not be awarded any ranking points.
+
+\section{(Explanation \#4)}\label{explanation-4-1}
+
+Scales, identical to the official one:\\
+The practice scale must be of the same type and calibrations as that of
+the official scale and these facts must be verified prior to the
+competition by the Organizing Committee.
+
+Article 10 Procedure of the Contest
+
+1
+
+Call for contestants: The name of the contestants shall be announced at
+the Athlete Calling Desk three (3) times beginning thirty (30) minutes
+prior to the scheduled start of the contest. If a contestant fails to
+report to the Desk following the third call, the contestant shall be
+disqualified, and this disqualification shall be announced.
+
+2
+
+Inspection of body, uniform and apparatus: After being called, the
+contestants shall undergo inspection of body, uniform and apparatus at
+the designated inspection desk by the inspectors designated by the WT,
+and the contestant shall not show any signs of aversion, and also shall
+not wear any materials which may cause harm to the other contestant.
+
+3
+
+Entering the Competition Area: After inspection, the contestant shall
+proceed to the Coach's zone with one coach and one team doctor or team
+medical staff(such as physiotherapist, athletic trainer or chiropractor,
+if any).
+
+4
+
+Procedure before the Beginning and After the End of the Contest
+
+4.1 Before the start of the contest, the center referee will call
+``Chung, Hong.'' Both contestants will enter the contest area with their
+head pss firmly tucked under their left arms. When any of contestant is
+not present or present without being fully attired, including all
+protective equipment, uniform, etc., at the Coach's Zone by the time the
+referee calls ``Chung, Hong'', he/she shall be regarded as withdrawn
+from the contest and the referee shall declare the opponent as the
+winner.
+
+4.2 The contestants shall face each other and make a standing bow at the
+referee's command of ``Cha-ryeot (attention)'' and ``Kyeong-rye (bow)''.
+A standing bow shall be made from the natural standing posture of
+``Charyeot'' by bending the waist at an angle of more than 30 degrees
+with the head inclined to an angle of more than 45 degree. After the
+bow, the contestants shall put on their head pss
+
+4.3 The referee shall start the contest by commanding ``Joon-bi
+(ready)'' and ``Shi-jak (start)''.
+
+4.4 The contest in each round shall begin with the declaration of
+``Shi-jak (start)'' by the referee.
+
+4.5 The contest in each round shall end with the declaration of
+``Keu-man (stop)'' by the referee. Even if the referee did not declare
+``Keu-man'', the contest shall be deemed to have ended when the match
+clock expired, however ``Gam-jeom'' can be given and registered in score
+even after expiration of match clock.
+
+4.6 The referee may pause a contest by declaring ``Kal-yeo'' (break) and
+resume the contest by the command of ``Kye-sok'' (continue). When the
+referee declares ``Kal-yeo'' the recorder should immediately stop the
+match time; when the referee declares ``Kye-sok'' the recorder should
+immediately restart the match time.
+
+4.7 After the end of the last round, the referee shall declare the
+winner by raising his/her hand to the winner's side.
+
+4.7.1 In the best of three (3) system, the referee shall declare the
+winner of respective round.
+
+4.8
+
+Retirement of the Contestants
+
+5
+
+Contest Procedure in Team Competition
+
+5.1 Both teams shall stand facing each other in line in the submitted
+team order towards the 1st Boundary Line from the Contestants' marks.
+
+5.2 Procedure before the beginning and after the end of the contest
+shall be conducted as in clause 4 of this article.
+
+5.3 Both teams shall leave the Contest Area and stand by at the
+designated area for each contestant's match.
+
+5.4 Both teams shall line up in the Contest Area immediately after the
+end of the final match facing each other.
+
+5.5 The referee shall declare the winning team by raising his/her own
+hand to the winning team's side.
+
+(Explanation\#1) Team doctor, chiropractor, athlete trainer or a
+physiotherapist: At the time of submission of entry for team officials,
+copies of relevant and appropriate licenses of team doctor chiropractor,
+athletic trainer or physiotherapist written in English shall be
+attached. After verification, special accreditation cards shall be
+issued to those team doctors, chiropractor, athlete trainer or
+physiotherapists. Only those who have obtained proper accreditation
+shall be allowed to proceed to competition area with coach. Only medical
+doctor with active medical license who graduated from recognized medical
+school can obtain accreditation card of team doctor. Other medical
+staff(team chiropractor, athletic trainer, physiotherapist or other
+healthcare professionals) are not allowed to claim themselves as team
+doctor, which shall be regarded as improper accreditation.
+
+(Guideline for officiating) In the case of using PSS, the referee shall
+check if the PSS system and sensing socks worn by both athletes are
+properly working. This process, however, may be deleted to save time for
+speedy competition management.
+
+Article 11
+
+Permitted techniques and areas
+
+1
+
+Permitted techniques
+
+1.1 Fist technique: A straight punching technique using the knuckle part
+of a tightly clenched fist
+
+1.2 Foot technique: Delivering techniques using any part of the foot
+below the ankle bone
+
+2
+
+Permitted areas
+
+2.1 Trunk: Attack by fist and foot techniques on the areas covered by
+the trunk protector are permitted. However, such attacks shall not be
+made on the part of the spine.
+
+2.2 Head: The area above the collar bone. Only foot techniques are
+permitted.
+
+Article 12
+
+Valid Points
+
+1
+
+Scoring Areas
+
+1.1 Trunk: The blue or red colored area of the trunk protector
+
+1.2 Head: The entire head above the bottom line of the head protector
+
+2
+
+Criteria for valid point(s):
+
+2.1 Point(s) shall be awarded when a permitted technique is delivered to
+the scoring areas of the trunk with a proper level of impact.
+
+2.2 Point(s) shall be awarded when a permitted technique is delivered to
+the scoring areas of the head.
+
+2.3 The determination of the validity of the technique, level of impact,
+and/or valid contact to the scoring area shall be made by the electronic
+scoring system except fist techniques. These PSS determinations shall
+not be subject to Instant Video Replay except for head kicks.
+
+2.4 The WT Technical Committee shall determine the required level of
+impact and sensitivity of the PSS, using different scales in
+consideration of weight category, gender, and age groups. In certain
+circumstances as deemed necessary the Technical Delegate may recalibrate
+the valid level of impact.
+
+3
+
+The valid points are as follows.
+
+3.1 One (1) point for a valid punch to the trunk protector
+
+3.2 Two (2) points for a valid kick to the trunk protector
+
+3.3 Four (4) points for a valid turning kick to the trunk protector
+
+3.4 Three (3) points for a valid kick to the head
+
+3.5 Five (5) points for a valid turning kick to the head
+
+3.6 One (1) point awarded for every one ``Gam-jeom'' given to the
+opponent contestant
+
+4
+
+Match score shall be the sum of points of the three rounds.
+
+4.1 In the best of three (3) system, match score shall be the sum of the
+number of round won of the three rounds.
+
+5
+
+Invalidation of point(s): When a contestant records points following
+prohibited act(s):
+
+5.1 If prohibited act is followed by point(s), the referee shall declare
+the penalty for the prohibited act and invalidate the point(s).
+
+(Explanation\#1)
+
+Back kick (Dwichagi) is one type of turning kick techniques, the head
+and shoulder rotation must occur to be considered as a back kick
+(Dwichagi) and awarded technical points.
+
+When contestants kick opponent by the back kick (Dwichagi), without
+contestant's simultaneous rotation of head and shoulder, ``Back kick''
+(Dwichagi) will not be considered turning kick.
+
+Article 13
+
+Scoring and publication
+
+1
+
+Scoring of valid point(s) shall be determined primarily using the
+electronic scoring system installed in Protector and Scoring Systems
+(PSS). Points awarded for punching techniques and additional points
+awarded for turning kicks shall be scored by judges using manual scoring
+devices. If PSS (Protector \& Scoring System) is not used, all scoring
+shall be determined by judges using manual scoring devices.
+
+2
+
+If head PSS is not employed with trunk PSS, scoring for kicking
+techniques to the head shall be made by judges using the manual scoring
+devices.
+
+3
+
+The additional point given for a turning kick shall be invalidated if
+the turning kick was not scored as a valid point(s) by PSS.
+
+4
+
+Under a three (3) corner judge setting, two or more judges shall be
+needed to confirm valid scoring.
+
+5
+
+Under a two (2) corner judges setting, two judges shall be needed to
+confirm valid scoring.
+
+Article 14
+
+Prohibited acts and Penalties
+
+1
+
+Penalties shall be declared by the referee.
+
+2
+
+Prohibited acts which described in article 14 shall be penalized with
+``Gam-jeom'' by referee.
+
+3
+
+A ``Gam-jeom'' shall be counted as one (1) point for the opposing
+contestant.
+
+4
+
+Prohibited acts 4.1 The following acts shall be classified as prohibited
+acts, and ``Gam-jeom'' shall be declared. 4.1.1 Crossing the Boundary
+Line 4.1.2 Falling down 4.1.3 Avoiding or delaying the match 4.1.4
+Grabbing or pushing the opponent 4.1.5 The following are considered
+prohibited acts: a) Lifting the leg to block b) Kicking the opponent's
+leg to impede the opponent's kicking attack c) Kick was aiming to below
+the waist d) Lifting the leg above waist for kicking in the air for four
+(4) times or more e) Lifting a leg or kicking in the air for more than
+three (3) seconds to impede opponent's potential attacking movements
+4.1.6 Kicking below the waist 4.1.7 Attacking the opponent after
+``Kal-yeo'' 4.1.8 Hitting the opponent's head with the hand 4.1.9
+Butting or attacking with the knee 4.1.10 Attacking the fallen opponent
+4.1.11 Attacking trunk PSS with the side or bottom of the foot in clinch
+position 4.1.12 Attacking back of head PSS in clinch position 4.1.13
+Following Misconducts of contestant or coach a) Not complying with the
+referee's command or decision b) Inappropriate protesting behavior to
+officials' decisions c) Inappropriate attempts to disturb or influence
+the outcome of the match d) Provoking or insulting the opposing
+contestant or coach e) Unaccredited doctor/physicians or other team
+officials found to be seated in the doctor's position f) Any other
+severe misconduct or unsportsmanlike conduct from a contestant or coach
+g) When a contestant commits a prohibited Act followed by an Attack
+After ``Kal-yeo'' (as per article 14.4.1.7) or any other unsportsmanlike
+behavior (as per article 14.4.1.13) the Referee may give a 2nd
+``Gam-jeom'' for `Attack after ``Kal-yeo''\,' or `Misconduct'.
+
+4.2 When a coach or contestant commits excessive misconduct and does not
+follow the referee's command the referee may declare a sanction request
+by raising a yellow card. In this case the Competition Supervisory Board
+shall investigate the contestant's and/or coach's behavior and determine
+whether a sanction is appropriate
+
+5
+
+If a contestant intentionally and repeatedly refuses to comply with the
+Competition Rules or the referee's orders, the referee may end the match
+raising yellow card and declare the opposing contestant the winner.
+
+6
+
+If the referee at the inspection desk or officials in the Field of Play
+determines, in consultation with the PSS technician, if necessary, that
+a contestant or coach has attempted to manipulate the sensitivity of PSS
+sensor(s) and/or inappropriately alter the PSS so as to affect its
+performance, the contestant shall be disqualified.
+
+7
+
+When a contestant receives ten (10) ``Gam-jeom'', the referee shall
+declare the contestant loser by referee's punitive declaration (PUN)
+
+7.1 In the best of three (3) system, when a contestant receives five (5)
+'' Gam-jeom'' in a round, the opponent will be declared the winner of
+that round.
+
+8
+
+In Article 14.7, ``Gam-jeom'' shall be counted in the total score of the
+three rounds.
+
+(Interpretation) Objectives in establishing the prohibited acts and
+penalties are as follows, (1) To secure the contestant's safety (2) To
+ensure fair competition (3) To encourage appropriate techniques
+
+(Explanation \#1) ``Gam-jeom''
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\item
+  Crossing the Boundary Line: A ``Gam-jeom'' shall be declared when one
+  foot of a contestant crosses the Boundary Line. No ``Gam-jeom'' will
+  be declared if a contestant crosses the boundary line as a result of a
+  prohibited act by the opposing contestant.
+\item
+  Falling down: ``Gam-jeom'' shall be declared for falling down.
+  However, if a contestant falls down due to the opponent's prohibited
+  acts ``Gam-jeom'' penalty shall not be given to the fallen contestant,
+  while a penalty shall be given to the opponent. If both contestants
+  fall as a result of incidental collision, or in case a contestant who
+  received a point with turning kick falls down, no penalty shall be
+  given.
+\item
+  Avoiding or delaying the match:
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\item
+  This act involves stalling with no intention of attacking. A
+  contestant who continuously displays a non-engaging style shall be
+  given a ``Gam-jeom''. If both contestants remain inactive after three
+  (3) seconds, the center referee will signal the ``\,``Gong-gyeok''
+  command. A ``Gam-jeom'' will be declared: On both contestants if there
+  is no activity from them three (3) seconds after the command was
+  given; or on the contestant who moved backwards from the original
+  position three (3) seconds after the command was given.
+\item
+  Turning the back and move away to avoid the opponent's attack should
+  be punished as it expresses the lack of a spirit of fair play and may
+  cause serious injury. The same penalty should also be given for
+  evading the opponent's attack by bending below waist level or
+  crouching.
+\item
+  Retreating from the technical engagement only to avoid the opponent's
+  attack and to run out the clock, ``Gam-jeom'' shall be given to the
+  passive contestant.
+\item
+  Pretending injury means exaggerating injury or indicating pain in a
+  body part not subjected to a blow for the purpose of demonstrating the
+  opponent's actions as a violation, and also exaggerating pain for the
+  purpose of elapsing the match time.
+\item
+  ``Gam-jeom'' shall also be given to the athlete who asks the referee
+  to stop the contest in order to adjust the position/fit of protective
+  equipment.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  Grabbing or pushing the opponent:
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi})}
+\tightlist
+\item
+  This includes grabbing any part of the opponent's body, uniform or
+  protective equipment with the hands. It also Includes the act of
+  grabbing the foot or let or hooking the leg with forearm. For pushing,
+  it is permitted as a quick impact and a contestant must disengage from
+  opponent after one push. The flowing acts shall be penalized.
+\end{enumerate}
+
+\begin{itemize}
+\tightlist
+\item
+  Pushing the opponent with prolonged or continuous contact
+\item
+  Pushing the opponent out of the boundary line
+\item
+  Pushing the opponent in a way that prevents kicking motion or any
+  normal execution of attacking movement
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\alph{enumi}.}
+\setcounter{enumi}{21}
+\tightlist
+\item
+  Lifting the leg or cut kick motion shall not be penalized only when it
+  is followed by execution of punching or kicking technique in
+  combination motion.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\setcounter{enumi}{5}
+\item
+  Attacking below the waist: This action applies to an attack on any
+  part below the waist. When an attack below the waist is caused by the
+  recipient in the course of an exchange of techniques, no penalty will
+  be given. This article also applies to strong kicking or stamping
+  actions to any part of the thigh, knee or shin for the purpose of
+  interfering with the opponent's technique.
+\item
+  Attacking the opponent after ``Kal-yeo'':
+\end{enumerate}
+
+a)Attacking after Kal-yeo requires that the attack results in actual
+contact to the opponent's body. b)If the attacking motion started before
+the Kal-yeo, the attack shall not be penalized. c)In Instant Video
+Replay, the timing of Kal-yeo shall be defined as the moment that the
+referee's Kal-yeo hand signal was completed (with fully extended arm);
+and the start the attack shall be defined as the moment that the
+attacking foot is fully off the floor. d)If an attack after Kal-yeo did
+not land on the opponent's body but appeared deliberate and malicious
+the referee may penalize the behavior with a ``Gam-jeom''
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\setcounter{enumi}{7}
+\item
+  Hitting the opponent's head with the hand: This article includes
+  hitting the opponent's head with the hand (fist), wrist, arm, or
+  elbow. However, unavoidable actions due to the opponent's carelessness
+  such as excessively lowering the head or carelessly turning the body
+  cannot be punished by this article.
+\item
+  Butting or attacking with the knee: This article relates to an
+  intentional butting or attacking with the knee when in close proximity
+  to the opponent. However, contact with the knee that happens in the
+  following situations cannot be punished by this article. When the
+  opponent rushes in abruptly at the moment a kick is being executed
+  Inadvertently, or as the result of a discrepancy in distance in
+  attacking.
+\item
+  Attacking the fallen opponent: This action is extremely dangerous due
+  to the high probability of injury to the opponent. The danger arises
+  from the following:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The fallen opponent is in an immediate defenseless state
+  \item
+    The impact of any technique which strikes a fallen contestant will
+    be greater due to the contestant's position. These types of
+    aggressive actions toward a fallen opponent are not in accordance
+    with the spirit of taekwondo and as such are not appropriate to
+    taekwondo competition. In this regard, penalties should be given for
+    intentionally attacking the fallen opponent regardless of the degree
+    of impact
+  \end{itemize}
+\end{enumerate}
+
+When misconduct is committed by a contestant or a coach during a rest
+period, past the five (5) seconds of the round conclusion, the referee
+can immediately declare the ``Gam-jeom'' and the ``Gam-jeom'' shall be
+recorded to the upcoming round. However, ``Gam-jeom'' shall be recorded
+to the previous round if the action happened within five (5) seconds of
+the round conclusion.
+
+Article 15
+
+Golden Points and Decision of Superiority
+
+1
+
+In the event the winner cannot be decided after 3 rounds, a 4th round
+(golden round) will be conducted in one-minute round.
+
+2
+
+In case of a contest advances to a golden round, all scores awarded
+during the first three (3) rounds shall be void.
+
+3
+
+The first contestant scores two (2) or more points or whose opponent
+receives two ``Gam-jeoms'' in the golden round shall be declared the
+winner.
+
+4
+
+In the event that neither contestant has scored two (2) points after the
+completion of the golden round, the winner shall be decided by
+superiority based the following criteria:
+
+4.1 The contestant who received a point by a punch in the golden round
+4.2 If none of the contestant received a point by a punch or both
+contestants received a point by a punch each in the golden round, the
+contestant who achieved a higher number of hits registered by the PSS
+during the golden round. 4.3 If number of hits registered by the PSS is
+tied, the contestant who won more rounds in first three rounds 4.4 If
+number of round won is tied, the contestant who received less numbers of
+a ``Gam-jeom'' during all four rounds 4.5 If the three above criteria
+are the same, the referee and judges shall determine superiority based
+on the content of the golden round. If the superiority decision is tied
+among the referee and judges, the referee shall decide the winner.
+
+5
+
+In the best of three (3) system, in case of tie score for corresponding
+round, the round winner shall be decided by superiority based on
+following criteria:
+
+5.1 Most points scored by turning or spinning kick. 5.2 If the technical
+score is the same, the contestant who has more scored in the order of a
+higher value techniques as follows (Head, Trunk, Punch, Gam-Jeom). 5.3
+If the high value points are same, the contestant who received higher
+number of hits registered by the PSS.. 5.4 If the three above criteria
+are the same, the referee and judges shall determine superiority. a) In
+case of two (2) corner judges, winner shall be decided by referee and
+two (2) judges b) In case of three (3) corner judges, winner shall be
+decided by three (3) judges except referee.
+
+(Explanation \#1) Decision of superiority by judges shall be based on
+technical dominance of an opponent through aggressive match management,
+the greater number of techniques executed, the use of the more advanced
+techniques both in difficulty and complexity, and display of the better
+competition manner. (Explanation \#2) In the event that referee is
+counting for delivering successful head kick which caused knock down
+right before the opponent's body kick but only the latest body kick was
+registered, the coach of the athlete who delivered head kick may request
+for video replay. If review jury determines that head kick was valid and
+performed earlier than body kick, the referee shall invalidate the
+point(s) scored by body kick, then declare points for head kick, and
+declare the one who delivered head kick as winner. In the event that one
+athlete who already has one (1) point is delivering successful punch
+right before the opponent's body kick but only the latest body kick was
+registered, the coach of the athlete who delivered punch may request for
+video replay. If review jury determines that punch was performed earlier
+than body kick, the referee shall ask whether corner judges were scored
+or not. If two or more corner judges scored for punch, referee shall
+invalidate the point(s) scored by body kick, then declare points for
+punch, and declare the one who delivered punch as winner
+
+(Guideline for officiating) The procedure for superiority decision shall
+be as follows except for the best of three (3) system. 1) Prior to the
+contest, all refereeing officials take the superiority card with them.
+2) When a match is to be decided by superiority, the referee shall
+declare ``Woo-se-girok (Record Superiority)''. 3) Upon the referee's
+declaration, the judges shall record the winner within 10 seconds with
+their heads down, sign on the card and then give it to the referee. 4)
+The referee shall collect all superiority cards, record the final
+result, and then declare the winner. 5) Upon declaration of winner, the
+referee shall hand over the cards to the recorder and the recorder shall
+submit the cards to the Technical Delegate of World Taekwondo.
+
+(Guideline for officiating for the best of three (3) system) 1) When a
+round is to be decided by superiority, the referee shall declare
+``Woo-se-girok (Record Superiority)''. 2) Upon the referee's
+declaration, the judges declare the winner simultaneously after the
+Referee's count of three (3) by using round winner hand signal facing
+the head table. 3) In case of two (2) corner judges, winner shall be
+decided by referee and two (2) corner judges. 4) In case of three (3)
+corner judges, winner shall be decided by three (3) corner judges except
+referee. 5) The Review Jury shall record the final result, and declare
+to Operator the round winner. 6) Upon declaration of winner, the referee
+shall declare the round or match winner.
+
+Article 16
+
+Decisions
+
+1
+
+Win by Referee Stops Contest (RSC)
+
+2
+
+Win by final score (PTF)
+
+3
+
+Win by point gap (PTG)
+
+4
+
+Win by golden points (GDP)
+
+5
+
+Win by superiority (SUP)
+
+6
+
+Win by withdrawal (WDR)
+
+7
+
+Win by disqualification (DSQ)
+
+8
+
+Win by referee's punitive declaration (PUN)
+
+9
+
+Win by disqualification for unsportsmanlike behavior (DQB)
+
+(Explanation \#1)
+
+Referee Stops Contest: The referee declares RSC in the following
+situations:
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\tightlist
+\item
+  if a contestant has been knocked down by an opponent's legitimate
+  technique and cannot resume the contest by the count of ``Yeo-dul'';
+  or if the referee determines the contestant is not able to resume the
+  competition regardless of the progress of counting;
+\item
+  if a contestant disregards the referee's command to continue the match
+  three times; iii.if the referee recognizes the need to stop the match
+  to protect a contestant's safety;
+\item
+  when the Commission Doctor determines that the match should be stopped
+  due to a contestant's injury;
+\end{enumerate}
+
+(Explanation \#2)
+
+Win by point gap: In case of twenty (20) points difference between two
+athletes at the time of the completion of 2nd round and/or at any time
+during the 3rd round, the referee shall stop the contest and shall
+declare the winner by point gap. Win by point gap shall not be applied
+in semi- finals \& finals in senior division by the outline of
+tournament.
+
+(Explanation \#3)
+
+Win by withdrawal: The winner is determined by withdrawal of the
+opponent. - When a contestant withdraws from the match due to injury or
+other reasons - When the coach throws a towel into the court to signify
+forfeiture of the match
+
+(Explanation \#4)
+
+Win by disqualification: This is the result determined by the
+contestant's failure in weigh-in or when a contestant fails to report to
+the Athlete Calling Desk following the third call.
+
+The follow-up actions should be different in accordance with the reason
+of disqualification.
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\item
+  In the event that contestants have not passed or did not show at
+  weigh-in: The result should be reflected on the draw sheet and the
+  information should be provided to technical officials and all relevant
+  persons. Referees will not be assigned for this match. The opponent of
+  athletes that did not pass or show at weigh-in will not need to appear
+  at the court to compete.
+\item
+  In the event that a contestant passed weigh-in but did not appear at
+  the Athletes Calling Desk: The assigned referee and opponent shall
+  enter the FOP and waiting in their position until the referee declares
+  the opponent a winner of the match. Detailed procedure is stipulated
+  in 4.1 of Article 10.
+\end{enumerate}
+
+(Explanation \#5)
+
+Win by the referee's punitive declarations:
+
+The referee declares PUN in the following situations:
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\tightlist
+\item
+  if a contestant accumulated ten (10) ``Gam-jeom''
+\end{enumerate}
+
+(Explanation \#6) Win by disqualification for unsportsmanlike behavior:
+DQB shall be declared in the following situations: - When a contestant
+or any of his/her team member is found manipulating of the sensor(s) or
+scoring system of the PSS - When a contestant cheats the process of
+weigh-in - When a contestant is found violating the WT Anti-Doping Rules
+- When a contestant or coach commits serious infringing behavior
+described in article 23.3.1\& 23.3.2
+
+The all result of contestant who lost by DQB shall be removed, and other
+contestant's result which affected by DQB shall be reallocated.
+
+(Explanation \#7)
+
+In the best of three (3) system, the decisions shall follow the
+procedure of Article 16: - 16.1 Win by Referee Stops Contest (RSC) -
+16.2 Win by Final Score (PTF) - 16.6 Win by Withdrawal (WDR) - 16.7 Win
+by Disqualification (DSQ) - 16.9 Win by Disqualification for
+unsportsmanlike behavior (DQB)
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi})}
+\tightlist
+\item
+  In case of Article 16.2. Win by final score (PTF), match score shall
+  be the sum of the number of round won of the three rounds.
+\end{enumerate}
+
+ii)In case of Article 16.3. Win by point (PTG), in case of twelve (12)
+points difference between two athletes per round, the referee shall stop
+the contest and shall declare the winner by point gap for corresponding
+round. Point gap for corresponding round shall not be applied in semi-
+finals \& finals in senior division by the outline of tournament.
+
+Article 17
+
+Knock Down
+
+A Knock Down shall be declared, when a legitimate attack is delivered
+and;
+
+1
+
+When any part of the body other than the sole of the foot touches the
+floor due to the force of the opponent's scoring technique
+
+2
+
+When a contestant is staggered and shows no intention or ability to
+continue as a result of the opponent's scoring techniques.
+
+3
+
+When the referee judges that the contest cannot continue as the result
+of being struck by a legitimate scoring technique
+
+(Explanation \#1)
+
+A knock down:
+
+This is the situation in which a contestant is knocked to the floor or
+is staggered or unable to respond adequately to the requirements of the
+match due to a blow. Even in the absence of these indications, the
+referee may interpret as a knock down, the situation where, as the
+result of contact, it would be dangerous to continue or when there is
+any question about the safety of a contestant.
+
+Article 18
+
+Procedure in the event of a Knock Down
+
+1
+
+When a contestant is knocked down as the result of the opponent's
+legitimate attack, the referee shall take the following measures.
+
+1.1 The referee shall keep the attacker away from downed contestant by
+declaration of ``Kal-yeo (break)''. The recorder shall stop the match
+clock following the referee's ``Kal-yeo (break)'' command. 1.2 The
+referee shall first check the status of the downed contestant and count
+aloud from ``Ha-nah (one)'' up to ``Yeol (ten)'' at one second intervals
+towards the downed contestant, making hand signals indicating the
+passage of time. 1.3 In case the downed contestant stands up during the
+referee's count and desires to continue the fight, the referee shall
+continue the count up to ``Yeo-dul (eight)'' for recovery of the
+contestant. The referee shall then determine if the contestant is
+recovered and, if so, continue the contest by declaration of ``Kye-sok
+(continue)''. 1.4 When a contestant who has been knocked down cannot
+demonstrate the will to resume the contest by the count of ``Yeo-dul
+(eight)'', the referee shall announce the other contestant winner by
+RSC(Referee Stops Contest). 1.5 In case both contestants are knocked
+down, the referee shall continue counting as long as one of the
+contestants has not sufficiently recovered. 1.6 In case both contestants
+are knocked down and both contestants fail to recover by the count of
+``Yeol'', the winner shall be decided by the match score before the
+occurrence of Knock Down. 1.7 When it is judged by the referee that a
+contestant is unable to continue, the referee may decide the winner
+either without counting or during the counting.
+
+2
+
+Procedures to be followed after the contest: Any contestant who could
+not continue the match as a result of a serious injury regardless of any
+parts of the body cannot enter competition within thirty (30) days
+without approval of the WT Medical Chairman after submission of a
+statement from the physician designated by the pertinent national
+federation.
+
+2.1 Except for medical emergency, any contestant with any serious injury
+must be evaluated by venue medical doctor and confirmed by medical
+chairman (MC) at medical room immediately after the contest. 2.2 Any
+contestant who had knockout due to head injury must be checked by
+medical doctor at medical room per WT medical rules. A venue medical
+doctor must perform SCAT5 on the injured contestant for diagnosis of
+concussion in case of head injury within 30minutes after the head
+injury. 2.3 Any significant(moderate to severe) head trauma or
+concussion carries mandatory suspension for any competition during the
+suspension period(see 18.2.5) This mandatory medical suspension period
+cannot be shortened in any circumstances once the suspension is given.
+2.4 The decision on the suspension of the contestant for significant
+head trauma or concussion must be made based the on one of the following
+criteria (1)\textasciitilde(3). (1) Comprehensive neurological
+examination and neurocognitive testing (SCAT 5 or other validated
+concussionassessment tools permitted by MC Chair) performed by
+commissioned doctor in the venue medical room which must be reported to
+MC Chair) (2) Referee-stop-contest due to any loss of consciousness,
+altered mental status or inability to make a meaningful, stable and
+voluntary movement as a result of a direct head trauma at least for ten
+(10) seconds or by the count ten (10) (3) Failure to fully recover from
+head trauma and resume the match within one (1) minute of medical
+evaluation on the mat after centre referee calls a doctor for possible
+concussion. 2.5 Any contestant who had diagnosis of significant head
+trauma or concussion based on one of the above 2.4 criteria will get
+30days suspension(senior), 40days suspension(junior) or 50days
+suspension(cadet). This mandatory medical suspension period cannot be
+shortened in any circumstances once the suspension is given. 2.6 Any
+contestant who had second concussion in last 90 days will get 90days
+suspension and who had third concussion in last 180days will get 180days
+suspension. 2.7 For any incidence of concussion or significant head
+trauma underreported, misdiagnosed or mismanaged without mandatory
+medical suspension, WT Sport Department and WT MC Medical Committee led
+by WT MC Chair shall start investigating the incidence by retrospective
+video review even after the end of the competition. The incidence must
+be reported to WT MC Chair within 30days after the incidence date to
+commence the investigation. If the video review confirmed by at least
+three (3) reviewers of WT medical committee reveals obvious concussion
+or serious head trauma (knockout more than 10 seconds) or other serious
+injuries which mandate at least 30-day mandatory medical suspension, WT
+medical committee shall override the medical examiner (OMD or
+commissioned doctor)'s decision and apply the mandatory suspension rules
+to the athlete to protect the health and safety of the contestant.
+
+(Explanation \#1)
+
+Keep the attacker away: In this situation the standing opponent shall
+return to the respective contestant's mark, however, if the downed
+contestant is on or near the opponent's contestant's mark, the opponent
+shall wait at the boundary line in front of his/her coach's chair.
+
+(Guideline for officiating)
+
+The referee must be constantly prepared for the sudden occurrence of a
+knock down or situation where the contestant is staggered, which is
+usually characterized by a powerful blow accompanied by impact.
+
+(Explanation \#2)
+
+In case the downed contestant stands up during the referee's count and
+desires to continue the fight: The primary purpose of counting is to
+protect the contestant. Even if the contestant desires to continue the
+match before the count of eight is reached, the referee must count until
+``Yeo-dul (eight)'' before resuming the match. Counting to ``Yeo-dul''
+is compulsory and cannot be altered by the referee.
+
+*Count from one to ten: Ha-nah, Duhl, Seht, Neht, Da-seot, Yeo-seot,
+Il-gop, Yeo-dul, A-hop, Yeol.
+
+(Explanation \#3)
+
+The referee shall then determine if the contestant has recovered and, if
+so, restart the contest by the declaration of ``Kye-sok'': The referee
+must ascertain the ability of the contestant to continue while he/she
+counts until eight. Final confirmation of the contestant's condition
+after the count of eight is only procedural and the referee must not
+needlessly pass time before resuming the contest.
+
+(Explanation \#4)
+
+When a contestant who has been knocked down cannot express the will to
+resume by the count of ``Yeo-dul'', the referee shall announce the other
+contestant winner by RSC after counting to ``Yeol'': The contestant
+expresses the will to continue the match by gesturing several times in a
+fighting position with the clenched fists. If the contestant cannot
+display this gesture by the count of ``Yeo-dul'', the referee must
+declare the other contestant winner after first counting ``A-hop'' and
+``Yeol''. Expressing the will to continue after the count of ``Yeo-dul''
+cannot be considered valid. Even if the contestant expresses the will to
+resume by the count of ``Yeo-dul'', the referee can continue counting
+and may declare the contest over if he/she determines the contestant is
+incapable of resuming the match.
+
+(Explanation \#5)
+
+When a contestant is downed by a powerful scoring blow and whose
+condition appears serious, the referee can suspend the count and call
+for first aid or do so in conjunction with the count.
+
+(Guideline for officiating)
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\item
+  The referee must not spend additional time confirming the contestant's
+  recovery after counting to ``Yeo-dul'' as a result of failing to
+  observe that condition during the administration of the count.
+\item
+  When the contestant clearly recovers before the count of ``Yeo-dul''
+  and expresses the will to resume and the referee can clearly discern
+  the contestant's condition yet resumption is hampered by the
+  requirement of medical treatment, the referee must first resume the
+  match with the declaration of ``Kye-sok'' and immediately after
+  declare ``Kal-yeo'' and ``Kye-shi'' and then follow the procedures of
+  Article 19.
+\end{enumerate}
+
+Article 19
+
+Procedures of suspending the match
+
+1
+
+When a contest is to be stopped due to the injury of one or both
+contestants, the referee shall take the measures prescribed below.
+However, in a situation which warrants suspending the contest for
+reasons other than an injury, the referee shall declare''Kal-yeo
+(break)'' and resume the contest by declaring ``Kye-sok (continue)''.
+
+1.1 The referee shall suspend the contest by declaration of ``Kal-yeo''
+and order the recorders to suspend the time.
+
+1.2 The referee shall allow the contestant one minute to receive first
+aid by the commission doctor; the referee may allow team doctor to treat
+first aid if the commission doctor is not available or if it is deemed
+necessary.
+
+1.2.1 The commission doctor may request more time (up to 2 minutes) if
+necessary.
+
+1.2.2 If there is no commission doctor, team doctor or medical chairman
+available, any doctor (or medical associate) near competition mat can be
+requested to provide the athlete with first aid.
+
+1.3 If an injured contestant cannot return to the match after one minute
+the referee shall declare the other contestant winner.
+
+1.4 In case resumption of the contest is impossible after one minute,
+the contestant causing the injury by a prohibited act to be penalized by
+``Gam-jeom'' shall be declared the loser.
+
+1.5 In case both the contestants are knocked down and are unable to
+continue the contest after one minute, the winner shall be decided upon
+points scored before the injuries occurred.
+
+1.5.1 In case of best of three (3) System: If both contestants are
+knocked down and are unable to continue the contest after one minute at
+the Round 1 or Round 3, the winner shall be determined by the points
+scored before the injuries occurred in the pertinent Round. If this
+occurs during the Round 2, the winner shall be determined by the
+decision of the Round 1.
+
+1.5.2 If points are tied, the winner shall be decided according to
+criteria of superiority.
+
+1.6 If the referee determines a contestant's pain is caused only by a
+bruise the referee shall declare ``Kal-yeo'' and give a command to
+resume the match with the call, ``stand-up''. If the contestant refuses
+to continue the match after the referee gives the command ``stand up''
+three times, the referee shall declare the match `Referee Stops
+Contest'.
+
+1.7 If the referee determines a contestant has received an injury such
+as broken bone(s), dislocation, sprain ankle(s), and/or bleeding, the
+referee shall allow the contestant to receive a first aid treatment for
+one minute after ``Kyeshi''. The referee may allow the contestant to
+receive first aid treatment even after giving the commanding ``standup''
+if the contestant is determined to be injured in one of the categories
+above.
+
+1.8 Stopping the match due to injury: If the referee determines a
+contestant has received an injury such as broken bone(s), dislocation,
+sprain ankle(s), and/or bleeding, the referee shall consult with the
+chairperson of the Medical Committee or the commissioned doctor assigned
+by the chairperson. If a contestant is re-injured in the same manner,
+the chairperson of the Medical Committee or the commission doctor
+assigned by the chairman may advise the referee to stop the match and
+declare the injured the loser.
+
+(Explanation \#1)
+
+When the referee determines that the competition cannot be continued due
+to injury or any other emergency situation, he/she may take the
+following measures:
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\item
+  If the situation is critical such as a contestant losing consciousness
+  or suffering from a severe injury and time is crucial, first aid must
+  be immediately directed first and the match must be closed. In this
+  case, the result of the match will be decided as follows.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The contestant causing the injury shall be declared the loser if the
+    outcome was the result of a prohibited act to be penalized by
+    ``Gam-jeom''.
+  \item
+    The incapacitated contestant shall be declared the loser if the
+    outcome was the result of a legal action or accidental, unavoidable
+    contact.
+  \item
+    If the outcome was unrelated to the match contents, the winner shall
+    be decided by the match score before suspension of the match. If the
+    suspension occurs before the end of the first round, the match shall
+    be invalidated. If points are tied, the winner shall be decided
+    according to the criteria of superiority.
+  \item
+    In case of best of three (3) System: If the outcome was unrelated to
+    the match contents, the winner shall be determined by the points
+    scored before the suspension occurred in the pertinent Round (in
+    case of the Round 1 or 3). If points are tied, the winner shall be
+    decided according to the criteria of superiority. If this occurs in
+    the Round 2, the winner shall be determined by the decision of the
+    Round 1.
+  \end{itemize}
+\item
+  If first aid treatment is need for an injury, the contestant can
+  receive necessary treatment within one minute after the declaration of
+  ``Kye-shi''.
+\end{enumerate}
+
+\begin{verbatim}
+- Order to resume the match: It is the decision of the center referee, after consultation with the Commission Doctor, whether or not it is possible for the contestant to resume the match. The referee can anytime order the contestant to resume the match within one minute. The referee can declare any contestant who does not follow the order to resume the match the loser of the contest.
+- While the contestant is receiving medical treatment or is in the process of recovering, 40 seconds after the declaration of "Kye-shi", the referee begins to loudly announce the passage of time in five second intervals.  When the contestant cannot return to the Contestant's Mark by the end of the one minute period, the match results must be declared.
+- After the declaration of "Kye-shi", the one minute time interval must be counted from the moment the commission doctor enter the mat or after waiting for commission doctor up to 10 seconds if not readily available in the mat. However, when the doctor's treatment is required but the doctor is absent or additional treatment is necessary, the one minute time limit can be suspended by the judgment of the referee.
+- If resumption of the match is impossible after one minute, the decision of the match will be determined according to sub-article "i" of this article.
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  If both contestants become incapacitated and are unable to resume the
+  match after one minute or urgent conditions arise, the match result is
+  decided according to the following criteria:
+\end{enumerate}
+
+\begin{verbatim}
+- If the outcome is the result of a prohibited act to be penalized by "Gam-jeom" by one contestant that person shall be the loser.
+- If the outcome was not related to any prohibited act to be penalized by "Gam-jeom", the result of the match shall be determined by the match score at the time of suspension of the match. However, if the suspension occurs before the end of the first round, the match shall be invalidated and the Organizing Committee will determine an appropriate time to re-contest the match. The contestant who cannot resume the match shall be deemed to have withdrawn from the match.
+- In case of best of three (3) System: If the outcome was unrelated to "Gam-jeom" penalty, the contest result shall be determined by the points scored before the suspension occurred in the pertinent Round (in case of Round 1 or 3). If the points are tied, the winner shall be determined according to the criteria of superiority. If this occurs in the Round 2, the winner shall be determined by the decision of the Round 1.
+- If the outcome is the result of prohibited acts to be penalized by "Gam-jeom" by both contestants, then both contestants shall lose.
+\end{verbatim}
+
+(Explanation \#2)
+
+The situation which warrants suspending the match beyond the
+above-prescribed procedures shall be treated as follows.
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\item
+  When uncontrollable circumstances require suspension of the match, the
+  referee shall suspend the match and follow the directives of the
+  Technical Delegate.
+\item
+  If the match is suspended after the completion of the second round,
+  the outcome shall be determined according to the match score at the
+  time of suspension.
+\end{enumerate}
+
+\begin{verbatim}
+- In case of best of three (3) System, if the match is suspended, the outcome shall be determined by the point scored before the suspension occurred in pertinent Round in case of Round 1 or Round 3 of the contest. If points are tied, the winner shall be decided according to the criteria of superiority. In case of the occurrence during Round 2, the winner shall be decided upon decision of Round 1.
+\end{verbatim}
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  If the match is suspended before the conclusion of the second round, a
+  rematch shall, in principle, be conducted and shall be held in three
+  rounds.
+\end{enumerate}
+
+Article 20
+
+Technical Officials
+
+1
+
+Technical Delegate (TD)
+
+1.1 Qualification: WT President shall appoint TD among members of WT
+technical committee for WT promoted championships upon recommendation of
+WT Secretary General.
+
+1.2 Roles: TD is responsible to ensure that WT Competition Rules are
+properly applied and preside over the Head of Team meeting and drawing
+of lots session. TD approves the result of draw, weigh-in and
+competitions before it being officialized. TD has the right to make
+final decisions on competition area and overall technical matters on
+competitions in consultation with Competition Supervisory Board. TD
+shall make final decisions on any matters pertaining to competitions not
+prescribed in Competition Rules. TD serves as the Chairman of
+Competition Supervisory Board. TD is responsible for reporting of event
+evaluation.
+
+2
+
+Competition Supervisory Board (CSB) Member
+
+2.1 Qualification: CSB members shall be appointed by the WT President
+upon recommendation of Secretary General from those who have sufficient
+experience and knowledge of taekwondo competitions.
+
+2.2 Composition: CSB shall consist of one Chairperson and no more than 4
+members at WT-promoted championships. Chairpersons of WT Games
+Committee, WT Referee Committee, and WT Medical Committee and WT Athlete
+Committee shall be included in CSB as ex-officio members. The
+composition, however, may be adjusted by the President, if necessary.
+
+2.3 Roles: CSB shall assist TD in competitions and technical matters and
+ensure the competitions are held in accordance with the schedule. CSB
+shall evaluate the performances of Review Jury and refereeing officials.
+CSB shall also concurrently act as the Extraordinary Sanctions Committee
+during competition with regard to competition management matters.
+
+3
+
+Refereeing officials
+
+3.1 Qualification: Holders of International Referee Certificate
+registered by the WT
+
+3.2 Duties
+
+3.2.1 Referee
+
+3.2.1.1 The referee shall have control over the match.
+
+3.2.1.2 The referee shall declare ``Shi-jak'', ``Keu-man'', ``Kal-yeo'',
+``Kye-sok'', ``Kye-shi'', ``Shi-gan'', winner and loser, deduction of
+points, penalty, and retiring. All the referees' declarations shall be
+made after the results are confirmed.
+
+3.2.1.3 The referee shall have the right to make decisions independently
+in accordance with the prescribed rules.
+
+3.2.1.4 In principle, the center referee shall not award points.
+However, if one of the corner judges raises his/her hand because a point
+was not scored, then the center referee will convene a meeting with the
+judges. If it was found that two corner judges request for change of the
+judgment, the referee must accept and correct the judgment (in case of 1
+referee + 3 judges). In a two corner judge setting, the result of the
+scoring can be revised when two persons among two judges and the referee
+agree to do so.
+
+3.2.1.5 In case as defined by the Article 15, the decision of
+superiority shall be made by refereeing officials after the end of four
+(4) rounds when necessary.
+
+3.2.2 Judges
+
+3.2.2.1 The judges shall mark the valid points immediately.
+
+3.2.2.2 The judges shall state their opinions forthrightly when
+requested to do so by the referee.
+
+3.2.3 Review Jury (RJ)
+
+3.2.3.1 RJ shall review an instant replay and inform the referee of the
+decision within thirty (30) seconds.
+
+3.2.4 Technical Assistant
+
+3.2.4.1 TA shall keep monitoring scoreboard during the contest if the
+scoring, penalties and timing are correctly publicized, and immediately
+notify the referee of any problematic issue in this regard.
+
+3.2.4.2 TA shall notify the referee of starting or stopping the contest
+in close communication with system operator and recorder.
+
+3.2.4.3 TA manually records all scores, penalties and IVR result in TA
+paper.
+
+3.3 Composition of refereeing officials per court
+
+3.3.1 The officials' squad is composed of one (1) referee and three (3)
+judges.
+
+3.3.2 The officials' squad is composed of one (1) referee and two (2)
+judges
+
+3.4 Assignment of refereeing officials
+
+3.4.1 The assignment of the referees and judges shall be made after the
+contest schedule is fixed. 3.4.2 Referees and judges with the same
+nationality as that of either contestant shall not be assigned to such a
+contest. However, an exception can be made for the judges when the
+number of refereeing officials is insufficient.
+
+3.5 Responsibilities for decisions: Decisions made by the referees and
+judges shall be conclusive and they shall be responsible to the
+Competition Supervisory Board for the content of those decisions.
+
+3.6 Uniforms
+
+3.6.1 The referees and judges shall wear the uniform designated by the
+WT.
+
+3.6.2 The refereeing officials shall not carry or take any materials to
+the contest area which might interfere with the contest. Use of mobile
+phones by refereeing officials in the field of play may be restricted,
+if necessary.
+
+4 Recorders: The recorder shall time the contest, periods of time-out,
+and suspensions, and also shall record and publicize the awarded points,
+and/or penalties.
+
+(Explanation \#1)
+
+Refereeing officials must stay in a separate hotel to avoid any contact
+with team officials. The hotel should be located less than 20 minutes
+distance by car from the venue.
+
+(Interpretation)
+
+The details of the refereeing official's qualifications, duties,
+organization, etc. shall follow the WT Regulations on the Administration
+of International Referees.
+
+(Interpretation) TD may replace or penalize the refereeing officials in
+consultation with CSB in the event that refereeing officials have been
+wrongly assigned, or when it is judged that any of the assigned
+refereeing officials have unfairly conducted the contest or made
+unjustifiable mistakes repeatedly.
+
+(Guideline for officiating)
+
+In case that each judge awards different score respectively to the legal
+attack on the head, for instance, one judge gives one point, another
+gives two and the other gives no point, and that no point is recognized
+as a valid one, or in the case that the recorder makes mistakes in
+timing, scoring or penalties, any of the judges may indicate the mistake
+and ask for confirmation among the judges. Then, the referee may declare
+``Kal-yeo'' (break)'' to stop the contest and gather the judges to ask
+for statements. After discussion, the referee must publicize the
+resolution. In the case that a coach requests for video review for the
+same case that one of the judges requests for a meeting between
+refereeing officials, the referee shall first gather judges before
+taking the request from coach. If it has been decided to correct the
+decision, the coach shall remain seated without using appeal quota. If
+the coach still stands and request for video review, the referee shall
+take the coach's request.
+
+Article 21
+
+Instant Video Replay
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+\end{enumerate}
+
+In case there is an objection to a judgment of the refereeing officials
+during the contest, the coach of a team can make a request to the center
+referee for an immediate review of the video replay. The coach can only
+request video replay for followings;
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi})}
+\tightlist
+\item
+  Penalties against the opponent for instances of falling down or
+  crossing the boundary line or attacking the opponent after ``Kal-yeo''
+  or attacking the fallen opponent
+\item
+  Technical point
+\item
+  Any penalty against own contestant
+\item
+  Any mechanical malfunction or error in time management. In case of
+  appeal for PSS mechanical malfunction, the coach may request to the
+  center referee for a testing of the PSS at any time during the 2 nd
+  and/or the 3rd round. However, if the PSS mechanical function is
+  properly working, the coach's appeal quota shall be forfeited. As well
+  as this coach's appeal is considered to be a misconduct of coach that
+  ``Gam-jeom'' shall be given to own contestant in in accordance with
+  Article 14.4.1.3 `Following Misconducts of contestant of coach'. This
+  only applies to the `Best of 3' System.
+\item
+  When referee forgot to invalidate point(s) after ``Gam-jeom'' was
+  given for prohibited act
+\item
+  Wrong identification of fist attacking contestant by judge
+\item
+  Head kick that is not scored
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+\end{enumerate}
+
+When coach appeals, the center referee will approach the coach and ask
+the reason for the appeal. Any appeal shall not be admissible on any
+points scored by foot or fist attacks on the trunk or foot attack on
+trunk PSS. Coach may request instant video replay for head kick
+regardless of using head PSS. The scope of instant video replay request
+is limited to the only one action which has occurred within five (5)
+seconds from the moment of the coach's request. Once the coach rises the
+blue or red card to request for instant video replay, it will be
+considered that the coach has used his/her allocated appeal under any
+circumstance unless the judge's meeting satisfies the coach.
+
+3
+
+Referee shall request the Review Jury to review the instant video
+replay. Review Jury, who is not of the same nationality as the
+contestants, shall review the video replay.
+
+3.1 In the last five (5) seconds of any Round, the Center Referee may
+request for IVR review to check the possible Gam-jeom penalties for the
+following actions:
+
+\begin{verbatim}
+- Falling down
+- Crossing the boundary line
+- Attack after Kal-yeo
+- Attack the fallen opponent
+\end{verbatim}
+
+\begin{itemize}
+\tightlist
+\item
+  Any points scored after Prohibited Act will be invalidated.
+\end{itemize}
+
+3.2 If a referee perceives a contestant to be staggering, a strong
+impact to the head, kick to the eye(s), bleeding or knocked down by a
+kick to the head, and so begins counting, but the attack was not scored
+by the head PSS, the referee or coach must request IVR to make the
+decision for awarding or not awarding points after the count.
+
+3.3 Referee may request IVR for clarification before declaration of
+``Gam-jeom'' for pretending injury.
+
+4 After review of the instant video replay, the Review Jury shall inform
+the center referee of the final decision within thirty (30) seconds
+after receiving the request.
+
+5 Coach shall be allocated with one (1) appeal to request an instant
+video replay request per each contest. However, based on the size and
+level of the Championships, the Technical Delegate may decide the number
+of appeal quota during the head of team meeting. If the appeal is
+successful and the contested request is corrected, the coach shall
+retain the appeal right for the pertinent contest.
+
+6 The decision of the Review Jury is final; no further appeals during
+the contest or protest after the contest will be accepted except errors
+in the calculation of scoring in contest of Olympic Qualification
+Tournaments, G6 event or above as explained article 21.7.1.
+
+7 In the case that there is a clear erroneous decision from the
+refereeing officials and scoring operators on identification of the
+contestant or errors in the calculation of scoring as follows
+
+\begin{verbatim}
+- Score and Gam-jeom input by Operator
+- Misidentification of athletes by Center Referee
+\end{verbatim}
+
+any of the refereeing officials shall request for IVR and correct the
+decision at any time during the round.
+
+7.1 If errors in calculation of scoring or misidentification of the
+athlete were not corrected during the round by the refereeing officials
+and the errors subsequently affected the result of the winner of the
+contest or the round in Olympic Qualification Tournaments, G6 events or
+above, the Technical Delegate (TD) has the right to review the case with
+assistance of the Competition Supervisory Board (CSB) to make the
+necessary correction within 30 minutes after the pertinent round. If the
+errors were identified and confirmed, the TD may request for resumption
+of the round from the moment when the error was occurred. In case of
+multiple errors, competition will be resumed from the moment when the
+first error was occurred.
+
+8 In the case of a successful appeal, the Competition Supervisory Board
+may investigate the contest at the end of the competition day and take
+disciplinary action against the concerned refereeing officials, if
+necessary.
+
+9 In any time during the round, any of the judges can ask for adding or
+removing technical points regardless of coach's appeal quota.
+
+10 In the tournament where instant video replay system is not available,
+the following protest procedure will be applied.
+
+10.1 In case there is an objection to a referee judgment, an official
+delegate of the team must submit an application for re-evaluation of
+decision (protest application) together with the non-refundable protest
+fee of US\$200 to the Board of Arbitration (Competition Supervisory
+Board) within 10 minutes after pertinent contest.
+
+10.2 Deliberation of re-evaluation shall be carried out excluding those
+members with the same nationality as that of contestant concerned, and
+resolution on deliberation shall be made by majority.
+
+10.3 The members of the Board of Arbitration (Competition Supervisory
+Board) may summon the refereeing officials for confirmation of events.
+
+10.4 The resolution made by the Board of Arbitration (Competition
+Supervisory Board) will be final and no further means of appeal will be
+applied.
+
+10.5 Deliberation procedures are as follows:
+
+10.5.1 A coach or head of team from the protesting nation shall be
+permitted to make a brief verbal presentation to the Board of
+Arbitration in support of their position. The coach or head of team from
+the respondent nation shall be allowed to present a brief rebuttal.
+
+10.5.2 After reviewing the protest application, the contest of the
+protest must be arranged according to the criterion of ``Acceptable'' or
+``Unacceptable''. 10.5.3 If necessary, the Board can hear opinions from
+the referee or judges.
+
+10.5.4 If necessary, the Board can review the material evidence of the
+decision, such as the written or visual recorded data.
+
+10.5.5 After deliberation, the Board shall hold the secret ballot to
+determine a majority decision.
+
+10.5.6 The Chairperson will make a report documenting the outcome of the
+deliberation and shall make this outcome publicly known.
+
+10.5.7 Subsequent process following the decision:
+
+10.5.7.1 Errors in determining the match results, mistakes in
+calculating the match score or misidentifying a contestant shall result
+in the decision being reversed.
+
+10.5.7.2 Error in application of the rules: When it is determined by the
+Board that the referee made a clear error in applying the Competition
+Rules, the outcome of the error shall be corrected and the referee shall
+be punished.
+
+10.5.7.3 Errors in factual judgment: When the Board decides that there
+was a clear error in judging the facts such as impact of striking,
+severity of action or conduct, intention, timing of an act in relation
+to a declaration or area, the decision shall not be changed and the
+officials seen to have made the error shall be reprimanded.
+
+Article 22
+
+Deaf-Taekwondo
+
+This article outlines the modifications to the Competition Rules used
+for Deaf-Taekwondo. For matters not covered by Article 22 the WT
+Competition Rules will apply.
+
+1 Qualification of athlete Contestant must have gone through
+classification procedures as outlined in the World Para-Taekwondo and
+DeafTaekwondo Classification Code and been assigned Sport Class and
+Sport Class Status
+
+2 Weight Categories Olympic weight categories apply to competitions in
+Deaf-Taekwondo
+
+3 World Deaf-Taekwondo Championships will be organized based on the most
+recent Standing Procedure of the World Deaf-Taekwondo Championships.
+
+Article 23
+
+Sanctions
+
+1 The WT President, Secretary General, or Technical Delegate may request
+that an on-spot Extraordinary Sanctions Committee be convened for
+deliberation when inappropriate behaviors may have been committed by a
+coach, a contestant, an official, and/or any member of a Member National
+Association.
+
+2 The Extraordinary Sanctions Committee shall investigate the matter,
+and summon person(s) concerned for confirmation of events.
+
+3 The Extraordinary Sanctions Committee shall deliberate the matter and
+determine if disciplinary actions are to be imposed. The result of
+deliberation shall be immediately announced to the public. If there is a
+finding of violation, a written decision, including the relevant facts,
+rules, supporting evidence (such as witness statements), the sanction
+imposed, and rationale, shall be given to the sanctioned party as soon
+as reasonably practicable, and a copy shall be included in the Technical
+Delegate's report.
+
+3.1 Potential violations on Conduct of a Contestant;
+
+3.1.1 Refusing the referee's command to complete the ending procedures
+of the match, including not participating in the declaration of the
+winner.
+
+3.1.2 Throwing his/her belongings (head protector, gloves, etc.) as an
+expression of dissatisfaction with decision.
+
+3.1.3 Not leaving the competition area after the end of a match
+
+3.1.4 Not returning to a match after a referee's repeated command
+
+3.1.5 Not complying with the competition official's ruling or command
+
+3.1.6 Not complying with the Competition Management Officials reasonable
+instructions related to the orderly management of the event
+
+3.1.7 Manipulation of scoring equipment, sensors or/and any part of a
+PSS
+
+3.1.8 Any serious unsportsmanlike behavior during a match or aggressive
+misconduct toward competition officials.
+
+3.2 Potential violations on conduct of a coach, team official, or other
+members of a Member National Association;
+
+3.2.1 Complaining about or/and arguing against an official's decision
+during or after a round.
+
+3.2.2 Arguing with the referee or other official(s)
+
+3.2.3 Violent behavior or remark toward officials, opponents or the
+opposing side, or spectators during a match
+
+3.2.4 Provoking spectators or spreading false rumor
+
+3.2.5 Instructing athlete(s) to participate in misconduct, such as
+remaining in the competition area after a match
+
+3.2.6 Violent behaviors such as throwing or kicking personal
+belonging(s) or competition material(s).
+
+3.2.7 Not following instructions of competition officials to leave the
+Field of Play or Venue
+
+3.2.8 Any other serious misconducts toward competition officials
+
+3.2.9 Any attempt to bribe competition officials
+
+4 Disciplinary actions: Disciplinary actions issued by the Extraordinary
+Sanction Committee may vary according to the degree of the violation.
+The following sanctions may be given:
+
+4.1 Disqualification of the athlete
+
+4.2 Warning and order to issue official apology
+
+4.3 Removal of accreditation
+
+4.4 Ban from the competition venue
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi})}
+\item
+  Ban for the day
+\item
+  Ban for the duration of the Championships.
+\end{enumerate}
+
+4.5 Cancellation of result
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi})}
+\item
+  Cancellation of the match result and all related merits
+\item
+  Cancellation of WT Ranking points
+\end{enumerate}
+
+4.6 Monetary fine of between \$100-to-\$5,000 US dollars per violation.
+
+5 The Extraordinary Sanctions Committee may recommend to the WT or WT at
+its own initiative may investigate and determine, that additional
+disciplinary actions be taken against the members/MNA involved,
+including but not limited to longer-term suspension, lifetime ban,
+and/or additional monetary fines. Such recommendation can be based on
+violations of the Competition Rules and Interpretations as well as
+violations of the WT Code of Ethics or other pertinent WT rules.
+
+Article 24
+
+Other matters not specified in Competition Rules
+
+1 In the case that any matters not specified in the rules occur, they
+shall be dealt with as follows.
+
+1.1 Matters related to a contest shall be decided through consensus by
+the refereeing officials of the pertinent contest.
+
+1.2 Matters not related to a specific contest throughout the
+championships such as technical matters, competition matters, etc. shall
+be decided by the Technical Delegate.
+
+\end{document}
