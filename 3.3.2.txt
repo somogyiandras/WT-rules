@@ -1,0 +1,3 @@
+    The illuminance at the training venue shall range between 750 and
+    900 lux.
+

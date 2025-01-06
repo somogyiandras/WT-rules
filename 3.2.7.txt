@@ -1,0 +1,4 @@
+    Position of Inspection desk: The position of the Inspection Desk
+    shall be near the entrance of the Competition Area for the
+    inspection of the contestants' protective equipment.
+

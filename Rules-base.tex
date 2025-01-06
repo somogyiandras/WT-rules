@@ -34,6 +34,7 @@
 \usepackage[explicit]{titlesec}
 \usepackage[svgnames]{xcolor}
 \usepackage{enumitem}
+\usepackage{multirow}
 
 % section headers
 
@@ -58,10 +59,12 @@
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
 \renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}}
 
-\setlist{noitemsep}
+\setlist[enumerate,1]{leftmargin=0pt}
 
 % environment for the explanations
-\newenvironment{expl}[0]{\footnotesize}{\normalsize}
+\newenvironment{expl}[0]%
+  {\rule{\textwidth}{.2pt}\footnotesize}%
+  {\rule{\textwidth}{.2pt}\normalsize}
 
 
 
@@ -86,9 +89,8 @@
 \input{1.1.txt}
 \end{enumerate}
 
-\section{(Interpretation)}\label{interpretation}
-
 \begin{expl}
+\section{(Interpretation)}\label{interpretation}
 \input{1.i_1.txt}
 \end{expl}
 
@@ -103,8 +105,8 @@
 \input{2.3.txt}
 \end{enumerate}
 
-\section{(Explanation\#1)}\label{explanation1}
 \begin{expl}
+\section{(Explanation\#1)}\label{explanation1}
 \input{2.e_1.txt}
 \end{expl}
 
@@ -114,7 +116,6 @@
 \begin{enumerate}
 \item
 \input{3.1.txt}
-
   \begin{enumerate}
   \item
   \input{3.1.1.txt}
@@ -122,96 +123,55 @@
   \input{3.1.2.txt}
   \end{enumerate}
 \item
-  Indication of positions
-
+\input{3.2.txt}
   \begin{enumerate}
   \item
-    The outer line of the Contest Area shall be called the Boundary
-    Line(s) and the outer line of the Competition Area shall be called
-    the Outer Line(s).
+  \input{3.2.1.txt}
   \item
-    The front outer line adjacent to the Recorder's Desk shall be called
-    Outer Line \#1, and Clockwise from Outer Line \#1, the other lines
-    shall be called Outer Lines \#2, \#3, and \#4. The Boundary Line
-    adjacent to the Outer Line \#1 shall be called Boundary Line \#1 and
-    clockwise from Boundary Line \#1, the other lines shall be called
-    Boundary Lines \#2, \#3, and \#4. In case of Octagonal Shape Contest
-    Area, The Boundary Line adjacent to the Outer Line \#1 shall be
-    called Boundary Line \#1 and clockwise from Boundary Line \#1, the
-    other lines shall be called Boundary Lines \#2, \#3, \#4, \#5, \#6,
-    \#7, and \#8.
+  \input{3.2.2.txt}
   \item
-    Positions of Referee and Contestants at the beginning and end of the
-    Match: The position of the Contestants shall be at the two opposing
-    points, 1m from the center point of the Contest Area parallel to
-    Outer Line \#1. The Referee shall be positioned at a point 1.5m from
-    the center of the Contest Area toward the Outer Line \#3.
+  \input{3.2.3.txt}
   \item
-    Positions of Judges: The position of the 1st Judge shall be located
-    at a point in minimum 2 m from the corner of the Boundary Line \#2.
-    The position of the 2nd Judge shall be located at a point in minimum
-    2 m outward from the center of the Boundary Line \#5. The position
-    of the 3rd Judge shall be located at a point in minimum 2 m from the
-    corner of the Boundary Line \#8. In case of two Judges setting the
-    position of the 1st Judge shall be located at a point in minimum 3 m
-    from the outer line \#1 on the left of the mat and the 2nd Judge
-    shall be located at a point in minimum 3m from of the outer line \#3
-    on the right. The positions of Judges may be altered to facilitate
-    media, broadcasting and/or sports presentation.
+  \input{3.2.4.txt}
   \item
-    Position of Recorder \& IVR: Position of Recorder \& IVR shall be
-    located at a point 2 m from the Outer Line \#1. Position of Recorder
-    may be altered to accommodate the environment of the venue and
-    requirements from media broadcasting and/or sports presentation.
+  \input{3.2.5.txt}
   \item
-    Positions of Coaches: The position of the Coaches shall be marked at
-    a point in minimum 2 m or more from the center point of the Outer
-    Line of each contestant's side. Position of the coaches may be
-    altered to accommodate the environment of the venue and requirements
-    from media broadcasting and/or sports presentation.
+  \input{3.2.6.txt}
   \item
-    Position of Inspection desk: The position of the Inspection Desk
-    shall be near the entrance of the Competition Area for the
-    inspection of the contestants' protective equipment.
+  \input{3.2.7.txt}
   \end{enumerate}
 \item
-  Technical and Environmental Requirements for Competitiion Venues
-
+\input{3.3.txt}
   \begin{itemize}
   \tightlist
   \item
-    The minimum illuminance at the competition venue requred for
-    broadcasted events shall be \textgreater=1,600 lux.
+  \input{3.3.1.txt}
   \item
-    The illuminance at the training venue shall range between 750 and
-    900 lux.
+  \input{3.3.2.txt}
   \item
-    The temperature of the competition venue shall be maintained between
-    17°C and 24°C.
+  \input{3.3.3.txt}
   \item
-    For G14 or higher-graded events, the minimum seating capacity of the
-    competition venue shall be 4,000 seats.
+  \input{3.3.4.txt}
   \end{itemize}
 \end{enumerate}
 
+\begin{expl}
 \section{(Explanation \#1)}\label{explanation-1}
 
-Elastic mat: The degree of elasticity and slipperiness of the mat must
-be approved by the WT before the competition.
+\input{3.e_1.txt}
 
 \section{(Explanation \#2)}\label{explanation-2}
 
-Color: The color scheme of the mat's surface must avoid giving a harsh
-reflection, or tiring the contestant's or spectator's eyesight. The
-color scheme must also be appropriately matched to the contestant's
-equipment, uniform and the surface of the Contest Area.
+\input{3.e_2.txt}
 
 \section{(Explanation \#3)}\label{explanation-3}
 
-Inspection Desk: At the Inspection desk, the inspector checks if all the
-materials worn by the contestant are approved by the WT and fit the
-contestant properly. In case they are found to be inappropriate, the
-contestant is requested to change the protective equipment.
+\input{3.e_3.txt}
+
+\end{expl}
+
+
+
 
 \chapter{Contestant}\label{contestant}
 
@@ -537,7 +497,55 @@ to GMS upon registration.
 
 \chapter{Weight category}\label{weight-category}
 
-ToDo: A táblázatok teljes elkészítése szükséges
+\begin{enumerate}
+
+\item
+\input{5.1.txt}
+
+\begin{center}
+\begin{tabular}{ |l|l|l|l| } 
+ \hline
+ \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
+ \hline
+ Under 54 kg & Not exceeding 54 kg & under 46 kg & Not exceeding 46 kg \\
+ \hline
+ Under 58 kg & Over 54 kg \& Not exceeding 58 kg & Under 49 kg & Over 46 kg \& Not exceeding 49 kg \\
+ \hline
+ Under 63 kg & Over 58 kg \& Not exceeding 63 kg & Under 53 kg & Over 49 kg \& Not exceeding 53 kg \\
+ \hline
+ Under 68 kg & Over 63 kg \& Not exceeding 68 kg & Under 57 kg & Over 53 kg \& Not exceeding 57 kg \\
+ \hline
+ Under 74 kg & Over 68 kg \& Not exceeding 74 kg & Under 62 kg & Over 57 kg \& Not exceeding 62 kg \\
+ \hline
+ Under 80 kg & Over 74 kg \& Not exceeding 80 kg & Under 67 kg & Over 62 kg \& Not exceeding 67 kg \\
+ \hline
+ Under 87 kg & Over 80 kg \& Not exceeding 87 kg & Under 73 kg & Over 67 kg \& Not exceeding 73 kg \\
+ \hline
+ Over 87 kg & Over 54 kg \& Not exceeding 58 kg & Over 73 kg & Over 73 kg \\
+ \hline
+\end{tabular}
+\end{center}
+
+\item
+\input{5.2.txt}
+
+
+\item
+\input{5.3.txt}
+
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
 
 \chapter{Classification and methods of
 competition}\label{classification-and-methods-of-competition}
