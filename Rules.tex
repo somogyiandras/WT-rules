@@ -1,17 +1,25 @@
-
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-\documentclass[draft]{report}
+\documentclass[
+]{report}
 \usepackage{xcolor}
 \usepackage{amsmath,amssymb}
 \setcounter{secnumdepth}{5}
 \usepackage{iftex}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage{textcomp} % provide euro and other symbols
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
 \usepackage[]{fontawesome}
-
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \IfFileExists{microtype.sty}{% use microtype if available
@@ -34,25 +42,15 @@
 \usepackage[explicit]{titlesec}
 \usepackage[svgnames]{xcolor}
 \usepackage{enumitem}
-\usepackage{multirow}
-\usepackage{array}
-\usepackage{calc}
-\usepackage{layouts}
 
 % section headers
-\titlespacing{\chapter}{0pt}{0pt}{0pt}
 
 \titleformat{\chapter}
   [hang]
   {\normalfont\sffamily\LARGE\color{white}}
   {}
   {0.5ex}
-  {\colorbox{Navy}{\makebox[4em][l]{Article \thechapter} \makebox[\textwidth - 5em][l]{#1} }}  
-  %{\colorbox{RoyalBlue}{%
-  %  \begin{tabular}{ p{11em} p{\textwidth - 10em} }
-  %    Article \thechapter & #1 \\
-  %  \end{tabular}
-  %}}
+  {\colorbox{RoyalBlue}{\parbox{\textwidth}{Article \thechapter \hspace{1cm} #1}}}  
 
 % \newcommand{\chapterbreak}{\addpenalty{-500}\vspace*{0pt}}
 
@@ -68,16 +66,10 @@
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
 \renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}}
 
-\setlist[enumerate,1]{leftmargin=0pt, rightmargin=0pt, topsep=0pt}
-% \setlength{\listparindent=0pt},
+\setlist{noitemstep}
 
-% environment for the explanations
-\newenvironment{expl}[0]%
-  {\rule{\textwidth}{.2pt}\footnotesize}%
-  {\rule{\textwidth}{.2pt}\normalsize}
-
-
-
+% special environment
+\newenvironment{spec}[0]{\footnotesize}{\normalsize}
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
@@ -88,7 +80,6 @@
 \author{}
 \date{}
 
-
 \begin{document}
 
 \chapter{Purpose}\label{purpose}
@@ -96,506 +87,658 @@
 \begin{enumerate}
 \tightlist
 \item
-\input{1.1.txt}
+  The purpose of the Competition Rules is to provide standardized rules
+  for all levels of Championships promoted and/or recognized by the
+  World Taekwondo Federation (hereafter WT), WT Continental Unions
+  (hereafter CUs), or/and WT Member National Associations (hereafter
+  MNAs); the Competition Rules is intended to ensure that all matters
+  related to competitions are conducted in a fair and orderly manner.
 \end{enumerate}
 
-\begin{expl}
 \section{(Interpretation)}\label{interpretation}
-\input{1.i_1.txt}
-\end{expl}
+
+\begin{spec}
+
+The objective of Article 1 is to ensure the standardization of all
+Taekwondo competition worldwide. Any competition not following the
+fundamental principles of these rules cannot be recognized as Taekwondo
+competition.
+
+\end{spec}
 
 \chapter{Application}\label{application}
 
 \begin{enumerate}
 \item
-\input{2.1.txt}
+  The Competition Rules shall apply to all the competitions to be
+  promoted and/or recognized by the WT, each CU and MNA. However, any
+  MNA wishing to modify some or any part of the Competition Rules must
+  first gain the prior approval of the WT. In the case that a CU and/or
+  a MNA violates the Competition Rules without prior approval of the WT,
+  the WT may exercise its discretion to disapprove or revoke its
+  approval of the concerned international tournament. In addition, the
+  WT may take further disciplinary actions to the pertinent CU or MNA.
 \item
-\input{2.2.txt}
+  All competitions promoted or recognized by the WT and /or each CU
+  and/or MNA shall observe the WT Statutes, the Bylaws of Dispute
+  Resolution and Disciplinary Action, and all other pertinent rules and
+  regulations.
 \item
-\input{2.3.txt}
+  All competitions promoted or recognized by the WT and /or each CU
+  and/or MNA shall abide by the WT Medical Code and the WT Anti-Doping
+  Rules.
 \end{enumerate}
 
-\begin{expl}
 \section{(Explanation\#1)}\label{explanation1}
-\input{2.e_1.txt}
-\end{expl}
 
+First gain the approval: Any organization desiring to make a change in
+any portion of the existing rules must submit to the WT the contents of
+the desired amendment along with the reasons for the desired changes.
+Approval for any changes in these rules must be received from the WT at
+least one month prior to the scheduled competition. WT can apply
+Competition Rules with modifications in its promoted Championships with
+the decision of the Technical Delegate after approval of the President.
 
 \chapter{Competition Area}\label{competition-area}
 
 \begin{enumerate}
 \item
-\input{3.1.txt}
+  The Contest Area shall have a flat surface without any obstructing
+  projections, and be covered with an elastic and not slippery mat. The
+  Contest Area may also be installed on a platform 0.6-1m high from the
+  base, if necessary. The outer part of the Outer Line shall be inclined
+  at a gradient of less than 30 degrees, for the safety of the
+  contestants. One of the following shapes can be used for Contest Area.
+
   \begin{enumerate}
   \item
-  \input{3.1.1.txt}
+    Square-shape
+
+    The Competition Area is comprised of a Contest Area and a Safety
+    Area. The square-shape Contest Area shall be 8m x 8m including 60cm
+    boundary line. Surrounding the contest area, approximately
+    equidistant on all sides, shall be the Safety Area. The size of
+    Competition Area (which envelopes the Contest Area and the Safety
+    Area) shall be no smaller than 10m x 10m and no larger than 12m x
+    12m. If the Competition Area is on a platform, the Safety Area can
+    be increased as needed to ensure the safety of contestants. The
+    Contest Area and the Safety Area may be different colors, as
+    specified in the relevant competition's Operational Manual.
   \item
-  \input{3.1.2.txt}
+    Octagonal-shape
+
+    The Competition Area is comprised of a Contest Area and a Safety
+    Area. The Competition Area shall be square shaped and the size shall
+    be no smaller than 10mx10m and no larger than 12mx12m. At the center
+    of the Competition Areas shall be the octagonal-shape Contest Area.
+    The Contest Areas shall measure approximately 8m in diameter, and
+    each side of the octagon shall have a length of approximately 3.3m.
+    Between the outer line of the Competition area and the boundary line
+    of the Contest area is the Safety Area. The Contest Area and the
+    Safety Area may be different colors, as specified in the relevant
+    competition's Operational Manual.
   \end{enumerate}
 \item
-\input{3.2.txt}
+  Indication of positions
+
   \begin{enumerate}
   \item
-  \input{3.2.1.txt}
+    The outer line of the Contest Area shall be called the Boundary
+    Line(s) and the outer line of the Competition Area shall be called
+    the Outer Line(s).
   \item
-  \input{3.2.2.txt}
+    The front outer line adjacent to the Recorder's Desk shall be called
+    Outer Line \#1, and Clockwise from Outer Line \#1, the other lines
+    shall be called Outer Lines \#2, \#3, and \#4. The Boundary Line
+    adjacent to the Outer Line \#1 shall be called Boundary Line \#1 and
+    clockwise from Boundary Line \#1, the other lines shall be called
+    Boundary Lines \#2, \#3, and \#4. In case of Octagonal Shape Contest
+    Area, The Boundary Line adjacent to the Outer Line \#1 shall be
+    called Boundary Line \#1 and clockwise from Boundary Line \#1, the
+    other lines shall be called Boundary Lines \#2, \#3, \#4, \#5, \#6,
+    \#7, and \#8.
   \item
-  \input{3.2.3.txt}
+    Positions of Referee and Contestants at the beginning and end of the
+    Match: The position of the Contestants shall be at the two opposing
+    points, 1m from the center point of the Contest Area parallel to
+    Outer Line \#1. The Referee shall be positioned at a point 1.5m from
+    the center of the Contest Area toward the Outer Line \#3.
   \item
-  \input{3.2.4.txt}
+    Positions of Judges: The position of the 1st Judge shall be located
+    at a point in minimum 2 m from the corner of the Boundary Line \#2.
+    The position of the 2nd Judge shall be located at a point in minimum
+    2 m outward from the center of the Boundary Line \#5. The position
+    of the 3rd Judge shall be located at a point in minimum 2 m from the
+    corner of the Boundary Line \#8. In case of two Judges setting the
+    position of the 1st Judge shall be located at a point in minimum 3 m
+    from the outer line \#1 on the left of the mat and the 2nd Judge
+    shall be located at a point in minimum 3m from of the outer line \#3
+    on the right. The positions of Judges may be altered to facilitate
+    media, broadcasting and/or sports presentation.
   \item
-  \input{3.2.5.txt}
+    Position of Recorder \& IVR: Position of Recorder \& IVR shall be
+    located at a point 2 m from the Outer Line \#1. Position of Recorder
+    may be altered to accommodate the environment of the venue and
+    requirements from media broadcasting and/or sports presentation.
   \item
-  \input{3.2.6.txt}
+    Positions of Coaches: The position of the Coaches shall be marked at
+    a point in minimum 2 m or more from the center point of the Outer
+    Line of each contestant's side. Position of the coaches may be
+    altered to accommodate the environment of the venue and requirements
+    from media broadcasting and/or sports presentation.
   \item
-  \input{3.2.7.txt}
+    Position of Inspection desk: The position of the Inspection Desk
+    shall be near the entrance of the Competition Area for the
+    inspection of the contestants' protective equipment.
   \end{enumerate}
 \item
-\input{3.3.txt}
+  Technical and Environmental Requirements for Competitiion Venues
+
   \begin{itemize}
   \tightlist
   \item
-  \input{3.3.1.txt}
+    The minimum illuminance at the competition venue requred for
+    broadcasted events shall be \textgreater=1,600 lux.
   \item
-  \input{3.3.2.txt}
+    The illuminance at the training venue shall range between 750 and
+    900 lux.
   \item
-  \input{3.3.3.txt}
+    The temperature of the competition venue shall be maintained between
+    17°C and 24°C.
   \item
-  \input{3.3.4.txt}
+    For G14 or higher-graded events, the minimum seating capacity of the
+    competition venue shall be 4,000 seats.
   \end{itemize}
 \end{enumerate}
 
-\begin{expl}
 \section{(Explanation \#1)}\label{explanation-1}
 
-\input{3.e_1.txt}
+Elastic mat: The degree of elasticity and slipperiness of the mat must
+be approved by the WT before the competition.
 
 \section{(Explanation \#2)}\label{explanation-2}
 
-\input{3.e_2.txt}
+Color: The color scheme of the mat's surface must avoid giving a harsh
+reflection, or tiring the contestant's or spectator's eyesight. The
+color scheme must also be appropriately matched to the contestant's
+equipment, uniform and the surface of the Contest Area.
 
 \section{(Explanation \#3)}\label{explanation-3}
 
-\input{3.e_3.txt}
-
-\end{expl}
-
-Ide kell a rajz!
-
-
-
+Inspection Desk: At the Inspection desk, the inspector checks if all the
+materials worn by the contestant are approved by the WT and fit the
+contestant properly. In case they are found to be inappropriate, the
+contestant is requested to change the protective equipment.
 
 \chapter{Contestant}\label{contestant}
 
 \begin{enumerate}
 \item
-\input{4.1.txt}
+  Qualification of Contestant
 
   \begin{enumerate}
   \item
-  \input{4.1.1.txt}
+    Holder of the nationality of the participating team
   \item
-  \input{4.1.2.txt}
+    One recommended by the WT MNA
   \item
-  \input{4.1.3.txt}
+    Holder of Taekwondo Dan/Poom certificate issued by the Kukkiwon
   \item
-  \input{4.1.4.txt}
+    Holder of the WT Global Athlete License (GAL)
   \item
-  \input{4.1.5.txt}
+    Contestants at the age of at least 17 years old for Senior in the
+    year the pertinent tournament is held (15-17 years old for Junior
+    Championships and 12-14 years old for Cadet Championships). Ages for
+    Youth Olympic Games might be different depending on the decision of
+    the IOC.
   \end{enumerate}
 \end{enumerate}
 
-\begin{expl}
 \section{(Interpretation)}\label{interpretation-1}
 
-\input{4.i_1.txt}
+The age limit is based on the year, not on the date. For instance, if
+the Junior Championships are held on June 11, 2013, those contestants
+born on between January 1, 1996 and December 31, 1998 are eligible to
+participate.
 
 \section{(Interpretation)}\label{interpretation-2}
 
-\input{4.i_2.txt}
+Article 4.1 Qualification of Contestant: applied at WT promoted
+championships, CU promoted championships, multi-sports games, and
+approved event(s) of WT recognized international open taekwondo
+tournament.
 
 \section{(Interpretation)}\label{interpretation-3}
 
-\input{4.i_3.txt}
-\end{expl}
+Article 4.1.1 \& 4.1.2 shall not be applied to WT recognized
+international open taekwondo tournament.
 
-\begin{enumerate}[resume*]
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
 \item
-\input{4.2.txt}
+  Contestant uniform and competition equipment
 
   \begin{enumerate}
   \item
-  \input{4.2.1.txt}
+    At the competitions enlisted in the WT Event Calendar, dobok or
+    competition uniform and all competition equipment such as but not
+    limited to mats, PSS, IVR and protective equipment must be those
+    ones approved by the WT.
+
+    \begin{enumerate}
+    \tightlist
+    \item
+      Specifications of dobok or competition uniform, protective
+      equipment, and all other equipment shall be set forth separately.
+    \end{enumerate}
+  \item
+    A contestant shall wear a WT-approved dobok or competition uniform,
+    trunk PSS, head PSS, groin guard, forearm guards, shin guards,
+    gloves, sensing socks (in the case of using PSS) and be equipped
+    with a mouthguard before entering the Field of Play. Head pss must
+    be firmly tucked under left arms when entering into competition
+    area. Head pss shall be put on the head following instructions of
+    the referee before the start of the contest.
+  \item
+    In case of wearing dobok, the forearm and shin guards shall be worn
+    beneath garment. In case of wearing competition uniform, the forearm
+    and shin guards shall be worn in the garment or beneath garment. The
+    groin guards shall be worn beneath garment for both cases.
+  \item
+    The contestant shall bring the WT-approved protective equipment, as
+    well as gloves and the mouthguard, for his/her personal use. Wearing
+    any item on the head other than the head pss shall not be permitted.
+    The head protector for cadet athletes may be equipped with face
+    shield. Any religious item shall be worn beneath the head pss and
+    inside the dobok or competition uniform and shall not cause harm or
+    obstruct the opposing contestant.
+  \item
+    Responsibilities of the organizing committee for competition
+    equipment
 
     \begin{enumerate}
     \item
-    \input{4.2.1.1.txt}
+      The Organizing Committee of WT-promoted championships shall be
+      responsible for preparing the following WT-recognized equipment
+      for the use at the championships at its own expenses for all
+      related materials, equipment and the related technicians for
+      installation and operation.
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Trunk PSS and Head PSS-related items and equipment - the choice
+        of the PSS company shall be decided by the WT (For World
+        Taekwondo Cadet Championships, conventional head protector with
+        face shield shall be used)
+      \item
+        Mats
+      \item
+        Other protective equipment as reserve (Sensing socks, gloves,
+        shin guards, forearm guards, groin guards and dobok or
+        competition uniforms)
+      \item
+        Instant Video Replay (IVR) system and its related equipment,
+        including but not limited to cameras (minimum 3 cameras per
+        court and minimum 4 cameras, including one overhead camera for
+        the semifinals and final); When broadcasting is available, the
+        broadcast feed must be made available at the Video Replay desk
+        for review purpose.
+      \item
+        Jumbo screen (for display of competition progress match tree,
+        athlete profile. etc) inside the Field of Play (FOP)
+      \item
+        Spectator scoreboards (for display of instant video replay
+        screen; minimum 12)
+      \item
+        Scoreboards at the court (for display of scoring; minimum 4 per
+        court)
+      \item
+        Real Time Display System (RTDS) at athlete calling area and warm
+        up area
+      \item
+        Real Time Referee Calling System (RTRCS) at referee lounge or
+        waiting area.
+      \item
+        TV screen for showing competitions in live at referee lounge
+      \item
+        Metal detector at the inspection desk (minimum 2)
+      \item
+        Other competition equipment not prescribed in this article, if
+        any, shall be described in competition's Operational Manual of
+        the WT.
+      \end{itemize}
+    \item
+      The Organizing Committee of WT-promoted championships shall be
+      responsible for preparing the following equipment and materials,
+      etc. at the training venue at its own expenses.
+
+      \begin{itemize}
+      \tightlist
+      \item
+        Trunk PSS and Head PSS-related items and equipment
+      \item
+        Mats
+      \item
+        Stationary Bicycle
+      \item
+        Running Machine
+      \item
+        Emergency equipment (refer to medical code for detailed
+        information)
+      \item
+        Ice in the baskets
+      \item
+        Refrigerators
+      \item
+        Bottled water
+      \end{itemize}
+    \item
+      It is the responsibility of the Organizing Committee to obtain
+      approval of the WT on the number of the equipment to be prepared.
     \end{enumerate}
-
-  \item
-  \input{4.2.2.txt}
-  \item
-  \input{4.2.3.txt}
-  \item
-  \input{4.2.4.txt}
-  \item
-  \input{4.2.5.txt}
-
-    \begin{enumerate}
-    \item
-    \input{4.2.5.1.txt}
-
-    \item
-    \input{4.2.5.2.txt}
-    \item
-    \input{4.2.5.3.txt}
-    \end{enumerate}
-
   \end{enumerate}
-
 \item
-\input{4.3.txt}
+  Anti-Doping Test
 
   \begin{enumerate}
   \item
-  \input{4.3.1.txt}
+    At the taekwondo events promoted or recognized by the WT, any use or
+    administration of drugs or chemical substances described in the WADA
+    Prohibited List is prohibited. The WADA Anti-doping Code shall be
+    applied to the taekwondo competitions of the Olympic Games and other
+    multi-sports Games. The WT Anti-Doping Rules shall be applied to WT
+    promoted and/or recognized championships.
   \item
-  \input{4.3.2.txt}
+    The WT may carry out any doping tests deemed necessary to ascertain
+    if a contestant has committed a breach of this rule, and any
+    contestant who refuses to undergo this testing or who proves to have
+    committed such a breach shall be removed from the final standings,
+    and the record shall be transferred to the contestant next in line
+    in the competition standings.
   \item
-  \input{4.3.3.txt}
+    The Organizing Committee shall be responsible for making all
+    necessary preparations for conducting doping tests.
   \item
-  \input{4.3.4.txt}
+    The details of the WT Anti-Doping Rules shall be enacted as part of
+    the bylaws.
   \end{enumerate}
-
 \end{enumerate}
 
-\begin{expl}
 \section{(Explanation \#1)}\label{explanation-1-1}
-\input{4.i_1.txt}
+
+Holder of the nationality of the participating team: When a contestant
+is a representative of a national team, his/her nationality is decided
+by citizenship of the country he/she is representing before submission
+of the application to participate. Verification of citizenship is done
+by inspection of the passport.\\
+A competitor who is a national of two or more countries at the same time
+may represent either one of them, as he/she may elect. However, in case
+of changing nationality, he/she is allowed to represent other country
+only if thirty-six (36) months have passed since competitor represented
+a country in such events:
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi})}
+\tightlist
+\item
+  Olympic Games
+\item
+  Qualification Tournaments for Olympic Games
+\item
+  4 year cycle continental multi sports games
+\item
+  2 year cycle continental championships
+\item
+  World Championships promoted by the WT
+\end{enumerate}
+
+This period may be reduced or even cancelled, with the agreement of the
+NOCs and the WT. The WT may take disciplinary actions at any time
+against the athlete and his/hers MNA that violates this article
+including but not limited to deprival of the achievements.
 
 \section{(Explanation \#2)}\label{explanation-2-1}
-\input{4.i_2.txt}
+
+One recommended by the WT MNA: Each MNA is responsible for control of
+non-pregnancy and gender and shall ensure that all team members have
+been given medical exams that show them to be of adequate health and
+fitness to participate. Also each MNA assumes full responsibilities for
+accident and health insurance as well as the civil liabilities for their
+contestants and officials during the WTpromoted championships.
 
 \section{(Explanation \#3)}\label{explanation-3-1}
-\input{4.e_3.txt}
+
+Mouthguard:\\
+The color of the mouthguard is limited to white or transparent. It must
+be at least 3mm thickness and cover entire upper teeth. Athletes with
+dental braces needs to wear special mouthguard for braces, that covers
+both upper and lower teeth, recommended by their dentist and submit the
+letter from their dentist stating that the athlete is safe to compete
+with the mouthguard that the dentist recommended.(Refer to WT
+Mouthguard, Taping, Brace, Piercing rules for detailed information.)
 
 \section{(Explanation \#4)}\label{explanation-4}
-\input{4.e_4.txt}
+
+Head PSS: The color of head pss other than blue or red shall not be
+permitted to compete.
 
 \section{(Explanation \#5)}\label{explanation-5}
-\input{4.e_5.txt}
+
+Instant Video Replay System: It is the responsibility of the Organizing
+Committee to ensure broadcasting feed is provided for Instant Video
+Replay for the matches requested by the WT.
 
 \section{(Explanation \#6)}\label{explanation-6}
-\input{4.e_6.txt}
+
+Taping: Taping of feet and hands will be strictly checked during the
+athlete inspection process. The inspector may request the WT Commission
+Doctor's approval for excessive taping. Contestants need to take off
+taping on general weigh-in to see whether there is any open wound, cut
+or bleeding. (Refer to WT Mouthguard, Taping, Brace, Piercing rules for
+detailed information.)
 
 \section{(Explanation \#7)}\label{explanation-7}
-\input{4.e_7.txt}
+
+Any athlete who fails to wear appropriate safety protection gear and
+equipment or remove potentially harmful material from their body at the
+inspection as below (1) \textasciitilde{} (3) shall not be allow to
+participate in the competition. (Refer to WT Mouthguard, Taping, Brace,
+piercing rules and WT Medical Code Appendix III for detailed
+information.)
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\tightlist
+\item
+  Any athlete whose protection gear (such as head, body, groin, hand,
+  foot protector and mouthguard) has either inadequate body part
+  coverage by the gear, inappropriate size, or significant defect of
+  shape (or material).
+\item
+  Any athlete who does not have proper mouthguard per WT mouthguard
+  rules at the inspection and does not have proper mouthguard at any
+  time during the match, or fail to wear proper mouthguard despite of
+  receiving a warning by an inspection referee, center referee or WT
+  commissioned doctor.
+\item
+  Any athlete who has piercing, earing or any hard material in the face
+  or any body part at the inspection or during the match despite of
+  receiving a warning by an inspection referee, center referee or WT
+  commissioned doctor.
+\end{enumerate}
 
 \section{(Explanation \#8)}\label{explanation-8}
-\input{4.e_8.txt}
+
+Any athlete who participate in competition must have valid annual
+periodic health evaluation (or medical certificate). Without valid
+annual Medical Certificate shall not be allowed to participate in the
+competition Medical Certificate. (Refer to WT medical code 8.3. Periodic
+Health Evaluation and Appendix III A. Medical Certificate for detailed
+information)
 
 \section{(Explanation \#9)}\label{explanation-9}
-\input{4.e_9.txt}
+
+Any athlete shall be disqualified for participation in competition if
+the athlete does not follow the safety protection equipment rule, has
+any health conditions that may jeopardized the safety by jurisdiction or
+have disqualifying conditions in the medical certificate. (refer to WT
+medical code Appendix III B. Disqualification for detailed information)
 
 \section{(Explanation \#10)}\label{explanation-10}
-\input{4.e_10.txt}
 
-\end{expl}
-
+Any athlete must have valid travel health insurance for the competition
+to participate and submit the copy of the health insurance certificate
+to GMS upon registration.
 
 \chapter{Weight category}\label{weight-category}
 
-\begin{enumerate}
+ToDo: A táblázatok teljes elkészítése szükséges
 
-\item
-\input{5.1.txt}
-
-\begin{center}
-\begin{tabular}{ |l|l|l|l| } 
- \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
- \hline
- Under 54 kg & Not exceeding 54 kg & under 46 kg & Not exceeding 46 kg \\
- \hline
- Under 58 kg & Over 54 kg \& Not exceeding 58 kg & Under 49 kg & Over 46 kg \& Not exceeding 49 kg \\
- \hline
- Under 63 kg & Over 58 kg \& Not exceeding 63 kg & Under 53 kg & Over 49 kg \& Not exceeding 53 kg \\
- \hline
- Under 68 kg & Over 63 kg \& Not exceeding 68 kg & Under 57 kg & Over 53 kg \& Not exceeding 57 kg \\
- \hline
- Under 74 kg & Over 68 kg \& Not exceeding 74 kg & Under 62 kg & Over 57 kg \& Not exceeding 62 kg \\
- \hline
- Under 80 kg & Over 74 kg \& Not exceeding 80 kg & Under 67 kg & Over 62 kg \& Not exceeding 67 kg \\
- \hline
- Under 87 kg & Over 80 kg \& Not exceeding 87 kg & Under 73 kg & Over 67 kg \& Not exceeding 73 kg \\
- \hline
- Over 87 kg & Over 54 kg \& Not exceeding 58 kg & Over 73 kg & Over 73 kg \\
- \hline
-\end{tabular}
-\end{center}
-
-\item
-\input{5.2.txt}
-
-\begin{center}
-\begin{tabular}{ |l|l|l|l| } 
- \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
- \hline
- Under 58 kg & Not exceeding 58 kg & under 49 kg & Not exceeding 49 kg \\
- \hline
- Under 68 kg & Over 58 kg \& Not exceeding 68 kg & Under 57 kg & Over 49 kg \& Not exceeding 57 kg \\
- \hline
- Under 80 kg & Over 68 kg \& Not exceeding 80 kg & Under 67 kg & Over 57 kg \& Not exceeding 67 kg \\
- \hline
- Over 80 kg & Over 50 kg & Over 67 kg & Over 67 kg \\
- \hline
-\end{tabular}
-\end{center}
-
-\begin{samepage}
-\item
-\input{5.3.txt}
-
-\begin{center}
-\begin{tabular}{ |l|l|l|l| } 
- \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
- \hline
- Under 45 kg & Not exceeding 45 kg & under 42 kg & Not exceeding 42 kg \\
- \hline
- Under 48 kg & Over 45 kg \& Not exceeding 44 kg & Under 49 kg & Over 42 kg \& Not exceeding 44 kg \\
- \hline
- Under 51 kg & Over 48 kg \& Not exceeding 46 kg & Under 53 kg & Over 44 kg \& Not exceeding 46 kg \\
- \hline
- Under 55 kg & Over 51 kg \& Not exceeding 49 kg & Under 49 kg & Over 46 kg \& Not exceeding 49 kg \\
- \hline
- Under 59 kg & Over 55 kg \& Not exceeding 52 kg & Under 53 kg & Over 49 kg \& Not exceeding 52 kg \\
- \hline
- Under 63 kg & Over 59 kg \& Not exceeding 55 kg & Under 57 kg & Over 52 kg \& Not exceeding 55 kg \\
- \hline
- Under 68 kg & Over 63 kg \& Not exceeding 59 kg & Under 62 kg & Over 55 kg \& Not exceeding 59 kg \\
- \hline
- Under 73 kg & Over 68 kg \& Not exceeding 63 kg & Under 67 kg & Over 69 kg \& Not exceeding 63 kg \\
- \hline
- Under 78 kg & Over 73 kg \& Not exceeding 68 kg & Under 73 kg & Over 63 kg \& Not exceeding 68 kg \\
- \hline
- Over 78 kg & Over 78 kg \& Not exceeding 58 kg & Over 68 kg & Over 68 kg \\
- \hline
-\end{tabular}
-\end{center}
-\end{samepage}
-
-\item
-\input{5.4.txt}
-
-\begin{center}
-\begin{tabular}{ |l|l|l|l| } 
- \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
- \hline
- Under 48 kg & Not exceeding 48 kg & under 44 kg & Not exceeding 44 kg \\
- \hline
- Under 55 kg & Over 48 kg \& Not exceeding 55 kg & Under 49 kg & Over 44 kg \& Not exceeding 49 kg \\
- \hline
- Under 63 kg & Over 55 kg \& Not exceeding 63 kg & Under 55 kg & Over 49 kg \& Not exceeding 55 kg \\
- \hline
- Under 73 kg & Over 65 kg \& Not exceeding 73 kg & Under 63 kg & Over 55 kg \& Not exceeding 63 kg \\
- \hline
- Over 73 kg & Over 73 kg & Over 63 kg & Over 63 kg \\
- \hline
-\end{tabular}
-\end{center}
-
-\item
-\input{5.5.txt}
-
-\begin{center}
-\begin{tabular}{ |l|l|l|l| } 
- \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
- \hline
- Under 33 kg & Not exceeding 33 kg & under 29 kg & Not exceeding 29 kg \\
- \hline
- Under 37 kg & Over 33 kg \& Not exceeding 37 kg & Under 33 kg & Over 29 kg \& Not exceeding 33 kg \\
- \hline                                                                                        
- Under 41 kg & Over 37 kg \& Not exceeding 41 kg & Under 37 kg & Over 33 kg \& Not exceeding 37 kg \\
- \hline                                                                                        
- Under 45 kg & Over 41 kg \& Not exceeding 45 kg & Under 41 kg & Over 37 kg \& Not exceeding 41 kg \\
- \hline                                                                                        
- Under 49 kg & Over 45 kg \& Not exceeding 49 kg & Under 44 kg & Over 41 kg \& Not exceeding 44 kg \\
- \hline                                                                                        
- Under 53 kg & Over 49 kg \& Not exceeding 53 kg & Under 47 kg & Over 44 kg \& Not exceeding 47 kg \\
- \hline                                                                                        
- Under 57 kg & Over 53 kg \& Not exceeding 57 kg & Under 51 kg & Over 47 kg \& Not exceeding 51 kg \\
- \hline                                                                                        
- Under 61 kg & Over 57 kg \& Not exceeding 61 kg & Under 55 kg & Over 51 kg \& Not exceeding 55 kg \\
- \hline                                                                                        
- Under 65 kg & Over 61 kg \& Not exceeding 65 kg & Under 59 kg & Over 55 kg \& Not exceeding 59 kg \\
- \hline
- Over 65 kg & Over 65 kg \& Not exceeding 58 kg & Over 59 kg & Over 59 kg \\
- \hline
-\end{tabular}
-\end{center}
-
-  \begin{enumerate}
-  \begin{samepage}
-  \item
-  \input{5.5.1.txt}
-
-    \begin{center}
-    \begin{tabular}{ |l|l|l|l| } 
-     \hline
-     \multicolumn{4}{|l|}{Men's division} \\
-     \hline
-     \multicolumn{2}{|l|}{Cadet contestants' Height} & MAX. Weight & MIN. Weight  \\
-     \hline
-     Under 148 cm & Not exceeding 148 cm & 45 kg & 33 kg \\
-     \hline
-     Under 152 cm & Over 148 cm \& Not exceeding 152 cm & 48 kg & 35 kg \\
-     \hline                                                       
-     Under 156 cm & Over 152 cm \& Not exceeding 156 cm & 51 kg & 37 kg \\
-     \hline                                                       
-     Under 160 cm & Over 156 cm \& Not exceeding 160 cm & 53 kg & 39 kg \\
-     \hline                                                       
-     Under 164 cm & Over 160 cm \& Not exceeding 164 cm & 56 kg & 41 kg \\
-     \hline                                                       
-     Under 168 cm & Over 164 cm \& Not exceeding 168 cm & 59 kg & 43 kg \\
-     \hline                                                       
-     Under 172 cm & Over 168 cm \& Not exceeding 172 cm & 61 kg & 45 kg \\
-     \hline                                                       
-     Under 176 cm & Over 172 cm \& Not exceeding 176 cm & 64 kg & 47 kg \\
-     \hline                                                       
-     Under 180 cm & Over 176 cm \& Not exceeding 180 cm & 67 kg & 49 kg \\
-     \hline
-     Over 180 cm & Over 180 cm & 80 kg & 52 kg  \\
-     \hline
-    \end{tabular}
-    \end{center}
-    \end{samepage}
-
-    \begin{center}
-    \begin{tabular}{ |l|l|l|l| } 
-     \hline
-     \multicolumn{4}{|l|}{Women's division} \\
-     \hline
-     \multicolumn{2}{|l|}{Cadet contestants' Height} & MAX. Weight & MIN. Weight  \\
-     \hline
-     Under 144 cm & Not exceeding 144 cm & 43 kg & 32 kg \\
-     \hline
-     Under 148 cm & Over 144 cm \& Not exceeding 148 cm & 45 kg & 33 kg \\
-     \hline                                               
-     Under 152 cm & Over 148 cm \& Not exceeding 152 cm & 48 kg & 35 kg \\
-     \hline                                                       
-     Under 156 cm & Over 152 cm \& Not exceeding 156 cm & 51 kg & 37 kg \\
-     \hline                                                       
-     Under 160 cm & Over 156 cm \& Not exceeding 160 cm & 53 kg & 39 kg \\
-     \hline                                                       
-     Under 164 cm & Over 160 cm \& Not exceeding 164 cm & 56 kg & 41 kg \\
-     \hline                                                       
-     Under 168 cm & Over 164 cm \& Not exceeding 168 cm & 59 kg & 43 kg \\
-     \hline                                                       
-     Under 172 cm & Over 168 cm \& Not exceeding 172 cm & 61 kg & 45 kg \\
-     \hline                                                               
-     Under 176 cm & Over 172 cm \& Not exceeding 176 cm & 64 kg & 47 kg \\
-     \hline                 
-     Over 176 cm & Over 176 cm & 75 kg & 50 kg  \\
-     \hline
-    \end{tabular}
-    \end{center}
-  \end{enumerate}
-
-\item
-\input{5.6.txt}
-
-\begin{center}
-\begin{tabular}{ |m{5em}|m{6em}|m{6em}|m{6em}|m{6em}|m{6em}|m{6em}|m{10em}|  } 
- \hline
- Division & Male pair & Female pair & \multicolumn{2}{|c|}{Male Team} & \multicolumn{2}{|c|}{Female Team} & Mixed Team \\
- \hline
- Maximum \newline number of \newline athletes & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 male \& 2 female) \\
- \hline                                                                                        
- \multirow{2}{6em}{Total weight range} & 160 kg or less & 135 kg or less & \multirow{2}{5em}{300 kg or less} & \multirow{2}{5em}{240 kg or less} & \multirow{2}{5em}{260 kg or less} & \multirow{2}{5em}{200 kg or less} & \multirow{2}{10em}{2 female athletes: 135 kg or less 2 male athletes: 160 kg or less} \\
- \cline{2-3}
- & 130 kg or less & 110 kg or less & & & & & \\
- \hline                                                                                        
-\end{tabular}
-\end{center}
-
-\end{enumerate}
-
-
-\chapter{Classification and methods of competition}\label{classification-and-methods-of-competition}
+\chapter{Classification and methods of
+competition}\label{classification-and-methods-of-competition}
 
 \begin{enumerate}
-
 \item
-\input{6.1.txt}
-
-  \begin{enumerate}
-  \item
-  \input{6.1.1.txt}
-  \item
-  \input{6.1.2.txt}
-  \end{enumerate}
-
-\item
-\input{6.2.txt}
+  Competitions are classified as follows.
 
   \begin{enumerate}
   \item
-  \input{6.2.1.txt}
+    Individual competition shall normally be between contestants in the
+    same weight category. When necessary, adjoining weight category may
+    be combined to create a single classification. No contestant is
+    allowed to participate in more than one (1) weight category in one
+    event.
   \item
-  \input{6.2.2.txt}
+    Team Competition: Method and weight categories of team competition
+    shall be stipulated in the Standing Procedures for World Taekwondo
+    World Cup Team Championships.
   \end{enumerate}
+\item
+  Systems of competition are divided as follows.
 
+  \begin{enumerate}
+  \item
+    Single elimination tournament system
+  \item
+    Round robin system
+  \end{enumerate}
 \item
-\input{6.3.txt}
+  Taekwondo competition of the Olympic Games and 4 year cycle
+  continental multi sports games may use single elimination tournament
+  system or the combination of single elimination tournament system with
+  repechage.
 \item
-\input{6.4.txt}
+  All international-level competitions recognized by the WT shall be
+  formed with participation of at least four (4) countries in tournament
+  with no less than four (4) contestants competed in each weight
+  category, and any tournament with less than four (4) countries or
+  weight category with less than 4 competed contestants cannot be
+  recognized in the official results.
 \item
-\input{6.5.txt}
+  World Taekwondo Grand Prix Series will be organized based on the most
+  recent Standing Procedure of World Taekwondo Grand Prix Series.
 \end{enumerate}
 
-\begin{expl}
 \section{(Interpretation)}\label{interpretation-4}
 
-\input{6.i_1.txt}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  In the tournament system, competition is founded on an individual
+  basis. However, the team standing can also be determined by the sum of
+  the individual standings according to the overall scoring method.
+
+  Team Standing
+
+  Team standing shall be decided by the total points based on the
+  following criteria.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Basic one (1) point per each contestant who entered the competition
+    area after passing the general weigh-in
+  \item
+    One (1) point per each win (win by a bye included)
+  \item
+    Additional one hundred and twenty (120) points per gold medal
+  \item
+    Additional fifty (50) points per silver medal
+  \item
+    Additional twenty (20) points per bronze medal
+  \end{itemize}
+
+  In case more than two (2) teams are tied in score, the rank shall be
+  decided by 1) number of gold, silver and bronze medals won by the team
+  in order, 2) number of participating contestants and 3) higher points
+  in heavier weight categories.
+\item
+  In the team competition system, the outcome of each team competition
+  is determined by the individual team results.
+\end{enumerate}
 
 \section{(Explanation \#1)}\label{explanation-1-2}
-\input{6.e_1.txt}
 
-\end{expl}
+Consolidated weight categories:
 
-
+The method of consolidation shall follow the Olympic weight categories.
 
 \chapter{Duration of Contest}\label{duration-of-contest}
 
 \begin{enumerate}
 \item
-\input{7.1.txt}
+  Duration of Contest is classified as follows.
 
   \begin{enumerate}
   \item
-  \input{7.1.1.txt}
+    The duration of the contest shall be three rounds of two minutes
+    each, with a one-minute rest period between rounds. In case of a tie
+    score after the completion of the 3rd round, a 4th round of one
+    minute will be conducted as the Golden round, after a one-minute
+    rest period following the 3rd round.
   \item
-  \input{7.1.2.txt}
+    In the best of three (3) system, the duration of the contest shall
+    be three rounds of two minutes each with a oneminute rest period
+    between rounds. However, a 4 th round of one minute will not be
+    conducted as the Golden round. In case of a tie score for
+    corresponding round, the round winner shall be decided by the
+    Article 15.
   \item
-  \input{7.1.3.txt}
+    In the World Cup Team Championships, the duration of the contest
+    shall be three rounds of four (4) minutes of 1st round, five (5)
+    minutes of 2nd and 3rd round with a one (1) minute rest period
+    between rounds. The 1st round shall be conducted based on
+    traditional team match format for one (1) minute per contest and the
+    2nd and the 3rd round shall be conducted for five (5) minutes based
+    on tag-team match format.
   \end{enumerate}
 \item
-\input{7.2.txt}
+  The duration of each round may be adjusted to 1 minute x 3 rounds, 1
+  minute 30 seconds x 3 rounds, 2 minutes x 2 rounds or 5 minute x 1
+  round (with 1 time out for 30 seconds to each contestant) upon the
+  decision of the Technical Delegate for the pertinent championships.
 \end{enumerate}
 
 \chapter{Drawing of Lots}\label{drawing-of-lots}
 
 \begin{enumerate}
 \item
-\input{8.1.txt}
+  The date of the drawing of lots shall be set forth in the outline of
+  the championships. At least one representative from each team must
+  attend the drawing of lots and participating teams are responsible for
+  confirming their entries before the drawing of lots. In case of no
+  representative can be at the drawing of lots, the team must designate
+  a proxy and inform Technical delegate before the drawing of lots.
 \item
-\input{8.2.txt}
+  The drawing of lots may be conducted by random computerized drawing or
+  by random manual drawing of lots. The method and order of drawing
+  shall be determined by the Technical Delegate.
 \item
-\input{8.3.txt}
+  All ranked athletes will be seeded in all WT Promoted and Recognized
+  tournaments unless otherwise stipulated in the relevant standing
+  procedures or event outlines.
 \end{enumerate}
 
 \chapter{Weigh-in}\label{weigh-in}

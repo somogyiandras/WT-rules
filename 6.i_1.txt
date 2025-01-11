@@ -1,0 +1,16 @@
+1.  In the tournament system, competition is founded on an individual basis. However, the team standing can also be determined by the sum of the individual standings according to the overall scoring method.
+
+Team Standing
+
+Team standing shall be decided by the total points based on the following criteria.
+
+* Basic one (1) point per each contestant who entered the competition area after passing the general weigh-in
+* One (1) point per each win (win by a bye included)
+* Additional one hundred and twenty (120) points per gold medal
+* Additional fifty (50) points per silver medal
+* Additional twenty (20) points per bronze medal
+
+In case more than two (2) teams are tied in score, the rank shall be decided by 1) number of gold, silver and bronze medals won by the team in order, 2) number of participating contestants and 3) higher points in heavier weight categories.
+
+2. In the team competition system, the outcome of each team competition is determined by the individual team results.
+
