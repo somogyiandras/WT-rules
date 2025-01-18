@@ -1,0 +1,2 @@
+Match score shall be the sum of points of the three rounds.
+

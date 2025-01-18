@@ -1,0 +1,2 @@
+If the high value points are same, the contestant who received higher
+number of hits registered by the PSS.

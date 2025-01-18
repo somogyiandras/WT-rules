@@ -1,0 +1,2 @@
+If number of round won is tied, the contestant who received less numbers of
+a ``Gam-jeom'' during all four rounds

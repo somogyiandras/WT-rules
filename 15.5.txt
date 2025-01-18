@@ -1,0 +1,3 @@
+In the best of three (3) system, in case of tie score for corresponding
+round, the round winner shall be decided by superiority based on
+following criteria:

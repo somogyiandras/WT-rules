@@ -1,0 +1,14 @@
+Referee Stops Contest:\\
+ The referee declares RSC in the following situations:
+
+  i. if a contestant has been knocked down by an opponent's legitimate
+  technique and cannot resume the contest by the count of ``Yeo-dul'';
+  or if the referee determines the contestant is not able to resume the
+  competition regardless of the progress of counting;
+
+  ii. if a contestant disregards the referee's command to continue the match
+  three times;
+
+  iii. if the referee recognizes the need to stop the match to protect a contestant's safety;
+
+  iv. when the Commission Doctor determines that the match should be stopped due to a contestant's injury;

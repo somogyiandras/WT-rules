@@ -1,0 +1,6 @@
+The referee may pause a contest by declaring ``Kal-yeo'' (break) and
+resume the contest by the command of ``Kye-sok'' (continue). When the
+referee declares ``Kal-yeo'' the recorder should immediately stop the
+match time; when the referee declares ``Kye-sok'' the recorder should
+immediately restart the match time.
+

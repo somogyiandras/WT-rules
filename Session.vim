@@ -48,6 +48,7 @@ nnoremap tt !!trans -b
 nnoremap yp "*yap
 nnoremap ys "*yas
 nnoremap yw "*yaW
+nnoremap <F2> execute ':w 
 xnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX()))
 tnoremap <silent> <Plug>(fzf-normal) 
@@ -129,59 +130,19 @@ if &shortmess =~ 'A'
 else
   set shortmess=aoO
 endif
-badd +43 Rules-base.tex
-badd +1 1.1.txt
-badd +667 Rules-base.log
-badd +2 1.i_1.txt
-badd +1 2.1.txt
-badd +1 2.2.txt
-badd +1 2.3.txt
-badd +17 4.e_1.txt
-badd +1 \?\ OK,\ entering\ \\batchmodemake:\ \*\*\*\ \[Makefile
-badd +1 4.e_2.txt
-badd +1 4.e_3.txt
-badd +1 4.2.txt
-badd +1 4.2.1.txt
-badd +1 4.2.1.1.txt
-badd +1 4.2.2.txt
-badd +1 4.2.3.txt
-badd +1 4.2.4.txt
-badd +1 4.2.5.txt
-badd +30 4.2.5.1.txt
-badd +18 4.2.5.2.txt
-badd +1 4.2.5.3.txt
-badd +1 4.3.txt
-badd +1 4.3.1.txt
-badd +1 4.3.2.txt
-badd +1 4.3.3.txt
-badd +1 4.3.4.txt
-badd +1 4.e_4.txt
-badd +1 4.e_5.txt
-badd +1 4.e_6.txt
-badd +8 4.e_7.txt
-badd +1 4.e_8.txt
-badd +1 4.e_9.txt
-badd +1 4.e_10.txt
-badd +1 6.1.txt
-badd +1 6.1.1.txt
-badd +1 6.1.2.txt
-badd +1 6.2.txt
-badd +1 6.2.1.txt
-badd +1 6.2.2.txt
-badd +1 6.3.txt
-badd +1 6.4.txt
-badd +1 6.5.txt
-badd +1 6.i_1.txt
-badd +1 6.e_1.txt
-badd +1 7.1.txt
-badd +1 7.1.1.txt
-badd +1 7.1.2.txt
-badd +1 7.1.3.txt
-badd +1 7.2.txt
-badd +1 8.1.txt
-badd +1 8.2.txt
-badd +1 8.3.txt
-badd +0 9.1.txt
+badd +1236 Rules-base.tex
+badd +2 20.3.2.3.1.txt
+badd +3 20.3.2.4.1.txt
+badd +2 20.3.2.4.2.txt
+badd +1 20.3.2.4.3.txt
+badd +1 20.3.3.1.txt
+badd +1 20.3.3.2.txt
+badd +2 20.3.4.1.txt
+badd +4 20.3.4.2.txt
+badd +3 20.e_1.txt
+badd +3 20.e_2.txt
+badd +5 20.e_3.txt
+badd +0 20.e_4.txt
 argglobal
 %argdel
 $argadd Rules-base.tex
@@ -202,10 +163,9 @@ set winminheight=0
 set winheight=1
 set winminwidth=0
 set winwidth=1
-exe '1resize ' . ((&lines * 40 + 27) / 54)
-exe '2resize ' . ((&lines * 11 + 27) / 54)
+exe '1resize ' . ((&lines * 40 + 28) / 57)
+exe '2resize ' . ((&lines * 14 + 28) / 57)
 argglobal
-balt \?\ OK,\ entering\ \\batchmodemake:\ \*\*\*\ \[Makefile
 setlocal keymap=
 setlocal noarabic
 setlocal noautoindent
@@ -343,16 +303,32 @@ setlocal nowinfixheight
 setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
-let s:l = 183 - ((19 * winheight(0) + 20) / 40)
+72
+normal! zo
+72
+normal! zo
+72
+normal! zo
+72
+normal! zo
+812
+normal! zo
+1201
+normal! zo
+1264
+normal! zo
+1269
+normal! zo
+let s:l = 1361 - ((25 * winheight(0) + 20) / 40)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 183
+keepjumps 1361
 normal! 0
 wincmd w
 argglobal
-if bufexists(fnamemodify("9.1.txt", ":p")) | buffer 9.1.txt | else | edit 9.1.txt | endif
-balt 8.3.txt
+if bufexists(fnamemodify("20.e_4.txt", ":p")) | buffer 20.e_4.txt | else | edit 20.e_4.txt | endif
+balt 20.e_3.txt
 setlocal keymap=
 setlocal noarabic
 setlocal noautoindent
@@ -489,15 +465,15 @@ setlocal nowinfixheight
 setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
-let s:l = 1 - ((0 * winheight(0) + 5) / 11)
+let s:l = 15 - ((2 * winheight(0) + 7) / 14)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 1
+keepjumps 15
 normal! 0
 wincmd w
-exe '1resize ' . ((&lines * 40 + 27) / 54)
-exe '2resize ' . ((&lines * 11 + 27) / 54)
+exe '1resize ' . ((&lines * 40 + 28) / 57)
+exe '2resize ' . ((&lines * 14 + 28) / 57)
 tabnext 1
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf

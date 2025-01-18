@@ -1,0 +1,4 @@
+The referee shall first check the status of the downed contestant and count
+aloud from ``Ha-nah (one)'' up to ``Yeol (ten)'' at one second intervals
+towards the downed contestant, making hand signals indicating the
+passage of time.

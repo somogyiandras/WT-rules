@@ -1,0 +1,3 @@
+In case both contestants are knocked down and both contestants fail to recover by the count of
+``Yeol'', the winner shall be decided by the match score before the
+occurrence of Knock Down.

@@ -1,0 +1,25 @@
+The situation which warrants suspending the match beyond the
+above-prescribed procedures shall be treated as follows.
+
+\begin{enumerate}
+\def\labelenumi{\roman{enumi}.}
+\item
+  When uncontrollable circumstances require suspension of the match, the
+  referee shall suspend the match and follow the directives of the
+  Technical Delegate.
+\item
+  If the match is suspended after the completion of the second round,
+  the outcome shall be determined according to the match score at the
+  time of suspension.
+
+    \begin{itemize}
+    \tightlist
+    \item
+    In case of best of three (3) System, if the match is suspended, the outcome shall be determined by the point scored before the suspension occurred in pertinent Round in case of Round 1 or Round 3 of the contest. If points are tied, the winner shall be decided according to the criteria of superiority. In case of the occurrence during Round 2, the winner shall be decided upon decision of Round 1.
+    \end{itemize}
+
+\item
+  If the match is suspended before the conclusion of the second round, a
+  rematch shall, in principle, be conducted and shall be held in three
+  rounds.
+\end{enumerate}

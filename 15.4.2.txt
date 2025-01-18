@@ -1,0 +1,4 @@
+If none of the contestant received a point by a punch or both
+contestants received a point by a punch each in the golden round, the
+contestant who achieved a higher number of hits registered by the PSS
+during the golden round.
