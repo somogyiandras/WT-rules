@@ -1,0 +1,3 @@
+Errors in determining the match results, mistakes in
+calculating the match score or misidentifying a contestant shall result
+in the decision being reversed.

@@ -130,19 +130,12 @@ if &shortmess =~ 'A'
 else
   set shortmess=aoO
 endif
-badd +1236 Rules-base.tex
-badd +2 20.3.2.3.1.txt
-badd +3 20.3.2.4.1.txt
-badd +2 20.3.2.4.2.txt
-badd +1 20.3.2.4.3.txt
-badd +1 20.3.3.1.txt
-badd +1 20.3.3.2.txt
-badd +2 20.3.4.1.txt
-badd +4 20.3.4.2.txt
-badd +3 20.e_1.txt
-badd +3 20.e_2.txt
-badd +5 20.e_3.txt
-badd +0 20.e_4.txt
+badd +1361 Rules-base.tex
+badd +1 23.4.2.txt
+badd +1 23.4.3.txt
+badd +4 23.4.4.txt
+badd +4 23.4.5.txt
+badd +1 23.4.6.txt
 argglobal
 %argdel
 $argadd Rules-base.tex
@@ -319,16 +312,22 @@ normal! zo
 normal! zo
 1269
 normal! zo
-let s:l = 1361 - ((25 * winheight(0) + 20) / 40)
+1406
+normal! zo
+1417
+normal! zo
+1469
+normal! zo
+let s:l = 1535 - ((6 * winheight(0) + 20) / 40)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 1361
+keepjumps 1535
 normal! 0
 wincmd w
 argglobal
-if bufexists(fnamemodify("20.e_4.txt", ":p")) | buffer 20.e_4.txt | else | edit 20.e_4.txt | endif
-balt 20.e_3.txt
+if bufexists(fnamemodify("23.4.5.txt", ":p")) | buffer 23.4.5.txt | else | edit 23.4.5.txt | endif
+balt 23.4.4.txt
 setlocal keymap=
 setlocal noarabic
 setlocal noautoindent
@@ -465,11 +464,11 @@ setlocal nowinfixheight
 setlocal nowinfixwidth
 setlocal wrap
 setlocal wrapmargin=0
-let s:l = 15 - ((2 * winheight(0) + 7) / 14)
+let s:l = 4 - ((3 * winheight(0) + 7) / 14)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 15
+keepjumps 4
 normal! 0
 wincmd w
 exe '1resize ' . ((&lines * 40 + 28) / 57)
