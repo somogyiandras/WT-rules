@@ -2,7 +2,7 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-\documentclass[draft]{report}
+\documentclass[]{report}
 \usepackage{xcolor}
 \usepackage{amsmath,amssymb}
 \setcounter{secnumdepth}{5}
@@ -38,6 +38,7 @@
 \usepackage{array}
 \usepackage{calc}
 \usepackage{layouts}
+\usepackage{pdfpages}
 
 % section headers
 \titlespacing{\chapter}{0pt}{0pt}{0pt}
@@ -94,7 +95,7 @@
 
 \begin{document}
 
-\chapter{Purpose}\label{purpose}
+\chapter{Purpose}
 
 \begin{enumerate}
 \tightlist
@@ -179,9 +180,11 @@
 \input{3.e_3.txt}
 \end{expl}
 
-%todo: Ide kell a rajz! és landscape oldalon
-
-
+%todo: Ide kell a rajz!
+\includepdf{octogon_on_platform.pdf}
+\includepdf{octogon_on_floor.pdf}
+\includepdf{octogon_on_platform_2_judges.pdf}
+\includepdf{octogon_on_floor_2_judges.pdf}
 
 
 \chapter{Contestant}\label{contestant}
