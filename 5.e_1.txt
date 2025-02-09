@@ -1,0 +1,3 @@
+Nem haladja meg:
+
+A súlykorlát a táblázatban megadott értéktől egy tizedesjeggyel való eltéréssel van meghatározva. Azaz például a „nem haladja meg a 68 kg-ot” kifejezésnek akkor felel meg a mérlegelt versenyző, ha a mérleg 68.0 kg-ot mutat, 68.1 kg esetén nem felel meg, és kizárásra kerül.

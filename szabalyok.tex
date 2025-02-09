@@ -10,7 +10,9 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{textcomp} % provide euro and other symbols
+\usepackage[T1]{fontenc}
 \usepackage[]{fontawesome}
+\usepackage{geometry}
 
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -39,6 +41,8 @@
 \usepackage{calc}
 \usepackage{layouts}
 \usepackage{pdfpages}
+
+\renewcommand{\familydefault}{\sfdefault}
 
 % section headers
 \titlespacing{\chapter}{0pt}{0pt}{0pt}
@@ -185,6 +189,7 @@
 \includepdf{octogon_on_floor.pdf}
 \includepdf{octogon_on_platform_2_judges.pdf}
 \includepdf{octogon_on_floor_2_judges.pdf}
+\includepdf{octogon_mat.pdf}
 
 
 \chapter{Contestant}\label{contestant}
@@ -300,8 +305,9 @@
 \input{4.e_10.txt}
 \end{expl}
 
+\newgeometry{left=1cm}
 
-\chapter{Weight category}\label{weight-category}
+\chapter{Súlycsoportok}
 
 \begin{enumerate}
 
@@ -309,25 +315,25 @@
 \input{5.1.txt}
 
 \begin{center}
-\begin{tabular}{ |l|l|l|l| } 
+\begin{tabular}{ |l|l|l|l| }
  \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
+ \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
  \hline
- Under 54 kg & Not exceeding 54 kg & under 46 kg & Not exceeding 46 kg \\
+ $-$54 kg & Nem haladja meg a 54 kg-ot & $-$46 kg & Nem haladja meg a 46 kg-ot \\
  \hline
- Under 58 kg & Over 54 kg \& Not exceeding 58 kg & Under 49 kg & Over 46 kg \& Not exceeding 49 kg \\
+ $-$58 kg & 54 kg felett és nem haladja meg a 58 kg-ot & $-$49 kg & 46 kg felett és nem haladja meg a 49 kg-ot \\
  \hline
- Under 63 kg & Over 58 kg \& Not exceeding 63 kg & Under 53 kg & Over 49 kg \& Not exceeding 53 kg \\
+ $-$63 kg & 58 kg felett és nem haladja meg a 63 kg-ot & $-$53 kg & 49 kg felett és nem haladja meg a 53 kg-ot \\
  \hline
- Under 68 kg & Over 63 kg \& Not exceeding 68 kg & Under 57 kg & Over 53 kg \& Not exceeding 57 kg \\
+ $-$68 kg & 63 kg felett és nem haladja meg a 68 kg-ot & $-$57 kg & 53 kg felett és nem haladja meg a 57 kg-ot \\
  \hline
- Under 74 kg & Over 68 kg \& Not exceeding 74 kg & Under 62 kg & Over 57 kg \& Not exceeding 62 kg \\
+ $-$74 kg & 68 kg felett és nem haladja meg a 74 kg-ot & $-$62 kg & 57 kg felett és nem haladja meg a 62 kg-ot \\
  \hline
- Under 80 kg & Over 74 kg \& Not exceeding 80 kg & Under 67 kg & Over 62 kg \& Not exceeding 67 kg \\
+ $-$80 kg & 74 kg felett és nem haladja meg a 80 kg-ot & $-$67 kg & 62 kg felett és nem haladja meg a 67 kg-ot \\
  \hline
- Under 87 kg & Over 80 kg \& Not exceeding 87 kg & Under 73 kg & Over 67 kg \& Not exceeding 73 kg \\
+ $-$87 kg & 80 kg felett és nem haladja meg a 87 kg-ot & $-$73 kg & 67 kg felett és nem haladja meg a 73 kg-ot \\
  \hline
- Over 87 kg & Over 54 kg \& Not exceeding 58 kg & Over 73 kg & Over 73 kg \\
+ +87 kg & 54 kg felett és nem haladja meg a 58 kg-ot & +73 kg & 73 kg felett \\
  \hline
 \end{tabular}
 \end{center}
@@ -336,17 +342,17 @@
 \input{5.2.txt}
 
 \begin{center}
-\begin{tabular}{ |l|l|l|l| } 
+\begin{tabular}{ |l|l|l|l| }
  \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
+ \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
  \hline
- Under 58 kg & Not exceeding 58 kg & under 49 kg & Not exceeding 49 kg \\
+ $-$58 kg & Nem haladja meg a 58 kg-ot & $-$49 kg & Nem haladja meg a 49 kg-ot \\
  \hline
- Under 68 kg & Over 58 kg \& Not exceeding 68 kg & Under 57 kg & Over 49 kg \& Not exceeding 57 kg \\
+ $-$68 kg & 58 kg felett és nem haladja meg a 68 kg-ot & $-$57 kg & 49 kg felett és nem haladja meg a 57 kg-ot \\
  \hline
- Under 80 kg & Over 68 kg \& Not exceeding 80 kg & Under 67 kg & Over 57 kg \& Not exceeding 67 kg \\
+ $-$80 kg & 68 kg felett és nem haladja meg a 80 kg-ot & $-$67 kg & 57 kg felett és nem haladja meg a 67 kg-ot \\
  \hline
- Over 80 kg & Over 50 kg & Over 67 kg & Over 67 kg \\
+ +80 kg & 50 kg felett & +67 kg & 67 kg felett \\
  \hline
 \end{tabular}
 \end{center}
@@ -356,29 +362,29 @@
 \input{5.3.txt}
 
 \begin{center}
-\begin{tabular}{ |l|l|l|l| } 
+\begin{tabular}{ |l|l|l|l| }
  \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
+ \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
  \hline
- Under 45 kg & Not exceeding 45 kg & under 42 kg & Not exceeding 42 kg \\
+ $-$45 kg & Nem haladja meg a 45 kg-ot & $-$42 kg & Nem haladja meg a 42 kg-ot \\
  \hline
- Under 48 kg & Over 45 kg \& Not exceeding 44 kg & Under 49 kg & Over 42 kg \& Not exceeding 44 kg \\
+ $-$48 kg & 45 kg felett és nem haladja meg a 44 kg-ot & $-$49 kg & 42 kg felett és nem haladja meg a 44 kg-ot \\
  \hline
- Under 51 kg & Over 48 kg \& Not exceeding 46 kg & Under 53 kg & Over 44 kg \& Not exceeding 46 kg \\
+ $-$51 kg & 48 kg felett és nem haladja meg a 46 kg-ot & $-$53 kg & 44 kg felett és nem haladja meg a 46 kg-ot \\
  \hline
- Under 55 kg & Over 51 kg \& Not exceeding 49 kg & Under 49 kg & Over 46 kg \& Not exceeding 49 kg \\
+ $-$55 kg & 51 kg felett és nem haladja meg a 49 kg-ot & $-$49 kg & 46 kg felett és nem haladja meg a 49 kg-ot \\
  \hline
- Under 59 kg & Over 55 kg \& Not exceeding 52 kg & Under 53 kg & Over 49 kg \& Not exceeding 52 kg \\
+ $-$59 kg & 55 kg felett és nem haladja meg a 52 kg-ot & $-$53 kg & 49 kg felett és nem haladja meg a 52 kg-ot \\
  \hline
- Under 63 kg & Over 59 kg \& Not exceeding 55 kg & Under 57 kg & Over 52 kg \& Not exceeding 55 kg \\
+ $-$63 kg & 59 kg felett és nem haladja meg a 55 kg-ot & $-$57 kg & 52 kg felett és nem haladja meg a 55 kg-ot \\
  \hline
- Under 68 kg & Over 63 kg \& Not exceeding 59 kg & Under 62 kg & Over 55 kg \& Not exceeding 59 kg \\
+ $-$68 kg & 63 kg felett és nem haladja meg a 59 kg-ot & $-$62 kg & 55 kg felett és nem haladja meg a 59 kg-ot \\
  \hline
- Under 73 kg & Over 68 kg \& Not exceeding 63 kg & Under 67 kg & Over 69 kg \& Not exceeding 63 kg \\
+ $-$73 kg & 68 kg felett és nem haladja meg a 63 kg-ot & $-$67 kg & 69 kg felett és nem haladja meg a 63 kg-ot \\
  \hline
- Under 78 kg & Over 73 kg \& Not exceeding 68 kg & Under 73 kg & Over 63 kg \& Not exceeding 68 kg \\
+ $-$78 kg & 73 kg felett és nem haladja meg a 68 kg-ot & $-$73 kg & 63 kg felett és nem haladja meg a 68 kg-ot \\
  \hline
- Over 78 kg & Over 78 kg \& Not exceeding 58 kg & Over 68 kg & Over 68 kg \\
+ +78 kg & 78 kg felett és nem haladja meg a 58 kg-ot & +68 kg & 68 kg felett \\
  \hline
 \end{tabular}
 \end{center}
@@ -388,50 +394,50 @@
 \input{5.4.txt}
 
 \begin{center}
-\begin{tabular}{ |l|l|l|l| } 
+\begin{tabular}{ |l|l|l|l| }
  \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
+ \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
  \hline
- Under 48 kg & Not exceeding 48 kg & under 44 kg & Not exceeding 44 kg \\
+ $-$48 kg & Nem haladja meg a 48 kg-ot & $-$44 kg & Nem haladja meg a 44 kg-ot \\
  \hline
- Under 55 kg & Over 48 kg \& Not exceeding 55 kg & Under 49 kg & Over 44 kg \& Not exceeding 49 kg \\
+ $-$55 kg & 48 kg felett és nem haladja meg a 55 kg-ot & $-$49 kg & 44 kg felett és nem haladja meg a 49 kg-ot \\
  \hline
- Under 63 kg & Over 55 kg \& Not exceeding 63 kg & Under 55 kg & Over 49 kg \& Not exceeding 55 kg \\
+ $-$63 kg & 55 kg felett és nem haladja meg a 63 kg-ot & $-$55 kg & 49 kg felett és nem haladja meg a 55 kg-ot \\
  \hline
- Under 73 kg & Over 65 kg \& Not exceeding 73 kg & Under 63 kg & Over 55 kg \& Not exceeding 63 kg \\
+ $-$73 kg & 65 kg felett és nem haladja meg a 73 kg-ot & $-$63 kg & 55 kg felett és nem haladja meg a 63 kg-ot \\
  \hline
- Over 73 kg & Over 73 kg & Over 63 kg & Over 63 kg \\
+ +73 kg & 73 kg felett & +63 kg & 63 kg felett \\
  \hline
 \end{tabular}
 \end{center}
 
+\newpage
 \item
 \input{5.5.txt}
-
 \begin{center}
-\begin{tabular}{ |l|l|l|l| } 
+\begin{tabular}{ |l|l|l|l| }
  \hline
- \multicolumn{2}{|l|}{Men's division} & \multicolumn{2}{|l|}{Women's division}  \\
+ \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
  \hline
- Under 33 kg & Not exceeding 33 kg & under 29 kg & Not exceeding 29 kg \\
+ $-$33 kg & Nem haladja meg a 33 kg-ot & $-$29 kg & Nem haladja meg a 29 kg-ot \\
  \hline
- Under 37 kg & Over 33 kg \& Not exceeding 37 kg & Under 33 kg & Over 29 kg \& Not exceeding 33 kg \\
- \hline                                                                                        
- Under 41 kg & Over 37 kg \& Not exceeding 41 kg & Under 37 kg & Over 33 kg \& Not exceeding 37 kg \\
- \hline                                                                                        
- Under 45 kg & Over 41 kg \& Not exceeding 45 kg & Under 41 kg & Over 37 kg \& Not exceeding 41 kg \\
- \hline                                                                                        
- Under 49 kg & Over 45 kg \& Not exceeding 49 kg & Under 44 kg & Over 41 kg \& Not exceeding 44 kg \\
- \hline                                                                                        
- Under 53 kg & Over 49 kg \& Not exceeding 53 kg & Under 47 kg & Over 44 kg \& Not exceeding 47 kg \\
- \hline                                                                                        
- Under 57 kg & Over 53 kg \& Not exceeding 57 kg & Under 51 kg & Over 47 kg \& Not exceeding 51 kg \\
- \hline                                                                                        
- Under 61 kg & Over 57 kg \& Not exceeding 61 kg & Under 55 kg & Over 51 kg \& Not exceeding 55 kg \\
- \hline                                                                                        
- Under 65 kg & Over 61 kg \& Not exceeding 65 kg & Under 59 kg & Over 55 kg \& Not exceeding 59 kg \\
+ $-$37 kg & 33 kg felett és nem haladja meg a 37 kg-ot & $-$33 kg & 29 kg felett és nem haladja meg a 33 kg-ot \\
  \hline
- Over 65 kg & Over 65 kg \& Not exceeding 58 kg & Over 59 kg & Over 59 kg \\
+ $-$41 kg & 37 kg felett és nem haladja meg a 41 kg-ot & $-$37 kg & 33 kg felett és nem haladja meg a 37 kg-ot \\
+ \hline
+ $-$45 kg & 41 kg felett és nem haladja meg a 45 kg-ot & $-$41 kg & 37 kg felett és nem haladja meg a 41 kg-ot \\
+ \hline
+ $-$49 kg & 45 kg felett és nem haladja meg a 49 kg-ot & $-$44 kg & 41 kg felett és nem haladja meg a 44 kg-ot \\
+ \hline
+ $-$53 kg & 49 kg felett és nem haladja meg a 53 kg-ot & $-$47 kg & 44 kg felett és nem haladja meg a 47 kg-ot \\
+ \hline
+ $-$57 kg & 53 kg felett és nem haladja meg a 57 kg-ot & $-$51 kg & 47 kg felett és nem haladja meg a 51 kg-ot \\
+ \hline
+ $-$61 kg & 57 kg felett és nem haladja meg a 61 kg-ot & $-$55 kg & 51 kg felett és nem haladja meg a 55 kg-ot \\
+ \hline
+ $-$65 kg & 61 kg felett és nem haladja meg a 65 kg-ot & $-$59 kg & 55 kg felett és nem haladja meg a 59 kg-ot \\
+ \hline
+ +65 kg & 65 kg felett és nem haladja meg a 58 kg-ot & +59 kg & 59 kg felett \\
  \hline
 \end{tabular}
 \end{center}
@@ -442,88 +448,98 @@
   \input{5.5.1.txt}
 
     \begin{center}
-    \begin{tabular}{ |l|l|l|l| } 
+    \begin{tabular}{ |l|l|l|l| }
      \hline
-     \multicolumn{4}{|l|}{Men's division} \\
+     \multicolumn{4}{|l|}{Férfiak} \\
      \hline
-     \multicolumn{2}{|l|}{Cadet contestants' Height} & MAX. Weight & MIN. Weight  \\
+     \multicolumn{2}{|l|}{Kadett versenyző magassága} & maximális súly & minimális súly\\
      \hline
-     Under 148 cm & Not exceeding 148 cm & 45 kg & 33 kg \\
+     $-$148 cm & Nem haladja meg a 148 cm-t & 45 kg & 33 kg \\
      \hline
-     Under 152 cm & Over 148 cm \& Not exceeding 152 cm & 48 kg & 35 kg \\
-     \hline                                                       
-     Under 156 cm & Over 152 cm \& Not exceeding 156 cm & 51 kg & 37 kg \\
-     \hline                                                       
-     Under 160 cm & Over 156 cm \& Not exceeding 160 cm & 53 kg & 39 kg \\
-     \hline                                                       
-     Under 164 cm & Over 160 cm \& Not exceeding 164 cm & 56 kg & 41 kg \\
-     \hline                                                       
-     Under 168 cm & Over 164 cm \& Not exceeding 168 cm & 59 kg & 43 kg \\
-     \hline                                                       
-     Under 172 cm & Over 168 cm \& Not exceeding 172 cm & 61 kg & 45 kg \\
-     \hline                                                       
-     Under 176 cm & Over 172 cm \& Not exceeding 176 cm & 64 kg & 47 kg \\
-     \hline                                                       
-     Under 180 cm & Over 176 cm \& Not exceeding 180 cm & 67 kg & 49 kg \\
+     $-$152 cm & 148 cm felett és nem haladja meg a 152 cm-t & 48 kg & 35 kg \\
      \hline
-     Over 180 cm & Over 180 cm & 80 kg & 52 kg  \\
+     $-$156 cm & 152 cm felett és nem haladja meg a 156 cm-t & 51 kg & 37 kg \\
+     \hline
+     $-$160 cm & 156 cm felett és nem haladja meg a 160 cm-t & 53 kg & 39 kg \\
+     \hline
+     $-$164 cm & 160 cm felett és nem haladja meg a 164 cm-t & 56 kg & 41 kg \\
+     \hline
+     $-$168 cm & 164 cm felett és nem haladja meg a 168 cm-t & 59 kg & 43 kg \\
+     \hline
+     $-$172 cm & 168 cm felett és nem haladja meg a 172 cm-t & 61 kg & 45 kg \\
+     \hline
+     $-$176 cm & 172 cm felett és nem haladja meg a 176 cm-t & 64 kg & 47 kg \\
+     \hline
+     $-$180 cm & 176 cm felett és nem haladja meg a 180 cm-t & 67 kg & 49 kg \\
+     \hline
+     +180 cm & Over 180 cm & 80 kg & 52 kg  \\
      \hline
     \end{tabular}
     \end{center}
     \end{samepage}
 
     \begin{center}
-    \begin{tabular}{ |l|l|l|l| } 
+    \begin{tabular}{ |l|l|l|l| }
      \hline
-     \multicolumn{4}{|l|}{Women's division} \\
+     \multicolumn{4}{|l|}{Nők} \\
      \hline
-     \multicolumn{2}{|l|}{Cadet contestants' Height} & MAX. Weight & MIN. Weight  \\
+     \multicolumn{2}{|l|}{Kadett versenyző magassága} & maximális súly & minimális súly \\
      \hline
-     Under 144 cm & Not exceeding 144 cm & 43 kg & 32 kg \\
+     $-$144 cm & Nem haladja meg a 144 cm-t & 43 kg & 32 kg \\
      \hline
-     Under 148 cm & Over 144 cm \& Not exceeding 148 cm & 45 kg & 33 kg \\
-     \hline                                               
-     Under 152 cm & Over 148 cm \& Not exceeding 152 cm & 48 kg & 35 kg \\
-     \hline                                                       
-     Under 156 cm & Over 152 cm \& Not exceeding 156 cm & 51 kg & 37 kg \\
-     \hline                                                       
-     Under 160 cm & Over 156 cm \& Not exceeding 160 cm & 53 kg & 39 kg \\
-     \hline                                                       
-     Under 164 cm & Over 160 cm \& Not exceeding 164 cm & 56 kg & 41 kg \\
-     \hline                                                       
-     Under 168 cm & Over 164 cm \& Not exceeding 168 cm & 59 kg & 43 kg \\
-     \hline                                                       
-     Under 172 cm & Over 168 cm \& Not exceeding 172 cm & 61 kg & 45 kg \\
-     \hline                                                               
-     Under 176 cm & Over 172 cm \& Not exceeding 176 cm & 64 kg & 47 kg \\
-     \hline                 
-     Over 176 cm & Over 176 cm & 75 kg & 50 kg  \\
+     $-$148 cm & 144 cm felett és nem haladja meg a 148 cm-t & 45 kg & 33 kg \\
+     \hline
+     $-$152 cm & 148 cm felett és nem haladja meg a 152 cm-t & 48 kg & 35 kg \\
+     \hline
+     $-$156 cm & 152 cm felett és nem haladja meg a 156 cm-t & 51 kg & 37 kg \\
+     \hline
+     $-$160 cm & 156 cm felett és nem haladja meg a 160 cm-t & 53 kg & 39 kg \\
+     \hline
+     $-$164 cm & 160 cm felett és nem haladja meg a 164 cm-t & 56 kg & 41 kg \\
+     \hline
+     $-$168 cm & 164 cm felett és nem haladja meg a 168 cm-t & 59 kg & 43 kg \\
+     \hline
+     $-$172 cm & 168 cm felett és nem haladja meg a 172 cm-t & 61 kg & 45 kg \\
+     \hline
+     $-$176 cm & 172 cm felett és nem haladja meg a 176 cm-t & 64 kg & 47 kg \\
+     \hline
+     +176 cm & Over 176 cm & 75 kg & 50 kg \\
      \hline
     \end{tabular}
     \end{center}
   \end{enumerate}
 
+\newpage
 \item
 \input{5.6.txt}
 
 \begin{center}
-\begin{tabular}{ |m{5em}|m{6em}|m{6em}|m{6em}|m{6em}|m{6em}|m{6em}|m{10em}|  } 
+\begin{tabular}{ |m{6em}|m{4em}|m{4em}|m{4em}|m{4em}|m{4em}|m{4em}|m{6em}| }
  \hline
- Division & Male pair & Female pair & \multicolumn{2}{|c|}{Male Team} & \multicolumn{2}{|c|}{Female Team} & Mixed Team \\
+ Kategória & Férfi páros & Női páros & \multicolumn{2}{|c|}{Férfi csapat} & \multicolumn{2}{c|}{Női csapat} & Vegyes csapat \\
  \hline
- Maximum \newline number of \newline athletes & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 male \& 2 female) \\
- \hline                                                                                        
- \multirow{2}{6em}{Total weight range} & 160 kg or less & 135 kg or less & \multirow{2}{5em}{300 kg or less} & \multirow{2}{5em}{240 kg or less} & \multirow{2}{5em}{260 kg or less} & \multirow{2}{5em}{200 kg or less} & \multirow{2}{10em}{2 female athletes: 135 kg or less 2 male athletes: 160 kg or less} \\
+Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 2 nő) \\
+ \hline
+    \multirow{2}{6em}{Versenyzők össz súlya (kg)} & $<=$160 & $<=$135 & \multirow{2}{4em}{$<=$300} & \multirow{2}{4em}{$<=$240} & \multirow{2}{4em}{$<=$260} & \multirow{2}{4em}{$<=$200} & \multirow{2}{7em}{2 nő: $<=$135 \newline 2 férfi: $<=$160} \\
  \cline{2-3}
- & 130 kg or less & 110 kg or less & & & & & \\
- \hline                                                                                        
+ & $<=$130 & $<=$110 & & & & & \\
+ \hline
 \end{tabular}
 \end{center}
 
 \end{enumerate}
 
+\begin{expl}
+\section{(Explanation \#1)}
+\input{5.e_1.txt}
 
-\chapter{Classification and methods of competition}\label{classification-and-methods-of-competition}
+\section{(Explanation \#2)}
+\input{5.e_2.txt}
+\end{expl}
+
+\restoregeometry
+
+\chapter{Classification and methods of competition}
 
 \begin{enumerate}
 
