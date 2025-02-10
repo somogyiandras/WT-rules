@@ -1,8 +1,9 @@
-The Extraordinary Sanctions Committee shall deliberate the matter and
-determine if disciplinary actions are to be imposed. The result of
-deliberation shall be immediately announced to the public. If there is a
-finding of violation, a written decision, including the relevant facts,
-rules, supporting evidence (such as witness statements), the sanction
-imposed, and rationale, shall be given to the sanctioned party as soon
-as reasonably practicable, and a copy shall be included in the Technical
-Delegate's report.
+A Rendkívüli Fegyelmi Bizottság megtárgyalja az ügyet és
+eldönti, hogy szükséges-e fegyelmi büntetést kiszabni. A tárgyalás
+eredményét haladéktalanul nyilvánosságra kell hozni. Amennyiben
+megállapításra kerül a szabálysértés, a döntést írott formában a 
+vétkes félnek át kell adni, amint az ésszerűen kivitelezhető. A 
+döntésnek tartalmaznia kell, a vonatkozó tényeket, szabályokat,
+az alátámasztó bizonyítékokat (például a tanúk nyilatkozatát), a
+kiszabott büntetést és az indoklást. A döntés másolatát csatolni
+kell a Technikai Delegált jelentéséhez.
