@@ -1,5 +1,5 @@
-Ban from the competition venue
+A rendezvény helyszínéről történő kitiltás
 
-  i) Ban for the day
+  i) Kitiltás az adott napról
 
-  ii) Ban for the duration of the Championships.
+  ii) Kitiltás a verseny teljes időtartamáról
