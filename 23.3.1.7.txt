@@ -1,1 +1,1 @@
-Manipulation of scoring equipment, sensors or/and any part of a PSS
+A pontozó felszerelés, a szenzorok és/vagy a PSS bármely részének manipulálása.
