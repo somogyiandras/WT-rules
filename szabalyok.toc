@@ -1,25 +1,25 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
-\contentsline {chapter}{\numberline {1}Cél}{3}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Alkalmazás}{4}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Competition Area}{5}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Contestant}{12}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Súlycsoportok}{16}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Classification and methods of competition}{19}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Duration of Contest}{21}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Drawing of Lots}{22}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Weigh-in}{23}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Procedure of the Contest}{25}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Permitted techniques and areas}{27}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Valid Points}{28}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Scoring and publication}{30}{chapter.13}%
-\contentsline {chapter}{\numberline {14}Prohibited acts and Penalties}{31}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Golden Points and Decision of Superiority}{35}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Decisions}{37}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Knock Down}{39}{chapter.17}%
-\contentsline {chapter}{\numberline {18}Procedure in the event of a Knock Down}{40}{chapter.18}%
-\contentsline {chapter}{\numberline {19}Procedures of suspending the match}{43}{chapter.19}%
-\contentsline {chapter}{\numberline {20}Technical Officials}{46}{chapter.20}%
-\contentsline {chapter}{\numberline {21}Instant Video Replay}{49}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Deaf-Taekwondo}{52}{chapter.22}%
-\contentsline {chapter}{\numberline {23}Sanctions}{53}{chapter.23}%
-\contentsline {chapter}{\numberline {24}Other matters not specified in Competition Rules}{55}{chapter.24}%
+\contentsline {chapter}{\numberline {1}Cél}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Alkalmazás}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Versenyterület}{4}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Versenyző}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Súlycsoportok}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Versenyek fajtái}{18}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Mérkőzések időtartama}{20}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Sorsolás}{21}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Mérlegelés}{22}{chapter.9}%
+\contentsline {chapter}{\numberline {10}A mérkőzés lebonyolítása}{24}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Engedélyezett technikák és érvényes támadási felületek}{26}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Érvényes pontok}{27}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Pontozás és a pontok közzététele}{29}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Tiltott akciók és büntetések}{30}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Aranypont és a „Superiority” eldöntése}{34}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Döntések}{36}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Leütés}{38}{chapter.17}%
+\contentsline {chapter}{\numberline {18}A leütés esetén alkalmazandó eljárás}{39}{chapter.18}%
+\contentsline {chapter}{\numberline {19}A mérkőzés felfüggesztésének eljárása}{42}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Tisztségviselők}{45}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Videó visszajátszás}{48}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Siket-Taekwondo}{51}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Szankciók}{52}{chapter.23}%
+\contentsline {chapter}{\numberline {24}A versenyszabályzat által nem kezelt kérdések}{54}{chapter.24}%

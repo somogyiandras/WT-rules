@@ -53,7 +53,7 @@
   {\normalfont\sffamily\Large\color{white}}
   {}
   {0.5ex}
-  {\colorbox{Navy}{\makebox[4em][l]{\thechapter. cikkely} \makebox[\textwidth - 5em][l]{#1} }}  
+  {\colorbox{Navy}{\makebox[5em][l]{\thechapter. cikkely} \makebox[\textwidth - 5em][l]{#1} }}  
   %{\colorbox{RoyalBlue}{%
   %  \begin{tabular}{ p{11em} p{\textwidth - 10em} }
   %    Article \thechapter & #1 \\
@@ -108,7 +108,16 @@
 
 \maketitle
 
+\etocsettocstyle
+  {\Huge\begin{center}
+      Tartalomjegyzék
+   \end{center}
+   \normalsize
+  }
+  {}
+
 \tableofcontents
+
 
 \chapter{Cél}
 
@@ -119,14 +128,15 @@
 \end{enumerate}
 
 \begin{expl}
-\section{(Értelmezés)}
+\section*{(Értelmezés)}
 \input{1.i_1.txt}
 \end{expl}
 
 \begin{hunexpl}
-\section{(Hazai alkalmazás)}
+\section*{(Hazai alkalmazás)}
 \input{1.i_2.txt}
 \end{hunexpl}
+
 
 \chapter{Alkalmazás}
 
@@ -140,12 +150,12 @@
 \end{enumerate}
 
 \begin{expl}
-\section{(Magyarázat \#1)}
+\section*{(Magyarázat \#1)}
 \input{2.e_1.txt}
 \end{expl}
 
 
-\chapter{Competition Area}\label{competition-area}
+\chapter{Versenyterület}
 
 \begin{enumerate}
 \item
@@ -190,17 +200,16 @@
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation \#1)}\label{explanation-1}
+\section*{(Magyarázat \#1)}
 \input{3.e_1.txt}
 
-\section*{(Explanation \#2)}\label{explanation-2}
+\section*{(Magyarázat \#2)}
 \input{3.e_2.txt}
 
-\section*{(Explanation \#3)}\label{explanation-3}
+\section*{(Magyarázat \#3)}
 \input{3.e_3.txt}
 \end{expl}
 
-%todo: Ide kell a rajz!
 \includepdf{octogon_on_platform.pdf}
 \includepdf{octogon_on_floor.pdf}
 \includepdf{octogon_on_platform_2_judges.pdf}
@@ -208,7 +217,7 @@
 \includepdf{octogon_mat.pdf}
 
 
-\chapter{Contestant}\label{contestant}
+\chapter{Versenyző}
 
 \begin{enumerate}
 \item
@@ -229,13 +238,13 @@
 \end{enumerate}
 
 \begin{expl}
-\section*{(Interpretation)}\label{interpretation-1}
+\section*{(Értelmezés)}
 \input{4.i_1.txt}
 
-\section*{(Interpretation)}\label{interpretation-2}
+\section*{(Értelmezés)}
 \input{4.i_2.txt}
 
-\section*{(Interpretation)}\label{interpretation-3}
+\section*{(Értelmezés)}
 \input{4.i_3.txt}
 \end{expl}
 
@@ -290,38 +299,39 @@
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation \#1)}\label{explanation-1-1}
+\section*{(Magyarázat \#1)}
 \input{4.i_1.txt}
 
-\section*{(Explanation \#2)}\label{explanation-2-1}
+\section*{(Magyarázat \#2)}
 \input{4.i_2.txt}
 
-\section*{(Explanation \#3)}\label{explanation-3-1}
+\section*{(Magyarázat \#3)}
 \input{4.e_3.txt}
 
-\section*{(Explanation \#4)}\label{explanation-4}
+\section*{(Magyarázat \#4)}
 \input{4.e_4.txt}
 
-\section*{(Explanation \#5)}\label{explanation-5}
+\section*{(Magyarázat \#5)}
 \input{4.e_5.txt}
 
-\section*{(Explanation \#6)}\label{explanation-6}
+\section*{(Magyarázat \#6)}
 \input{4.e_6.txt}
 
-\section*{(Explanation \#7)}\label{explanation-7}
+\section*{(Magyarázat \#7)}
 \input{4.e_7.txt}
 
-\section*{(Explanation \#8)}\label{explanation-8}
+\section*{(Magyarázat \#8)}
 \input{4.e_8.txt}
 
-\section*{(Explanation \#9)}\label{explanation-9}
+\section*{(Magyarázat \#9)}
 \input{4.e_9.txt}
 
-\section*{(Explanation \#10)}\label{explanation-10}
+\section*{(Magyarázat \#10)}
 \input{4.e_10.txt}
 \end{expl}
 
 \newgeometry{left=1cm}
+
 
 \chapter{Súlycsoportok}
 
@@ -546,16 +556,17 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation \#1)}
+\section*{(Magyarázat \#1)}
 \input{5.e_1.txt}
 
-\section*{(Explanation \#2)}
+\section*{(Magyarázat \#2)}
 \input{5.e_2.txt}
 \end{expl}
 
 \restoregeometry
 
-\chapter{Classification and methods of competition}
+
+\chapter{Versenyek fajtái}
 
 \begin{enumerate}
 
@@ -588,15 +599,15 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \end{enumerate}
 
 \begin{expl}
-\section*{(Interpretation)}\label{interpretation-4}
+\section*{(Értelmezés)}
 \input{6.i_1.txt}
 
-\section*{(Explanation \#1)}\label{explanation-1-2}
+\section*{(Magyarázat \#1)}
 \input{6.e_1.txt}
 \end{expl}
 
 
-\chapter{Duration of Contest}\label{duration-of-contest}
+\chapter{Mérkőzések időtartama}
 
 \begin{enumerate}
 \item
@@ -614,7 +625,8 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \input{7.2.txt}
 \end{enumerate}
 
-\chapter{Drawing of Lots}\label{drawing-of-lots}
+
+\chapter{Sorsolás}
 
 \begin{enumerate}
 \item
@@ -625,7 +637,8 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \input{8.3.txt}
 \end{enumerate}
 
-\chapter{Weigh-in}\label{weigh-in}
+
+\chapter{Mérlegelés}
 
 \begin{enumerate}
 \item
@@ -655,22 +668,21 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}\label{explantion1}
+\section*{(Magyarázat \#1)}
 \input{9.e_1.txt}
 
-\section*{(Explanation \#2)}\label{explanation-2-2}
+\section*{(Magyarázat \#2)}
 \input{9.e_2.txt}
 
-\section*{(Explanation \#3)}\label{explanation-3-2}
+\section*{(Magyarázat \#3)}
 \input{9.e_3.txt}
 
-\section*{(Explanation \#4)}\label{explanation-4-1}
+\section*{(Magyarázat \#4)}
 \input{9.e_4.txt}
 \end{expl}
 
 
-\chapter{Procedure of the Contest}\label{procedure-of-the-contest}
-
+\chapter{A mérkőzés lebonyolítása}
 
 \begin{enumerate}
 \item
@@ -726,15 +738,15 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{10.e_1.txt}
 
-\section*{(Guideline for officiating)}
+\section*{(Irányelv)}
 \input{10.e_2.txt}
 \end{expl}
 
 
-\chapter{Permitted techniques and areas}\label{permitted-techniques-and-areas}
+\chapter{Engedélyezett technikák és érvényes támadási felületek}
 
 \begin{enumerate}
 \item
@@ -757,7 +769,7 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \end{enumerate}
 
 
-\chapter{Valid Points}\label{valid-points}
+\chapter{Érvényes pontok}
 
 \begin{enumerate}
 \item
@@ -811,13 +823,13 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{12.e_1.txt}
 
 \end{expl}
 
 
-\chapter{Scoring and publication}\label{scoring-and-publication}
+\chapter{Pontozás és a pontok közzététele}
 
 \begin{enumerate}
 \item
@@ -833,7 +845,7 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 \end{enumerate}
 
 
-\chapter{Prohibited acts and Penalties}\label{prohibited-acts-and-penalties}
+\chapter{Tiltott akciók és büntetések}
 
 \begin{enumerate}
 \item
@@ -894,11 +906,11 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
 
 \begin{expl}
 
-\section*{(Interpretation)}
+\section*{(Értelmezés)}
 \input{14.e_1.txt}
 
 
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 %\input{14.e_2.txt}
 %todo: vagy ezt a részt én fordítom le, vagy később visszatérek, és filokba teszem a tartalmat
 
@@ -1060,7 +1072,7 @@ the round conclusion.
 \end{expl}
 
 
-\chapter{Golden Points and Decision of Superiority}\label{golden-points-and-decision-of-superiority}
+\chapter{Aranypont és a „Superiority” eldöntése}
 
 \begin{enumerate}
 \item
@@ -1099,18 +1111,18 @@ the round conclusion.
 
 \begin{expl}
 
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{15.e_1.txt}
-\section*{(Explanation\#2)}
+\section*{(Magyarázat \#2)}
 \input{15.e_2.txt}
-\section*{(Guideline for officiating)}
+\section*{(Irányelv)}
 \input{15.e_3.txt}
-\section*{(Guideline for officiating for the best of three (3) system)}
+\section*{(Irányelv for the best of three (3) system)}
 \input{15.e_4.txt}
 \end{expl}
 
 
-\chapter{Decisions}\label{decisions}
+\chapter{Döntések}
 
 \begin{enumerate}
 \item
@@ -1134,25 +1146,25 @@ the round conclusion.
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{16.e_1.txt}
-\section*{(Explanation\#2)}
+\section*{(Magyarázat \#2)}
 \input{16.e_2.txt}
-\section*{(Explanation\#3)}
+\section*{(Magyarázat \#3)}
 \input{16.e_3.txt}
-\section*{(Explanation\#4)}
+\section*{(Magyarázat \#4)}
 \input{16.e_4.txt}
-\section*{(Explanation\#5)}
+\section*{(Magyarázat \#5)}
 \input{16.e_5.txt}
-\section*{(Explanation\#6)}
+\section*{(Magyarázat \#6)}
 \input{16.e_6.txt}
-\section*{(Explanation\#7)}
+\section*{(Magyarázat \#7)}
 \input{16.e_7.txt}
 \end{expl}
 
-\chapter{Knock Down}\label{knock-down}
+\chapter{Leütés}
 
-A Knock Down shall be declared, when a legitimate attack is delivered and;
+Leütésnek nevezzük, amikor egy versenyző szabályos technikáját követően az ellenfél
 
 \begin{enumerate}
 \item
@@ -1164,12 +1176,12 @@ A Knock Down shall be declared, when a legitimate attack is delivered and;
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{17.e_1.txt}
 \end{expl}
 
 
-\chapter{Procedure in the event of a Knock Down}\label{knock-down-proc}
+\chapter{A leütés esetén alkalmazandó eljárás}
 
 \begin{enumerate}
 \item
@@ -1211,24 +1223,24 @@ A Knock Down shall be declared, when a legitimate attack is delivered and;
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{18.e_1.txt}
-\section*{(Guideline for officiating)}
+\section*{(Irányelv)}
 \input{10.e_2.txt}
-\section*{(Explanation\#2)}
+\section*{(Magyarázat \#2)}
 \input{18.e_3.txt}
-\section*{(Explanation\#3)}
+\section*{(Magyarázat \#3)}
 \input{18.e_4.txt}
-\section*{(Explanation\#4)}
+\section*{(Magyarázat \#4)}
 \input{18.e_5.txt}
-\section*{(Explanation\#5)}
+\section*{(Magyarázat \#5)}
 \input{18.e_6.txt}
-\section*{(Guideline for officiating)}
+\section*{(Irányelv)}
 \input{18.e_7.txt}
 \end{expl}
 
 
-\chapter{Procedures of suspending the match}\label{suspend}
+\chapter{A mérkőzés felfüggesztésének eljárása}
 
 \begin{enumerate}
 \item
@@ -1266,14 +1278,14 @@ A Knock Down shall be declared, when a legitimate attack is delivered and;
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{19.e_1.txt}
-\section*{(Explanation\#2)}
+\section*{(Magyarázat \#2)}
 \input{19.e_2.txt}
 \end{expl}
 
 
-\chapter{Technical Officials}\label{officials}
+\chapter{Tisztségviselők}
 
 \begin{enumerate}
 \item
@@ -1373,19 +1385,18 @@ A Knock Down shall be declared, when a legitimate attack is delivered and;
 \end{enumerate}
 
 \begin{expl}
-\section*{(Explanation\#1)}
+\section*{(Magyarázat \#1)}
 \input{20.e_1.txt}
-\section*{(Interpretation)}
+\section*{(Értelmezés)}
 \input{20.e_2.txt}
-\section*{(Interpretation)}
+\section*{(Értelmezés)}
 \input{20.e_3.txt}
-\section*{(Guideline for officiating)}
+\section*{(Irányelv)}
 \input{20.e_4.txt}
 \end{expl}
 
 
-\chapter{Instant Video Replay}\label{ivr}
-
+\chapter{Videó visszajátszás}
 
 \begin{enumerate}
 \item
@@ -1477,7 +1488,7 @@ A Knock Down shall be declared, when a legitimate attack is delivered and;
 \end{enumerate}
 
 
-\chapter{Deaf-Taekwondo}\label{deaf-taekwondo}
+\chapter{Siket-Taekwondo}
 
 \input{22.txt}
 
@@ -1491,8 +1502,7 @@ A Knock Down shall be declared, when a legitimate attack is delivered and;
 \end{enumerate}
 
 
-\chapter{Sanctions}\label{sanctions}
-
+\chapter{Szankciók}
 
 \begin{enumerate}
 \item
@@ -1566,7 +1576,7 @@ A Knock Down shall be declared, when a legitimate attack is delivered and;
 \end{enumerate}
 
 
-\chapter{Other matters not specified in Competition Rules}\label{other}
+\chapter{A versenyszabályzat által nem kezelt kérdések} 
 
 \begin{enumerate}
 \item
