@@ -52,7 +52,7 @@
   {\normalfont\sffamily\Large\color{white}}
   {}
   {0.5ex}
-  {\colorbox{Navy}{\makebox[4em][l]{Article \thechapter} \makebox[\textwidth - 5em][l]{#1} }}  
+  {\colorbox{Navy}{\makebox[4em][l]{\thechapter. cikkely} \makebox[\textwidth - 5em][l]{#1} }}  
   %{\colorbox{RoyalBlue}{%
   %  \begin{tabular}{ p{11em} p{\textwidth - 10em} }
   %    Article \thechapter & #1 \\
@@ -84,6 +84,9 @@
   {\rule{\textwidth}{.2pt}\footnotesize}%
   {\rule{\textwidth}{.2pt}\normalsize}
 
+\newenvironment{hunexpl}[0]%
+  {\footnotesize\itshape}%
+  {\normalsize}
 
 
 \usepackage{bookmark}
@@ -99,7 +102,7 @@
 
 \begin{document}
 
-\chapter{Purpose}
+\chapter{Cél}
 
 \begin{enumerate}
 \tightlist
@@ -108,9 +111,14 @@
 \end{enumerate}
 
 \begin{expl}
-\section{(Interpretation)}\label{interpretation}
+\section{(Értelmezés)}
 \input{1.i_1.txt}
 \end{expl}
+
+\begin{hunexpl}
+\section{(Hazai alkalmazás)}
+\input{1.i_2.txt}
+\end{hunexpl}
 
 \chapter{Application}\label{application}
 
