@@ -1,9 +1,5 @@
-  The Competition Rules shall apply to all the competitions to be
-  promoted and/or recognized by the WT, each CU and MNA. However, any
-  MNA wishing to modify some or any part of the Competition Rules must
-  first gain the prior approval of the WT. In the case that a CU and/or
-  a MNA violates the Competition Rules without prior approval of the WT,
-  the WT may exercise its discretion to disapprove or revoke its
-  approval of the concerned international tournament. In addition, the
-  WT may take further disciplinary actions to the pertinent CU or MNA.
-
+A versenyszabályzatot minden olyan versenyen alkalmazni kell, amely a WT vagy bármely tagszövetség
+által kerül megrendezésre. A WT előzetes engedélye szükséges minden olyan esetben, amikor egy nemzeti szövetség
+el kíván térni a versenyszabályzat bármely részétől. Abban az esetben, ha egy tagszövetség eltér a versenyszabályzattól
+a WT előzetes engedélye nélkül, a WT belátása szerint visszavonhatja beleegyezését a nemzetközi verseny megrendezésétől.
+Ezen túlmenően a WT további fegyelmi intézkedéseket hozhat a tagszövetség ellen.
