@@ -1,0 +1,37 @@
+\begin{expllist}
+\item
+A versenykiírás nem csak évszám, hanem pontos születési idő alapján is kiírásra
+kerülhet. Az a versenyző, aki a versenykiírás alapján kadet és junior
+korcsoportban is indulhat, választás szerint nevezhet, de egy versenyen
+csak egy korcsoportban versenyezhet.
+
+\item
+Orvosi vizsgálaton átesett személy: aki sportorvos által kiállított
+„Versenyezhet” pecséttel rendelkezik. Ez gyermekek esetén nem lehet régebbi fél
+évnél, 	felnőttek esetén pedig egy évnél. (Nem alkalmas a háziorvos által írt
+igazolás, illetve az 	„Alkalmas” pecsét a sportorvostól.)
+
+\item
+A versenyzőknek rendelkeznie kell a Magyar WTF Taekwondo Szövetség által
+kibocsátott 	érvényes tagsági könyvvel, sportorvosi igazolással („Alkalmas”
+pecséttel), biztosítással, 	fiatalkorú esetén szülői beleegyezési
+nyilatkozattal.
+
+\item
+A versenyzőknek nem kell rendelkezniük GAL liszensszel, dan illetve poom
+fokozattal, de 	legalább egyszer már sikeres övvizsgát kellett tennie; emellett
+a korhatárok besorolása és a 	versenyző korának meghatározása eltérhet a
+versenykiírás alapján.  A fogvédő színe eltérhet a fehér, illetve átlátszó
+színkötelezettségtől.
+
+\item
+A fejvédő színe eltérhet a kéktől vagy a pirostól, de nem lehet kék versenyzőn
+piros fejvédő , 	illetve piros versenyzőn kék fejvédő.
+
+\item
+Gyermekek esetén, ha nincsen elektronikus rendszer, lábfejvédő használata
+kötelező.
+
+\item
+A felsorolt védők kivételével más védő (térdvédő, könyökvédő) nem használható.
+\end{expllist}

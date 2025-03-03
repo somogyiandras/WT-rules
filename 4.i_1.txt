@@ -1,5 +1,4 @@
-The age limit is based on the year, not on the date. For instance, if
-the Junior Championships are held on June 11, 2013, those contestants
-born on between January 1, 1996 and December 31, 1998 are eligible to
-participate.
-
+A kor meghatározásakor a születés évszámát veszik csak figyelembe, a hónapot és
+napot nem. Például: ha a junior bajnokságot 2012. június 11-én tartják, akkor
+az 1996. január 1. és 1998. december 31.  között született versenyzők
+indulhatnak.

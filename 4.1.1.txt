@@ -1,2 +1,1 @@
-Holder of the nationality of the participating team
-
+A versenyző a résztvevő csapat nemzetének állampolgára.

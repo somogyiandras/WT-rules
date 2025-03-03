@@ -1,5 +1,3 @@
-Color: The color scheme of the mat's surface must avoid giving a harsh
-reflection, or tiring the contestant's or spectator's eyesight. The
-color scheme must also be appropriately matched to the contestant's
-equipment, uniform and the surface of the Contest Area.
-
+Szín:	A szőnyeg színének kiválasztásakor kerülni kell a durva
+visszatükröződést, nem fáraszthatja a nézők vagy a versenyzők látását. A
+színeknek illeszkedniük kell a versenyzők	felszerelésének, dobokjának és a Küzdőterület színeihez.

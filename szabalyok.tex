@@ -14,6 +14,7 @@
 \usepackage[]{fontawesome}
 \usepackage{geometry}
 
+
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \IfFileExists{microtype.sty}{% use microtype if available
@@ -89,6 +90,11 @@
   {\footnotesize\itshape}%
   {\normalsize}
 
+% new list in expl environment
+\newlist{expllist}{enumerate}{3}
+\setlist[expllist,1]{label=\alph*)}
+\setlist[expllist,2]{label=\textbullet)}
+\setlist[expllist,3]{label=\arabic*}
 
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
@@ -186,7 +192,7 @@
   \end{enumerate}
 \item
 \input{3.3.txt}
-  \begin{itemize}
+  \begin{enumerate}
   \tightlist
   \item
   \input{3.3.1.txt}
@@ -196,7 +202,7 @@
   \input{3.3.3.txt}
   \item
   \input{3.3.4.txt}
-  \end{itemize}
+  \end{enumerate}
 \end{enumerate}
 
 \begin{expl}
@@ -237,16 +243,6 @@
   \end{enumerate}
 \end{enumerate}
 
-\begin{expl}
-\section*{(Értelmezés)}
-\input{4.i_1.txt}
-
-\section*{(Értelmezés)}
-\input{4.i_2.txt}
-
-\section*{(Értelmezés)}
-\input{4.i_3.txt}
-\end{expl}
 
 \begin{enumerate}[resume*]
 \item
@@ -299,11 +295,20 @@
 \end{enumerate}
 
 \begin{expl}
-\section*{(Magyarázat \#1)}
+\section*{(Értelmezés)}
 \input{4.i_1.txt}
 
-\section*{(Magyarázat \#2)}
+\section*{(Értelmezés)}
 \input{4.i_2.txt}
+
+\section*{(Értelmezés)}
+\input{4.i_3.txt}
+
+\section*{(Magyarázat \#1)}
+\input{4.e_1.txt}
+
+\section*{(Magyarázat \#2)}
+\input{4.e_2.txt}
 
 \section*{(Magyarázat \#3)}
 \input{4.e_3.txt}
@@ -328,6 +333,12 @@
 
 \section*{(Magyarázat \#10)}
 \input{4.e_10.txt}
+
+\begin{hunexpl}
+\section*{(Hazai alkalmazás)}
+\input{4.i_h.txt}
+\end{hunexpl}
+
 \end{expl}
 
 \newgeometry{left=1cm}

@@ -1,6 +1,3 @@
-    Positions of Coaches: The position of the Coaches shall be marked at
-    a point in minimum 2 m or more from the center point of the Outer
-    Line of each contestant's side. Position of the coaches may be
-    altered to accommodate the environment of the venue and requirements
-    from media broadcasting and/or sports presentation.
-
+Az edzők helyzetét mindkét versenyző oldalán ki kell jelölni a külső vonalak
+középpontjától minimum 2 méterre vagy távolabb, amely a helyi adottságoknak és
+a közvetítés szükségleteinek megfelelően módosítható.

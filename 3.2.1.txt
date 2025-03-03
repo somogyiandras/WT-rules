@@ -1,4 +1,1 @@
-    The outer line of the Contest Area shall be called the Boundary
-    Line(s) and the outer line of the Competition Area shall be called
-    the Outer Line(s).
-
+A küzdőterület kerületét határvonalnak, vagy határvonalaknak, a versenyterület kerületét pedig külső vonalnak, vagy külső vonalaknak nevezzük.

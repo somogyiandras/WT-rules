@@ -1,13 +1,3 @@
-    Square-shape
+Négyzet:
 
-    The Competition Area is comprised of a Contest Area and a Safety
-    Area. The square-shape Contest Area shall be 8m x 8m including 60cm
-    boundary line. Surrounding the contest area, approximately
-    equidistant on all sides, shall be the Safety Area. The size of
-    Competition Area (which envelopes the Contest Area and the Safety
-    Area) shall be no smaller than 10m x 10m and no larger than 12m x
-    12m. If the Competition Area is on a platform, the Safety Area can
-    be increased as needed to ensure the safety of contestants. The
-    Contest Area and the Safety Area may be different colors, as
-    specified in the relevant competition's Operational Manual.
-
+A versenyterület küzdőterületből és biztonsági területből áll. A négyzet alakú küzdőterület 8 méter $\times$  8 méter, amely magába foglalja a 60 cm széles határvonalat. A biztonsági terület a küzdőterületet minden oldalán egyforma szélességben veszi körbe. A versenyterület mérete, amely tartalmazza a küzdőterületet és a biztonsági területet, nem kisebb, mint 10 méter  $\times$ 10 méter, és nem  nagyobb, mint 12 méter $\times$  12 méter. Ha a küzdőterület	emelvényen van, a biztonsági terület mérete megnövelhető a versenyzők biztonsága 	érdekében. A küzdőterület és a biztonsági terület eltérő színű, ahogy az a Technikai Kézikönyvben definiálva van.

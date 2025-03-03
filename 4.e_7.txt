@@ -1,23 +1,29 @@
-Any athlete who fails to wear appropriate safety protection gear and
-equipment or remove potentially harmful material from their body at the
-inspection as below (1) \textasciitilde{} (3) shall not be allow to
-participate in the competition. (Refer to WT Mouthguard, Taping, Brace,
-piercing rules and WT Medical Code Appendix III for detailed
-information.)
+Bármely versenyző, aki az ellenőrzéskor nem megfelelő védőfelszerelést visel,
+vagy megtagadja eltávolítani magáról a potenciálisan veszélyeztető kiegészítőt
+a lent \ref{start}—\ref{end} pontokban felsoroltak szerint, az nem vehet részt a
+versenyen.
 
-(1) Any athlete whose protection gear (such as head, body, groin, hand,
-  foot protector and mouthguard) has either inadequate body part
-  coverage by the gear, inappropriate size, or significant defect of
-  shape (or material).
+(Részletekért lásd a WT fogvédő, taping, fogszabályzó, piercing szabályzatát és a WT orvosi kódex III. mellékletét.)
 
-(2) Any athlete who does not have proper mouthguard per WT mouthguard
-  rules at the inspection and does not have proper mouthguard at any
-  time during the match, or fail to wear proper mouthguard despite of
-  receiving a warning by an inspection referee, center referee or WT
-  commissioned doctor.
+\begin{expllist}
+\item 
+A védőfelszerelés (fejvédő, testprotektor, lágyékvédő, alkar és lábvédő és
+fogvédő) nem fedi a védendő testrészt kellően, vagy nem megfelelő méretű,
+vagy anyagában, alakjában jelentősen tökéletlen.
+\label{start}
 
-(3) Any athlete who has piercing, earing or any hard material in the face
-  or any body part at the inspection or during the match despite of
-  receiving a warning by an inspection referee, center referee or WT
-  commissioned doctor.
+\item
+A versenyző az ellenőrzéskor, vagy a mérkőzés bármely pillanatában nem
+rendelkezik megfelelő fogvédővel, illetve az ellenőrző bíró, a
+vezetőbíró, vagy a versenyorvos felhívására sem hajlandó a WT fogvédőre
+vonatkozó szabályainak megfelelő fogvédőt viselni.
 
+\item
+Nem lehet az ellenőrzéskor, vagy a mérkőzés alatt viselni semmilyen
+piercinget, fülbevalót, vagy bármilyen kemény anyagú tárgyat az
+arcon, vagy bármely testrészen, illetve az ellenőrző bíró, a
+vezetőbíró, vagy a versenyorvos felhívására sem hajlandó a tárgyat
+eltávolítani.
+\label{end}
+
+\end{expllist}

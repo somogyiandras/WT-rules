@@ -1,6 +1,1 @@
-    Positions of Referee and Contestants at the beginning and end of the
-    Match: The position of the Contestants shall be at the two opposing
-    points, 1m from the center point of the Contest Area parallel to
-    Outer Line \#1. The Referee shall be positioned at a point 1.5m from
-    the center of the Contest Area toward the Outer Line \#3.
-
+A vezetőbíró (VB) és a versenyzők (kék és piros pontok) helyzete a mérkőzés megkezdésekor és a mérkőzés befejezésekor: a versenyzők a küzdőtér középpontjától egy-egy méterre az 1. számú külső vonallal párhuzamosan állnak egymással szemben. A vezetőbíró a küzdőterület középpontjától 1.5 méterre a 3. számú külső vonal irányában helyezkedik el.

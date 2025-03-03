@@ -1,2 +1,1 @@
-  Indication of positions
-
+A pozíciók megjelölése, megnevezések meghatározása

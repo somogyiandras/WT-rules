@@ -1,21 +1,27 @@
-Holder of the nationality of the participating team: When a contestant
-is a representative of a national team, his/her nationality is decided
-by citizenship of the country he/she is representing before submission
-of the application to participate. Verification of citizenship is done
-by inspection of the passport.\\
-A competitor who is a national of two or more countries at the same time
-may represent either one of them, as he/she may elect. However, in case
-of changing nationality, he/she is allowed to represent other country
-only if thirty-six (36) months have passed since competitor represented
-a country in such events:
+A versenyző nemzetiségének meghatározása: a nemzeti csapat képviseletében
+induló versenyző állampolgárságát a nevezés leadása előtti állampolgársága
+alapján kell meghatározni az útlevél vizsgálat módszerével. Az a versenyző, aki
+egy időben két vagy több államnak is állampolgára, az általa választott
+országot képviselheti.
 
-  i)    Olympic Games
-  ii)   Qualification Tournaments for Olympic Games
-  iii)  4 year cycle continental multi sports games
-  iv)   2 year cycle continental championships
-  V)    World Championships promoted by the WT
+Abban az esetben, amikor a versenyző állampolgárságot vált, másik országot csak
+36 hónap elteltével képviselhet amennyiben egy országot az alábbi esemény
+egyikében már képviselt:
 
-This period may be reduced or even cancelled, with the agreement of the
-NOCs and the WT. The WT may take disciplinary actions at any time
-against the athlete and his/hers MNA that violates this article
-including but not limited to deprival of the achievements.
+\begin{expllist}
+\item
+Olimpiai Játékok
+\item
+Olimpiai Kvalifikációs Versenyek
+\item
+4 évenként megrendezett kontinentális több sportágat magába foglaló játékok
+\item
+2 évenként megrendezett kontinentális bajnokságok
+\item
+WT által kiírt Világbajnokság
+\end{expllist}
+
+Ez az időtartam lerövidíthető vagy elhagyható a NOC (National Olympic Comittee
+– Nemzeti Olimpiai Bizottság) vagy a WT beleegyezésével. A WT bármikor hozhat
+fegyelmi intézkedést azon sportolók vagy szövetségeik ellen, akik ezt a pontot
+megsértik, a teljesség igénye nélkül ideértve az eredmények visszavonását is.

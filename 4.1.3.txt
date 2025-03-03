@@ -1,2 +1,1 @@
-Holder of Taekwondo Dan/Poom certificate issued by the Kukkiwon
-
+A versenyző a Kukkiwon által kibocsátott dan vagy poom fokozattal rendelkezik.

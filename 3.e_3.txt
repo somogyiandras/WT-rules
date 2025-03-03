@@ -1,5 +1,4 @@
-Inspection Desk: At the Inspection desk, the inspector checks if all the
-materials worn by the contestant are approved by the WT and fit the
-contestant properly. In case they are found to be inappropriate, the
-contestant is requested to change the protective equipment.
+Ellenőrzőasztal: itt ellenőrzik a versenyzők felszerelésének megfelelőségét
+(WT által elfogadott, megfelelően rögzített).  Ha a felszerelés nem megfelelő,
+azt a versenyzőnek ki kell cserélnie.
 

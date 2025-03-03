@@ -1,13 +1,3 @@
-    Octagonal-shape
+Oktogon:
 
-    The Competition Area is comprised of a Contest Area and a Safety
-    Area. The Competition Area shall be square shaped and the size shall
-    be no smaller than 10mx10m and no larger than 12mx12m. At the center
-    of the Competition Areas shall be the octagonal-shape Contest Area.
-    The Contest Areas shall measure approximately 8m in diameter, and
-    each side of the octagon shall have a length of approximately 3.3m.
-    Between the outer line of the Competition area and the boundary line
-    of the Contest area is the Safety Area. The Contest Area and the
-    Safety Area may be different colors, as specified in the relevant
-    competition's Operational Manual.
-
+A versenyterület küzdőterületből és biztonsági területből áll. A versenyterület	mérete, amely tartalmazza a küzdőterületet és a biztonsági területet, nem kisebb, mint 10 méter $\times$ 10 méter, és nem  nagyobb, mint 12 méter $\times$ 12 méter. A versenyterület közepén nyolcszög alakú küzdőterület van. A küzdőterület átmérője körülbelül 8 méter, és a nyolcszög minden oldala körülbelül 3.3 méter hosszú. A külső vonal (a versenyterület széle) és a határvonal között helyezkedik el a biztonsági terület. A küzdőterület és a biztonsági terület eltérő színű, ahogy az a Technikai Kézikönyvben definiálva van.

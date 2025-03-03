@@ -1,3 +1,1 @@
-    The temperature of the competition venue shall be maintained between
-    17°C and 24°C.
-
+A verseny helyszínén a hőmérsékletet 17 és 24 °C között kell szabályozni.

@@ -1,3 +1,1 @@
-    The illuminance at the training venue shall range between 750 and
-    900 lux.
-
+A bemelegítő zóna helyszínének megvilágítása 750 és 900 lux között kell lennie.
