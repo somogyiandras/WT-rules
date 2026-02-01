@@ -1,3 +1,2 @@
-  Specifications of dobok or competition uniform, protective
-  equipment, and all other equipment shall be set forth separately.
-
+A versenyzők egyenruhájának, védőfelszerelésének és minden más
+felszerelésnek a specifikációját külön kell meghatározni.

@@ -76,9 +76,12 @@
 \renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}}
 
 \setlist[enumerate,1]{leftmargin=3ex, rightmargin=0pt, topsep=0pt,%
-                       labelsep=1ex, listparindent=0pt, itemsep=1ex}
-\setlist[enumerate,2]{leftmargin=4ex, rightmargin=0pt, labelsep=1ex, labelwidth=0em}
-\setlist[enumerate,3]{leftmargin=6ex, rightmargin=0pt, labelsep=1ex, labelwidth=0em}
+    labelsep=1ex, listparindent=0pt, itemsep=1ex,
+    ref=\arabic{enumi}}
+\setlist[enumerate,2]{leftmargin=4ex, rightmargin=0pt, labelsep=1ex,labelwidth=0em,
+    ref=\arabic{enumi}.\arabic{enumii}}
+\setlist[enumerate,3]{leftmargin=6ex, rightmargin=0pt, labelsep=1ex, labelwidth=0em,
+    ref=\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
 % \setlength{\listparindent=0pt},
 
 % environment for the explanations
@@ -171,6 +174,8 @@
   \input{3.1.1.txt}
   \item
   \input{3.1.2.txt}
+  \item
+  \input{3.1.3.txt}
   \end{enumerate}
 \item
 \input{3.2.txt}
@@ -351,29 +356,53 @@
 \item
 \input{5.1.txt}
 
-\begin{center}
-\begin{tabular}{ |l|l|l|l| }
- \hline
- \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
- \hline
- $-$54 kg & Nem haladja meg a 54 kg-ot & $-$46 kg & Nem haladja meg a 46 kg-ot \\
- \hline
- $-$58 kg & 54 kg felett és nem haladja meg a 58 kg-ot & $-$49 kg & 46 kg felett és nem haladja meg a 49 kg-ot \\
- \hline
- $-$63 kg & 58 kg felett és nem haladja meg a 63 kg-ot & $-$53 kg & 49 kg felett és nem haladja meg a 53 kg-ot \\
- \hline
- $-$68 kg & 63 kg felett és nem haladja meg a 68 kg-ot & $-$57 kg & 53 kg felett és nem haladja meg a 57 kg-ot \\
- \hline
- $-$74 kg & 68 kg felett és nem haladja meg a 74 kg-ot & $-$62 kg & 57 kg felett és nem haladja meg a 62 kg-ot \\
- \hline
- $-$80 kg & 74 kg felett és nem haladja meg a 80 kg-ot & $-$67 kg & 62 kg felett és nem haladja meg a 67 kg-ot \\
- \hline
- $-$87 kg & 80 kg felett és nem haladja meg a 87 kg-ot & $-$73 kg & 67 kg felett és nem haladja meg a 73 kg-ot \\
- \hline
- +87 kg & 54 kg felett és nem haladja meg a 58 kg-ot & +73 kg & 73 kg felett \\
- \hline
-\end{tabular}
-\end{center}
+  \begin{enumerate}
+  \item 8 férfi és női súlycsoport
+    \begin{center}
+    \begin{tabular}{ |l|l|l|l| }
+     \hline
+     \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
+     \hline
+     $-$54 kg & Nem haladja meg a 54 kg-ot & $-$46 kg & Nem haladja meg a 46 kg-ot \\
+     \hline
+     $-$58 kg & 54 kg felett és nem haladja meg a 58 kg-ot & $-$49 kg & 46 kg felett és nem haladja meg a 49 kg-ot \\
+     \hline
+     $-$63 kg & 58 kg felett és nem haladja meg a 63 kg-ot & $-$53 kg & 49 kg felett és nem haladja meg az 53 kg-ot \\
+     \hline
+     $-$68 kg & 63 kg felett és nem haladja meg a 68 kg-ot & $-$57 kg & 53 kg felett és nem haladja meg az 57 kg-ot \\
+     \hline
+     $-$74 kg & 68 kg felett és nem haladja meg a 74 kg-ot & $-$62 kg & 57 kg felett és nem haladja meg a 62 kg-ot \\
+     \hline
+     $-$80 kg & 74 kg felett és nem haladja meg a 80 kg-ot & $-$67 kg & 62 kg felett és nem haladja meg a 67 kg-ot \\
+     \hline
+     $-$87 kg & 80 kg felett és nem haladja meg a 87 kg-ot & $-$73 kg & 67 kg felett és nem haladja meg a 73 kg-ot \\
+     \hline
+     +87 kg & 87 kg felett & +73 kg & 73 kg felett \\
+     \hline
+    \end{tabular}
+    \end{center}
+    
+  \item 6 férfi és női súlycsoport
+    \begin{center}
+    \begin{tabular}{ |l|l|l|l| }
+     \hline
+     \multicolumn{2}{|l|}{Férfiak} & \multicolumn{2}{l|}{Nők} \\
+     \hline
+     $-$54 kg & Nem haladja meg a 54 kg-ot & $-$46 kg & Nem haladja meg a 46 kg-ot \\
+     \hline
+     $-$60 kg & 54 kg felett és nem haladja meg a 60 kg-ot & $-$51 kg & 46 kg felett és nem haladja meg az 51 kg-ot \\
+     \hline
+     $-$67 kg & 60 kg felett és nem haladja meg a 67 kg-ot & $-$57 kg & 51 kg felett és nem haladja meg a 57 kg-ot \\
+     \hline
+     $-$74 kg & 67 kg felett és nem haladja meg a 74 kg-ot & $-$63 kg & 57 kg felett és nem haladja meg a 63 kg-ot \\
+     \hline
+     $-$82 kg & 74 kg felett és nem haladja meg a 82 kg-ot & $-$70 kg & 63 kg felett és nem haladja meg a 70 kg-ot \\
+     \hline
+     +82 kg & 82 kg felett & +70 kg & 70 kg felett \\
+     \hline
+    \end{tabular}
+    \end{center}
+  \end{enumerate}
 
 \item
 \input{5.2.txt}
@@ -816,8 +845,6 @@ Versenyzők maximális száma & 2 & 2 & 4 & 3 & 4 & 3 & 4 (Maximum 2 férfi és 
     \input{12.3.4.txt}
     \item
     \input{12.3.5.txt}
-    \item
-    \input{12.3.6.txt}
     \end{enumerate}
 \item
 \input{12.4.txt}
@@ -1437,7 +1464,7 @@ Leütésnek nevezzük, amikor egy versenyző szabályos technikáját követően
     \begin{enumerate}
     \item
     \input{21.3.1.txt}
-    \item
+    \item \label{VR:CR}
     \input{21.3.2.txt}
     \item
     \input{21.3.3.txt}

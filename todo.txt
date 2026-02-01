@@ -1,0 +1,12 @@
+permitted szó inkább legyen érvényes, mint engedélyezett
+
+rövidítések
+VR vagy IVR, vagy videó zsűri
+PSS vagy pontozó rendszer
+best-of-three talán három fordulós, vagy háromból több
+
+a pontok, érvényes találat, stb. fogalmakat egyértelműsíteni kell, pl.
+a regisztrált pont: amit a PSS regisztrál
+érvényes pont, amikor érvényes találat van és regisztrál is, stb.
+
+

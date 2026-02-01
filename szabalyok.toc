@@ -4,22 +4,22 @@
 \contentsline {chapter}{\numberline {3}Versenyterület}{4}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Versenyző}{11}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Súlycsoportok}{16}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Versenyek fajtái}{19}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Mérkőzések időtartama}{21}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Sorsolás}{22}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Mérlegelés}{23}{chapter.9}%
-\contentsline {chapter}{\numberline {10}A mérkőzés lebonyolítása}{25}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Engedélyezett technikák és érvényes támadási felületek}{27}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Érvényes pontok}{28}{chapter.12}%
-\contentsline {chapter}{\numberline {13}Pontozás és a pontok közzététele}{30}{chapter.13}%
-\contentsline {chapter}{\numberline {14}Tiltott akciók és büntetések}{31}{chapter.14}%
-\contentsline {chapter}{\numberline {15}Aranypont és a „Superiority” eldöntése}{35}{chapter.15}%
-\contentsline {chapter}{\numberline {16}Döntések}{37}{chapter.16}%
-\contentsline {chapter}{\numberline {17}Leütés}{39}{chapter.17}%
-\contentsline {chapter}{\numberline {18}A leütés esetén alkalmazandó eljárás}{40}{chapter.18}%
-\contentsline {chapter}{\numberline {19}A mérkőzés felfüggesztésének eljárása}{43}{chapter.19}%
-\contentsline {chapter}{\numberline {20}Tisztségviselők}{46}{chapter.20}%
-\contentsline {chapter}{\numberline {21}Videó visszajátszás}{49}{chapter.21}%
-\contentsline {chapter}{\numberline {22}Siket-Taekwondo}{52}{chapter.22}%
-\contentsline {chapter}{\numberline {23}Szankciók}{53}{chapter.23}%
-\contentsline {chapter}{\numberline {24}A versenyszabályzat által nem kezelt kérdések}{55}{chapter.24}%
+\contentsline {chapter}{\numberline {6}Versenyek fajtái}{20}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Mérkőzések időtartama}{22}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Sorsolás}{23}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Mérlegelés}{24}{chapter.9}%
+\contentsline {chapter}{\numberline {10}A mérkőzés lebonyolítása}{26}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Engedélyezett technikák és érvényes támadási felületek}{28}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Érvényes pontok}{29}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Pontozás és a pontok közzététele}{31}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Tiltott akciók és büntetések}{32}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Aranypont és a „Superiority” eldöntése}{36}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Döntések}{38}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Leütés}{40}{chapter.17}%
+\contentsline {chapter}{\numberline {18}A leütés esetén alkalmazandó eljárás}{41}{chapter.18}%
+\contentsline {chapter}{\numberline {19}A mérkőzés felfüggesztésének eljárása}{44}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Tisztségviselők}{47}{chapter.20}%
+\contentsline {chapter}{\numberline {21}Videó visszajátszás}{50}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Siket-Taekwondo}{53}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Szankciók}{54}{chapter.23}%
+\contentsline {chapter}{\numberline {24}A versenyszabályzat által nem kezelt kérdések}{56}{chapter.24}%

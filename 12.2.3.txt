@@ -1,5 +1,9 @@
-The determination of the validity of the technique, level of impact,
-and/or valid contact to the scoring area shall be made by the electronic
-scoring system except fist techniques. These PSS determinations shall
-not be subject to Instant Video Replay except for head kicks.
+Az ütések kivételével a technika megfelelőségét, az érintkezés erejét és
+a pontot érő felületekkel való megfelelő érintkezést (röviden a pontot
+érő találatot) az elektronikus pontozó rendszer (Protector \& Scoring
+System, PSS) határozza meg. A PSS által meghatározott találat
+vonatkozásában nem kérhető Azonnali Videó Visszajátszás (VR).
 
+Abban az esetben, amikor rúgás lett kivitelezve az ellenfél fejére, és
+a PSS nem rögzített pontot érő találatot, a Vezető Bíró kérhet VR-t a
+21. cikkely \ref{VR:CR} alpontja szerint.

@@ -1,2 +1,1 @@
-Trunk: The blue or red colored area of the trunk protector
-
+Testen: A védőfelszerelés kék, vagy piros területe.

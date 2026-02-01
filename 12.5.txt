@@ -1,3 +1,2 @@
-Invalidation of point(s): When a contestant records points following
-prohibited act(s):
-
+Pont(ok) eltörlése: Amikor tiltott cselekmény okán pont(ok)
+regisztrálása történik:

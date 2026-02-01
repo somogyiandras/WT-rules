@@ -1,3 +1,2 @@
-Point(s) shall be awarded when a permitted technique is delivered to
-the scoring areas of the head.
-
+Ponto(kat)t kell adni, ha az engedélyezett technika a
+fej pontot érő felületeit megfelelő erővel éri.

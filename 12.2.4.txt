@@ -1,6 +1,5 @@
-The WT Technical Committee shall determine the required level of
-impact and sensitivity of the PSS, using different scales in
-consideration of weight category, gender, and age groups. In certain
-circumstances as deemed necessary the Technical Delegate may recalibrate
-the valid level of impact.
-
+A WT Technikai Bizottsága a súlycsoportok, a nem és a korcsoportok
+figyelembevételével – azokat eltérő mértékben alkalmazva – határozza meg
+a PSS által meghatározott megfelelő erősség szintjét és érzékenységét.
+A műszaki delegált (Technical Delegate, TD) ha szükségesnek tartja,
+megváltoztathatja a PSS szintjét.

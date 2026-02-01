@@ -1,2 +1,8 @@
-Three (3) points for a valid kick to the head
+Érvényes forduló rúgás pontot érő találata esetén a megadott pontokat
+meg kell duplázni, azaz:
 
+Négy (4) pontot ér az érvényes forduló testrúgás,
+
+és
+
+Hat (6) pontot ér az érvényes forduló fejrúgás.

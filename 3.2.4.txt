@@ -7,4 +7,6 @@ méterre helyezkedik el. A 3. számú pontozóbíró helye a 8. számú határvo
 Két bíró esetén a PB 1  helye az B-1 felezőpontjától minimum 2 méterre, a PB 2
 helye a B-5 felezőpontjától 2 méterre helyezkedik el.
 
+Egy bíró esetén a PB 1 a bírói és videó zsűri asztalnál ül.
+
 A pontozóbírók pozíciója megváltoztatható a közvetítés megkönnyítése érdekében.
