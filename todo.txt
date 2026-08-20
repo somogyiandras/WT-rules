@@ -10,3 +10,5 @@ a regisztrált pont: amit a PSS regisztrál
 érvényes pont, amikor érvényes találat van és regisztrál is, stb.
 
 
+A versenyterületek ábráin a monitorokat kisebbre tenni
+

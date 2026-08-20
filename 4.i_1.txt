@@ -1,4 +1,4 @@
 A kor meghatározásakor a születés évszámát veszik csak figyelembe, a hónapot és
-napot nem. Például: ha a junior bajnokságot 2012. június 11-én tartják, akkor
+napot nem. Például: ha a junior bajnokságot 2013. június 11-én tartják, akkor
 az 1996. január 1. és 1998. december 31.  között született versenyzők
 indulhatnak.
